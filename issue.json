@@ -1,13 +1,17 @@
 {
   "date": "2026-10-18",
-  "updatedAt": "2026-10-18T17:22:24.131655+00:00",
+  "updatedAt": "2026-10-18T17:25:35.076654+00:00",
   "note": "Автоматический выпуск по русскоязычным RSS-лентам Google Новостей: приоритет темам из нескольких изданий и позиции в ленте. Это не рейтинг репостов. Ссылки СМИ открываются через Google Новости.",
   "world": [
     {
-      "title": "В МИД РФ призвали руководство Албании не перекладывать вину на других за протесты в стране",
-      "summary": "В подборке публикаций: Интерфакс, BBC, BFM.ru. Подробности и разные версии событий — по ссылкам ниже.",
+      "title": "Нет уж, Эди Рама: Захарова послала Албанию расхлебывать проблемы самостоятельно",
+      "summary": "В подборке публикаций: EADaily, Интерфакс, BBC. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
+        {
+          "name": "EADaily",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRG5vcm10ZzdiY3NhN2xIY19kTHVjZllEdlp1SXlITUNJcEZVRkdPcHNya3B3aDkwY2RLcEwzelU4ZUJNc245NEwzeTU0bGpPd2JiWVJjbXhwaDRPLXpTSmFUeXBzQWZMOE5sNkdDc1Q5Y0lOd05vSE5BSExkWkZTeDltb2NwdXdTRlo2M1BCSG84Vy1CQlY5d3EyX3JmRnRPQ1B2c0dlOTZ0dnFkNkFDWGNzR183MFJl0gG8AUFVX3lxTE05UGZsYWpvRUFmWU1scnRWUEtXaF9TNDNNMDdfejhKbzFlU2pKM0VtQ2RFbEd3SUpfS0trS2MycHhveG1DOWYwTUU1M2dhODM1Vzc4amU4VGtFVmZ2emp0b0FhcHBFVzI1dDJtVlhvQjVTQXlYeDFEX1EwNzZQNWxIdHFWcVUwS1N0VE9KSmhYMlh2YUlMZzZRc1BTYldSTVMwV3lkeENDM2tsdG9WWkdXM3pILVJwTVlDeEQ3?oc=5"
+        },
         {
           "name": "Интерфакс",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qOFVCaXRNVXgtZGVKdUEya0FPRUpPY0wwWmZiMUdNYkhZNjFJSkdSeE9KT1Z1amUwdGRMa2pLUk4zdUtZWURudExCUDVEUdIBS0FVX3lxTE0wYmk4MXV5MHVsLVZPcnRyRERKd1kxTkJWUEVtNkxycmZMOUVkeTRrbUZRYTVZR1NhSzY2LW9sdzB1SEZ4YWozemVQTQ?oc=5"
@@ -19,19 +23,19 @@
         {
           "name": "BFM.ru",
           "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBsMkItZU53RmJTUDdPR05kbHB3N20wM1ZMb3U3Q3dyc01YdXNWZ0pTTzdsbWRMaDFYR0FGMkVEbklWeS1n0gFKQVVfeXFMT1FSbm1LakJudWpmdVQ5b2k5dlR5a3NyQjVWY3N6RUV6QXAwdTMteVg5SGVpQ2czVzlZZVp2OVhFdkNpNzdkSFFsM3c?oc=5"
-        },
-        {
-          "name": "Настоящее Время",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU01jZ0dpZDdWbHFhMFBlV0t5NzhqblFHV1BZLWZ1WDJTR0ZWWEFRLTV1RGhfZUp1NE5ld1VlR2J0Z0FacHRjczJXU0VkemFHOU1jY25sQWFweEJCa2ZVa0ViWDJjam42TW55M3d6cnVvU3BxSHEzaXRsSDV3MG81UTdsOG15dktLWkNFSURfTEF4MkcwMERDSk1LS3UxR3ZZRTRKX9IBpwFBVV95cUxQVnNDeFlfQXQtelc4bjRyZFllMkZZSGdFNXlpUkEwbGk0NnFOWHhiQktNMEx6NFdQZ1Rqa3lqcEZEbk1VR0VjRU1FMmxOOGxDQUJfa21Iam5zMHgxVERlYjAxejZZc3pCTTdicVRkUUF5V3FJVlZJTzVWYl8tUjUzSURrcTl2UFliWjB4djNuREo2cXNkcl9vakxYTWw1T0REaTYxMlFSVQ?oc=5"
         }
       ],
-      "publishedAt": "2026-10-18T13:01:00+00:00"
+      "publishedAt": "2026-10-18T14:24:00+00:00"
     },
     {
-      "title": "Крупный пожар на военной базе в Канаде: несколько человек погибли и получили ранения",
-      "summary": "В подборке публикаций: BBC, Радио Свобода, The Insider. Подробности и разные версии событий — по ссылкам ниже.",
+      "title": "Семеро погибли, десятки пострадали при взрыве на военной базе в Канаде",
+      "summary": "В подборке публикаций: EADaily, BBC, Радио Свобода. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
+        {
+          "name": "EADaily",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN1dHRFZMcGpDTEpkeHJuM3puLXF0Z05RNENRcm5XZWUxWWpQMTNjSzdWVlFCTktpRTF2UTlHSDVMaFJpYkU5Wk13d0N3bGE0b2ZWYUhQVkN5dkJINGlBbHNlVVJRM1VOcmg3VFZNYk1iV1EwU05MdW5RZ0x5NUxTbF9BdFhtdmRhS25STkUtWUwxeUhtQTJ5Mzh5QkhRdHBBU05mUGhrNHZScmNhdVl1RWtRONIBtwFBVV95cUxQX1o0RmZEUG9OVmlISkl0UXBPTFA2Q2RmUUpTWU5PNW51c19UbUg1blpJZUtyTlhXeTNPN1Zjb0EwVm1pWjNhZ29maXN5VFY0WUJ3Yml4ZzJUMjJoYmNHVGd1ZHRWamZmbVdUSUZhRVl3dkRjZ1hFWEd3a2FSRHpVQ05wdHhtcE9wejRUSlJpY09EMlIxZkdsaV9Ob0s0NmktN3NWUnU4S0I1Sy1TMnpERTFBbUpnRU0?oc=5"
+        },
         {
           "name": "BBC",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83YUNPaVNiekgzYm9jRTVaUU5XdlNpVmdkRWR4QThIMDMwaTZTY1RHNFJaVFJVbUxRNm5UckN0anlHZ0ktNUVxYjZkQlR6TnVYSUV6ek1JSG1VZWhCSUZR0gFkQVVfeXFMT01wUFdyZkkxTWxmUmlBV0VGZTQ5cGJWUHB0MkJtQjJ6OWF0SktUSWxoa3AwU0FTNXZHU2t1d1VGQzFONm5HQmNGOEpaclltZWVnQm1mekhmcU42R2ZXZmVHeEdyRw?oc=5"
@@ -43,13 +47,9 @@
         {
           "name": "The Insider",
           "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB2azM3YUVEdXNtNlVVRGdUY0NZS3BhaTRpeW5WdVVFMi13bG5SNklMSDdWWkIxcEJmNkt4V2VGRy1aYzQ?oc=5"
-        },
-        {
-          "name": "Интерфакс",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NZjB6ZldrRFV3OUh6SjJ3ZGdsRWhmOHg3RWpkdFpaLWlKYWpmX0N1cS1ocjBzczV2eERlSTRkUzROTEJvMjVMZ0QwUWxfZ9IBS0FVX3lxTE1fZVktcEFPU2ZzeVRIQjZNdGdUaVBhRTh2Wl91QVI0bmhCNU9LTVRTcmVSUkItU0I5LTVkczJTRjFvR1BoVmt5VVVFNA?oc=5"
         }
       ],
-      "publishedAt": "2026-10-18T12:52:37+00:00"
+      "publishedAt": "2026-10-18T07:44:00+00:00"
     },
     {
       "title": "Италию вслед за Францией охватили митинги и беспорядки",
@@ -100,28 +100,28 @@
       "publishedAt": "2026-10-18T08:27:26+00:00"
     },
     {
-      "title": "Парламент Ирана утвердил в должности нового министра обороны",
-      "summary": "В подборке публикаций: Интерфакс, Ведомости, DW.com. Подробности и разные версии событий — по ссылкам ниже.",
+      "title": "Глава американского Минфина обвинил президента Украины во лжи",
+      "summary": "В подборке публикаций: Lenta News, ВФокусе Mail, Ведомости. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
         {
-          "name": "Интерфакс",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56TVBzdklnTDR4MkFObnptTHNscHJTSWNpd2dXWDFISjd3UW9WWWlGZFFZRGl3ajBQWk5nZFVCWTVhSFBxbFpqQ3UtZk9uUdIBS0FVX3lxTFBaQUNTbHhOSTVyOXljMExlSWJEVUZOa1ZPa0FUZ0xwSVlGaDBGRWl4WFE3MHB1TmtKMkVtTnNOQkRpWHN0WW5Xa2xtYw?oc=5"
+          "name": "Lenta News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0xITzJWc1h0ZmlQM08tb0NzSXJybkZRcHFndXhwN2RiVXVTbUFkXzF6b0RNaFdFM3FIYjRVMzRyM3BEM2tOMjlCdzNjRW1pWWpHTHRmYTMtVFNHb2tSSXBiRG9UU2pnOS05SzdHTlN0R19ScjhmdWp1anppYk82RkNXTTVFLU9hdkR3d0t4R0w5U3VpMlJmbVNLcy00UzTSAaQBQVVfeXFMTlBCZm5XV0NVOVdnY1I2MklVRjVRTEk0MHQzT2tuOUdGbWhHcW5BaTY2Q25EajBNcklrMlIycDVpZFdMb1ozdDY3MTJkSWJLakJTM3B4VGhEeXhCWnVFcnpra3QzQW5QVzZXeURMa091My1RcmlITWFmbmpVbzV5YldzR3NJNTVqeE1pMFR0MnFKVWplZGhwXzVXVDlzbVNwbzItLUg?oc=5"
+        },
+        {
+          "name": "ВФокусе Mail",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd0x0WEtYWUFSdWNmZUpnMVNVci1xei1pYlBlZXV2V1hFbUVWVl9iczYzeTVaSGZHYkltb1AzbHJab0ZWN1FHOHgwOS16SWl3QU9DSFlaT05kV1JHbkZ3eTMyRkg4WmFzY2xjNkk2V2xZLVdyU19zWnBfSGJNZmZLdFd5U25yb0x2a3BKRk03TllRRmZtaFBWd0pHZW1PdXRUREI1NjBTVUZVc0xM?oc=5"
         },
         {
           "name": "Ведомости",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMWtiYy14azNhT2EzRmxTS2tiNlVYOEpLOUl0eHRVS1NBWk1UejhRU0s5UXZMZ2piTnd5ZW1SbV9XMlBQVFhFOVAtOHB1VnZibUhOVFJwLW00cTFpcjNnVnAyczJHMEcyQXhpc0N3dXY5eW1wUFE5SFMwTHo4bTN6VEtB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRE9kcG5LRG11azl6YTVmVk5uWTl2Z0FZLWlrcURpUVhCRHRFMHNVdTgxYjR1M1FMSmdxMVIyQ3FkSDY3MlJTRF9SVlJudXUzZVduZGV3a0x1cU9BU3k2RG5SYThOX2p1cWxLM3VGblRhV2xoWmJHRDFUXzN3TU5KVmZ4MGphbC0zb2c?oc=5"
         },
         {
-          "name": "DW.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd2hReV9xbzk5SVlNOElNeTE3Rk9sZDNlOVZnQ0lrQ1JQbkw5RDgxNEdoNjFwS215aG9JRHF5TWQzUzZoSUc3QS1nTWx1UXNRWFl3bXdXUTRzajVuZFlyRmxEc0ZZNUxWMHl5U3A2UG9IYk1mNEZIb0J5WXY0bzM0MXFqakFBVzNVS250YnFkdkVyaUp0X3BRU2sxUWl6N0VuS09IQ09RVmRjbnRDZGxV0gGvAUFVX3lxTE1vUUpwV2YxWFVVYmV6czF2cHF0d0xGN0dSX2xJQUpXNUJzVlpHWlhwWXVrRGYxdXM3SVhqalB6WTRoSk9fU2N0cHJrZzlJbWNXOGJpcUtYdFVLVUJmb29fblgtVzd6TDZZcW1mTTFBaWEtSW54b0pxN3poWVFKbHVobmxHeGZNU2xlbDVrdEhQUmZFMUFSTENFOXY2T0RfRGcwdWthRFhTWnRxS1ExTWs?oc=5"
-        },
-        {
-          "name": "Вестник Кавказа",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRkZYOGV1b05udVlzQnQyTTF5c3RWbFYwQkVoVDhzVDNSRkpwUm5kY1hySlY1RGRkN25wM2hyajREVlJRaVFweUVYRXRFVWpiUlZEQ2lfQlV5SzJFTHNKNzN5cDY2RUdrRUl6N2RQRFgydGFtOW5LX1l6SnhDZlZnN9IBSkFVX3lxTFBLaVFFSkJMQzZuWnpmUlJfcUZ3WVVEczlMOVg4UWlETUZhMWoxWm5DQlduci1pNjVwZEVvTE92TTdfV1YyeVY0cGpB?oc=5"
+          "name": "Росбалт",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOblViYnV5WEFvc2s2S1RzN2R6U1ZmcU9saV9kVy1HcHkwSWpqZXFySHhHQ1YyV1RsWVlPV19FWEpGVHVtZjdaZ2VuQjFLdFNsbWU3NThYSkswV0d1eDVPY2NvU0w2OHoyLWl2SzJOdGhMNDBJTmtneE1vTU53Vkl6NjMybWZUbFRKOU8yTV9MNTUtSUhp?oc=5"
         }
       ],
-      "publishedAt": "2026-10-18T11:41:00+00:00"
+      "publishedAt": "2026-10-18T15:33:15+00:00"
     }
   ],
   "russia": [
