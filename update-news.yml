@@ -1,0 +1,44 @@
+name: Daily news at 20 Moscow
+on:
+  schedule:
+    - cron: '0 17 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: news-publication
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Collect fresh issue
+        run: python update_news.py
+      - name: Save issue
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add issue.json
+          git diff --cached --quiet || git commit -m 'Update daily news issue'
+          git push
+      - uses: actions/configure-pages@v5
+      - name: Prepare public site
+        run: |
+          mkdir -p _site
+          cp index.html issue.json .nojekyll _site/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Deploy fresh issue
+        id: deployment
+        uses: actions/deploy-pages@v4

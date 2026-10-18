@@ -1,1 +1,249 @@
-{"date":"2026-10-17","updatedAt":"2026-10-17T08:20:00Z","note":"Первый выпуск: подборка по доступным публикациям 16–17 октября. Социальная вирусность не измерена. Следующий вечерний выпуск — в 20:00 МСК.","world":[{"title":"США отложили часть новых санкций против покупателей российской нефти","summary":"По сообщениям СМИ, Дональд Трамп пока не стал вводить ряд мер, предусмотренных «законом Грэма». Возможность вернуться к ним сохраняется.","category":"Политика","sources":[{"name":"Коммерсантъ","url":"https://www.kommersant.ru/doc/9040992"},{"name":"Интерфакс","url":"https://www.interfax.ru/world/1123136"}]},{"title":"СМИ сообщили о пожаре на танкере в Ормузском проливе","summary":"Интерфакс со ссылкой на арабские СМИ сообщает о подрыве нефтяного танкера на мине. Обстоятельства происшествия требуют дальнейшего подтверждения.","category":"В мире","sources":[{"name":"Интерфакс","url":"https://www.interfax.ru/world/1123136"}]},{"title":"В Конгрессе США предложили заблокировать дизельную сделку с Россией","summary":"Внесенный в Палату представителей законопроект направлен против договоренностей о поставках российского дизеля. Внесение документа еще не означает его принятия.","category":"Экономика","sources":[{"name":"Коммерсантъ","url":"https://www.kommersant.ru/doc/9040992"},{"name":"РБК Украина","url":"https://www.rbc.ua/ukr/news-today"}]},{"title":"Brent достигла отметки 110 долларов за баррель","summary":"Как сообщает утренний обзор «Коммерсанта», декабрьский контракт на Brent превысил эту отметку впервые с мая.","category":"Рынки","sources":[{"name":"Коммерсантъ","url":"https://www.kommersant.ru/doc/9040992"}]},{"title":"Марко Рубио начинает поездку в Узбекистан и Индию","summary":"О начале зарубежного турне госсекретаря США сообщает ночная лента Интерфакса. В маршруте названы две страны.","category":"Дипломатия","sources":[{"name":"Интерфакс","url":"https://www.interfax.ru/news/2026/10/17/"}]}],"russia":[{"title":"Собянин сообщил об уничтожении беспилотников на подлете к Москве","summary":"Об отражении атаки сообщают Интерфакс и «Ведомости» со ссылкой на мэра Москвы. Ситуация с ограничениями полетов меняется; перед поездкой стоит проверить свой рейс.","category":"Общество","sources":[{"name":"Интерфакс","url":"https://www.interfax.ru/news/2026/10/17/"},{"name":"Ведомости","url":"https://www.vedomosti.ru/archive/2026/10/17"}]},{"title":"Новак оценил нехватку бензина на российском рынке примерно в 5%","summary":"По словам вице-премьера, компании увеличивают выпуск и импорт топлива. Он описал рынок как напряженный, отметив улучшение последних недель.","category":"Экономика","sources":[{"name":"Коммерсантъ","url":"https://www.kommersant.ru/doc/9040696"},{"name":"РБК","url":"https://www.rbc.ru/economics/16/10/2026/6ad27d78078693a0b18b70cf"}]},{"title":"В Петербурге проверяют подозрение на оспу обезьян","summary":"Роспотребнадзор проверяет возможное заражение. Интерфакс сообщает о пяти госпитализированных с подозрением на инфекцию; подтвержденный диагноз в этой публикации не указан.","category":"Здоровье","sources":[{"name":"Ведомости","url":"https://www.vedomosti.ru/archive/2026/10/17"},{"name":"Интерфакс","url":"https://www.interfax.ru/world/1123136"}]},{"title":"Валиева снялась с первого этапа Гран-при России","summary":"Об отказе фигуристки от участия сообщает спортивный обзор «Ведомостей» за 16 октября.","category":"Спорт","sources":[{"name":"Ведомости. Спорт","url":"https://www.vedomosti.ru/sport/daily_digest"}]},{"title":"«Ведомости» сообщили о планах запретить p2p-переводы криптовалюты","summary":"В публикации за 16 октября говорится о запрете с июля 2027 года. Это сообщение о будущих изменениях, а не о действующем ограничении.","category":"Технологии","sources":[{"name":"Ведомости","url":"https://www.vedomosti.ru/archive/2026/10/16"}]}]}
+{
+  "date": "2026-10-18",
+  "updatedAt": "2026-10-18T17:22:24.131655+00:00",
+  "note": "Автоматический выпуск по русскоязычным RSS-лентам Google Новостей: приоритет темам из нескольких изданий и позиции в ленте. Это не рейтинг репостов. Ссылки СМИ открываются через Google Новости.",
+  "world": [
+    {
+      "title": "В МИД РФ призвали руководство Албании не перекладывать вину на других за протесты в стране",
+      "summary": "В подборке публикаций: Интерфакс, BBC, BFM.ru. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qOFVCaXRNVXgtZGVKdUEya0FPRUpPY0wwWmZiMUdNYkhZNjFJSkdSeE9KT1Z1amUwdGRMa2pLUk4zdUtZWURudExCUDVEUdIBS0FVX3lxTE0wYmk4MXV5MHVsLVZPcnRyRERKd1kxTkJWUEVtNkxycmZMOUVkeTRrbUZRYTVZR1NhSzY2LW9sdzB1SEZ4YWozemVQTQ?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLMUhOSGt2Q3lBTnlNQTRCZmJkTHF5blBob2VxWXR2dW5SMkh3N2ZlM3ZUYkhYc200RF9rV1RwRTZXaWJKZ3A1XzdPeFRaT18zQlhIMlN4TVJOajdzVUVr0gFkQVVfeXFMT2VFdURIbHE3VHNzNGd3RS1aSUZoSWxKVVlLOUNmemd0ZGU4dVNOUWstYVVLaGxtNUktb3QyMzVrQ29vN2FObWpyeW1fcGhxb0c1R3hNNGh0WHJudVVLbG9QM3dDMw?oc=5"
+        },
+        {
+          "name": "BFM.ru",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBsMkItZU53RmJTUDdPR05kbHB3N20wM1ZMb3U3Q3dyc01YdXNWZ0pTTzdsbWRMaDFYR0FGMkVEbklWeS1n0gFKQVVfeXFMT1FSbm1LakJudWpmdVQ5b2k5dlR5a3NyQjVWY3N6RUV6QXAwdTMteVg5SGVpQ2czVzlZZVp2OVhFdkNpNzdkSFFsM3c?oc=5"
+        },
+        {
+          "name": "Настоящее Время",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU01jZ0dpZDdWbHFhMFBlV0t5NzhqblFHV1BZLWZ1WDJTR0ZWWEFRLTV1RGhfZUp1NE5ld1VlR2J0Z0FacHRjczJXU0VkemFHOU1jY25sQWFweEJCa2ZVa0ViWDJjam42TW55M3d6cnVvU3BxSHEzaXRsSDV3MG81UTdsOG15dktLWkNFSURfTEF4MkcwMERDSk1LS3UxR3ZZRTRKX9IBpwFBVV95cUxQVnNDeFlfQXQtelc4bjRyZFllMkZZSGdFNXlpUkEwbGk0NnFOWHhiQktNMEx6NFdQZ1Rqa3lqcEZEbk1VR0VjRU1FMmxOOGxDQUJfa21Iam5zMHgxVERlYjAxejZZc3pCTTdicVRkUUF5V3FJVlZJTzVWYl8tUjUzSURrcTl2UFliWjB4djNuREo2cXNkcl9vakxYTWw1T0REaTYxMlFSVQ?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-18T13:01:00+00:00"
+    },
+    {
+      "title": "Крупный пожар на военной базе в Канаде: несколько человек погибли и получили ранения",
+      "summary": "В подборке публикаций: BBC, Радио Свобода, The Insider. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83YUNPaVNiekgzYm9jRTVaUU5XdlNpVmdkRWR4QThIMDMwaTZTY1RHNFJaVFJVbUxRNm5UckN0anlHZ0ktNUVxYjZkQlR6TnVYSUV6ek1JSG1VZWhCSUZR0gFkQVVfeXFMT01wUFdyZkkxTWxmUmlBV0VGZTQ5cGJWUHB0MkJtQjJ6OWF0SktUSWxoa3AwU0FTNXZHU2t1d1VGQzFONm5HQmNGOEpaclltZWVnQm1mekhmcU42R2ZXZmVHeEdyRw?oc=5"
+        },
+        {
+          "name": "Радио Свобода",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmRrcDdaNlNLWGxmMnI0cURYcVMtb3dNc0JtTnNvSkVHSk9QRUx4Y0dOVFpPdWRwM2JZU1RxM1M1ZWR1ZTE5d0tuRmNkaGNYRm9xcW1kZmhqOFllYUJSdVlxcjRyWDM3Qlg5UlpManpKcWN2VlEzWDhGS09mUDN3andGU2xCZzk5by12OHExUzRtMFdKVXNpaTZFeHZmVU5HLWfSAaQBQVVfeXFMTl9zaDBFbVczNUtBOU0zOEVhN1M3dFpDaGJGZEx4ZDFyRGZSMkFrcEpCdm8yamtKSUtWZzBaRktTLXI4aWNqX0ZIOFpWOHJMSkg1ajBXVmpKZmVVSmZSamk3UWpfc1o3YTNKVmhKMFk3YWk2RFFPOFJDc2Q3d1VEY011OUtlclM0Z3c2TjBDS0Eyci1oNHBZa1FRbF9odjZRUXkwNkU?oc=5"
+        },
+        {
+          "name": "The Insider",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB2azM3YUVEdXNtNlVVRGdUY0NZS3BhaTRpeW5WdVVFMi13bG5SNklMSDdWWkIxcEJmNkt4V2VGRy1aYzQ?oc=5"
+        },
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NZjB6ZldrRFV3OUh6SjJ3ZGdsRWhmOHg3RWpkdFpaLWlKYWpmX0N1cS1ocjBzczV2eERlSTRkUzROTEJvMjVMZ0QwUWxfZ9IBS0FVX3lxTE1fZVktcEFPU2ZzeVRIQjZNdGdUaVBhRTh2Wl91QVI0bmhCNU9LTVRTcmVSUkItU0I5LTVkczJTRjFvR1BoVmt5VVVFNA?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-18T12:52:37+00:00"
+    },
+    {
+      "title": "Италию вслед за Францией охватили митинги и беспорядки",
+      "summary": "В подборке публикаций: ФОНТАНКА.ру, Meduza, Ведомости. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "ФОНТАНКА.ру",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ockMwRlAweG94akFaS0c2dElpTHNCU0g0STY0UUMyTGY0dnk2c0w5ZE9KeFhnTV9zZU04OVotUmVxUjhtcFdSQUhYN1NrRV81Z3VVaEZyTQ?oc=5"
+        },
+        {
+          "name": "Meduza",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa3JCRTZqZnE0V2hvUkNuMDlCZGgwbkx0WEtPdUxtVnRBVndYYjVPU3ZhNWg3R3pycXZJTmlRenY3VzVZaGk4VDhsMVljN18wMVVsYU45Tjc2ZmpnYVVqdzkxNTZidHBYT2dlY1I1ODM3b01ORk5wUGdGenNjbThlTjlFWTh0a3ZSRl9uMnNFaWt0UUNmWlBiRzhnX043ck1qUTRXWk9KRm5KalJmcTBQVmJNZjdsQ2JUbkRyUjZnZUl2NFJwdG1PUzVzTzFMVUJrTFYxOEpoOEhsQdIB3wFBVV95cUxOelpLLWlrNkZJdUI3U3V1NkhFbGhvcE1ySWRfT3RST2FNUjVYOHJNbGt1SW5zbW41c0FwSlR6MzJDUy03Qzl2MHNZa3llX2xnVHlFWWFoOFFuZVYtVWdHa1l0Y1dhYjRBUkY2bU1uclozX214SGpNaFl3VmlNLXJ2UUNWOTEwOHYxMzRoSjljQTlPVURMLXY1aUNMWGo3M0U4RXd1R1dkMTFGRHZjekRrajkyZHM2R09acXBhUWhjWGpNdWFEYTluSktRNXlFTkh2TmFtd1hlUmxoMUVqLVhj?oc=5"
+        },
+        {
+          "name": "Ведомости",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9za2NwRmtNckVCNVlfSWc1V0VUTGZiVzJVdUcyRnpaS2RsVGxScnFrWTg0Z3Q2Mm5MdWQ4YmR3TlkwVHpnMHlHa0k3Y3dORThLamxNdUh3TlVQSHI4SXdmNDI5RURfWmRNUzNJOElEMFdKUmwtMG4xMg?oc=5"
+        },
+        {
+          "name": "BFM.ru",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5IRGwtQUMyOWRCekYzVEJKa1p6eF9ZQXROdldGZ3ZrRzkxcnA3MkRScTJVQjJhUlFTR09LMHpBVHFRWkw00gFKQVVfeXFMUDRWYnlTQmlqTWUtTlVKNjhVQk02X0FqZWJ3Z1BnR1lwVHBUOE11NFU2R0hXazhkenZvdFdwcUFHM3o3cGxwRkVucnc?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-18T15:27:00+00:00"
+    },
+    {
+      "title": "В Литве из-за возможного беспилотника подняли авиацию НАТО: жители одного из районов слышали взрыв",
+      "summary": "В подборке публикаций: Клопс - новости Калининград, Радио Свобода, RTVI. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "Клопс - новости Калининград",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcGhqVXpSNURDNkd5aDlrLUZNaHdwMV9rSWRnMF96dGpwMzBmRDNlYWpYWmE5OEx0akZTY1habXlmSF9MTFFwYnh2QnZCY0N5VUZjeFhxUDlvYUxndDF0cUd5LVBVYWNybUREWC1zMUFFT191Zm5fbjA5US12QV9QaHNrTGNxb001ZHdmNTExamJpOG0wOGlRV0ZyUGU1NTg1VUJFMFFwbkdld1lPN3JMaE9UclhLWG9sZkpLbHh1QlV3VUVBTE9ndTdUX1ZsYmhZMllncFNGTzU2eHkxTy14NDdpVVphV3Vu?oc=5"
+        },
+        {
+          "name": "Радио Свобода",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaDdMaktsOUJfVFExYWpKdmY0cnJDMThFbFlIMWpzZ20zYUZKMk5sMmxnNWNKNXBFcnhIbUFsZGxSSlpsalNPY2EwU2xrUFJTdk9zbzZZR3c1WTlKTjFXR0EzeTZGTU42NGRHZzF2X21ieHFVOGl6ZVJnb3dLZTdBenNkVUx2bXdYYlRDNHJLTnEyZmVsaFdnRjlSb9IBngFBVV95cUxQblVES3A1RFpoWGJhNEYxUkw4UFlDYlFJcGpsTFlhaFlfSk9rME5BTEFsY3dzbGpheGwwc0RtT0U2MzA0Yk5PUGxFSjNwc3h3MFU5RGNnYTEyQWEyVVpuNFVkQVFNUHIyTkh5Uk1jVElPVzkzZG5xVlNBTkVRQ1NUQVJJSkszZGNUY2lNWGp6Q1F2VkxhT0gtRnN1Z0w4dw?oc=5"
+        },
+        {
+          "name": "RTVI",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQckpWNUxQTGptYi1WUnpDS0Z0Rk9idmZWTnl2amEzeE1wVVc1S3NIam4weG12Z3RTY2p0R3NoZUVLZk9zUmVCaFQyZWlTeHE1X3VBWVhSSFRBdWRKNUdIQ3JDa0hLYTI5eVRQUzU1cjNpb1gtc0NVRi1nS1dMTVhmVHJCVDU?oc=5"
+        },
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiWFJubV9hdTJMaS1iZ3J3TkVxNmcxcEQ1X3ZCeElqeS1pOFUwWGJFTEJBMzd6aHBBN014NU12QVJDZnVkQmhKejVuaWFLZ9IBS0FVX3lxTFBvYUJSNGVzWjlFV2o1SDNIY3hhV0FScWN1T0lqNGVCM3pOdFJBVTh5X1pSdGZiN3lOSWkwZVB3NGhSMnVuZFNQalFOdw?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-18T08:27:26+00:00"
+    },
+    {
+      "title": "Парламент Ирана утвердил в должности нового министра обороны",
+      "summary": "В подборке публикаций: Интерфакс, Ведомости, DW.com. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56TVBzdklnTDR4MkFObnptTHNscHJTSWNpd2dXWDFISjd3UW9WWWlGZFFZRGl3ajBQWk5nZFVCWTVhSFBxbFpqQ3UtZk9uUdIBS0FVX3lxTFBaQUNTbHhOSTVyOXljMExlSWJEVUZOa1ZPa0FUZ0xwSVlGaDBGRWl4WFE3MHB1TmtKMkVtTnNOQkRpWHN0WW5Xa2xtYw?oc=5"
+        },
+        {
+          "name": "Ведомости",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMWtiYy14azNhT2EzRmxTS2tiNlVYOEpLOUl0eHRVS1NBWk1UejhRU0s5UXZMZ2piTnd5ZW1SbV9XMlBQVFhFOVAtOHB1VnZibUhOVFJwLW00cTFpcjNnVnAyczJHMEcyQXhpc0N3dXY5eW1wUFE5SFMwTHo4bTN6VEtB?oc=5"
+        },
+        {
+          "name": "DW.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd2hReV9xbzk5SVlNOElNeTE3Rk9sZDNlOVZnQ0lrQ1JQbkw5RDgxNEdoNjFwS215aG9JRHF5TWQzUzZoSUc3QS1nTWx1UXNRWFl3bXdXUTRzajVuZFlyRmxEc0ZZNUxWMHl5U3A2UG9IYk1mNEZIb0J5WXY0bzM0MXFqakFBVzNVS250YnFkdkVyaUp0X3BRU2sxUWl6N0VuS09IQ09RVmRjbnRDZGxV0gGvAUFVX3lxTE1vUUpwV2YxWFVVYmV6czF2cHF0d0xGN0dSX2xJQUpXNUJzVlpHWlhwWXVrRGYxdXM3SVhqalB6WTRoSk9fU2N0cHJrZzlJbWNXOGJpcUtYdFVLVUJmb29fblgtVzd6TDZZcW1mTTFBaWEtSW54b0pxN3poWVFKbHVobmxHeGZNU2xlbDVrdEhQUmZFMUFSTENFOXY2T0RfRGcwdWthRFhTWnRxS1ExTWs?oc=5"
+        },
+        {
+          "name": "Вестник Кавказа",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRkZYOGV1b05udVlzQnQyTTF5c3RWbFYwQkVoVDhzVDNSRkpwUm5kY1hySlY1RGRkN25wM2hyajREVlJRaVFweUVYRXRFVWpiUlZEQ2lfQlV5SzJFTHNKNzN5cDY2RUdrRUl6N2RQRFgydGFtOW5LX1l6SnhDZlZnN9IBSkFVX3lxTFBLaVFFSkJMQzZuWnpmUlJfcUZ3WVVEczlMOVg4UWlETUZhMWoxWm5DQlduci1pNjVwZEVvTE92TTdfV1YyeVY0cGpB?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-18T11:41:00+00:00"
+    }
+  ],
+  "russia": [
+    {
+      "title": "БПЛА атаковали дата-центр VK в Ленобласти",
+      "summary": "В подборке публикаций: Интерфакс, Meduza, BFM.ru. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tWjhGbG56OHNYT3g3eGhiM1A5WkdabXpKei0wclRLdm5CWldKLTQ4OWV1NjF3X3VSYWhGdHJjQ0J4Y29Yb3dubmZ0Ni1OMlXSAUtBVV95cUxNLWpXc2FRM3dWeGRaSHFfd3hEdFlvbDlab1F2VjFZQ2tQdDBnZUp3MzNIckFjRjZUcEdWS1QtcnVScDZoWnlaM1hia28?oc=5"
+        },
+        {
+          "name": "Meduza",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU05QVGRTREhidmlhYmYzQ1pBbXNYLWduNUFvZ2RtRl9Mdi1CUU1SYnVZSGd1VUQ4U1FCRzQwaWNXMEdoNlpXUWhhYkZSQTFEYThlRmlOMWdMdmhjc2pMX00xa1ZESndFRGRxaFZPVXpKR29UT2RTU3lRTDVMd016ZmpPYjY1ZUlPSDdXNFdUSGFuMkw1bFZJenJ5ZnRscEFLb3lCTnFKZzFPWkFTMmV4YjRzM09VMFgtRFVYWndsVlhScEdhRFQ2MWE3OE05enB1eDZidF9pXzZmQzFQOGdMRmdOSFZJQdIB6wFBVV95cUxQaTEyT051ZkZGRFhhUDlqUFlmbHlzcGl3czZ3a2h0ZThuZHpxb3RRSEdYdjltTzUtbmw1U29xOFhwS0RESjRRSHdHODVxYWQ0d24wOEVTNm0wN2RjMkFyaVdaekhjNElwbzRtZXFiYnRuMERYRVU5M1ZGcGtwVWZVQ2NBWTctUVowNGYzNWZjeENKOU4zOWplSHRwRmZxdi1BdXhfWEJySjdrdGNWTUc4Q1NXQVpiSWNXa1lwcmZnMG9MV2tmSVoxRVF5VWpER2FCVFFocS1rQU93TjYtdDFjZ01pQjNjQjVJWWtn?oc=5"
+        },
+        {
+          "name": "BFM.ru",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBKcGs5WFR6RzRtSnctUTFxX253RjdqSWpsTDdaU1JGMVpoeHpLWUdPU1BUVlMydDdNS0czZ1pla3ppYWJ40gFKQVVfeXFMTkFZc3A3b1VybUFfS1BnVTBLUWRsaTRHNWgzWkgtOGJtWjRJS056a0tEakNzREc5WXNVOVUxdG80WklxNDNWTWZxZUE?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02dzRkOHJmQUN2SXJZTTVBRTJRVGJtcTFKT2VyNTVyT09aZVFuNmJtQmdhYldWN0pyMXVwb0ZRNjJFblR3MVE5ekdndkZfemxiUUpscjJURFVMYmRWTG5V0gFkQVVfeXFMT2stUVZoMWRkb3g3YkxRTDdFN01pcnRtU3NHWDN3dld1dlZINkRIazd4bnNZdDFQbnhBblMzUldtQVBDeTNoeUlvR3dIQVU4aVg4ZGJpbDlvVEczak1MWWwyN0wxMw?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-18T02:45:00+00:00"
+    },
+    {
+      "title": "Песков: атаки России нацелены на снижение ударного потенциала Украины",
+      "summary": "В подборке публикаций: Ведомости, dp.ru, URA.RU. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "Ведомости",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nZG93MWV0RDRkZ1BGalFIaU9OY2hhakZnZWtnN2hZcXhJdUpVZ2lZQzl5eFJkVzExSWN2bFNoQ3ZTM3BMUlRlbUpoUmFJVGo3Mjd2NXRGazlpOHNRYWYtUGRWVl8xRnhiU0ZpdENHcHNnR0QxMnZBd09n?oc=5"
+        },
+        {
+          "name": "dp.ru",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1maGtvalFEVGRwLTJPUVowX09PbWZzRl9JWWhzbGJWaFlPNC1XOXh5TDdzZjE4bktaUmt5b2Z4aHZFNUNmaDdHRk5HbFMwd3ppeEpKSVFlZWJnQ0owcm40YW1LVWc4Zw?oc=5"
+        },
+        {
+          "name": "URA.RU",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5hTUNwQmwtWlNEaldTRmJKTDdCcEdka0FLS3luZzNmb0pUUHNDalBWdF9LazJEUmZ5Y3FTN2t0aTNTMVJtbFkw?oc=5"
+        },
+        {
+          "name": "Эксперт",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTEpYczlUbkdWSEU0SE9hTnV6U2hVVVFFWDliM3RETnBCUk1fYlNTMGZZZzJ4ck9PWk5aLUZ1TUowQmY0UHh4QW5rSVFYOVNZN0NNb0ZSRm5FY084Nm5CeVlxb25SUmpzTEI3SjAxUDJaeGZTWFFWcThkMVJtSk5Hd19oQ08yRks2?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-18T10:03:25+00:00"
+    },
+    {
+      "title": "Лавров предложил решить кризис вокруг Ормузского пролива одним способом: Политика: Мир",
+      "summary": "В подборке публикаций: https://lenta.news/, Финансы Mail, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "https://lenta.news/",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWRQeW5sVU9NbWVlLTNoUEhWanFkR1U0cks0eldDdHFTX19oU2lMSDQwam03NFczUkFXQjF4THJNTmZkVWN5QXo4ajZnNXp4YVFZY0RWa3ZNbDFVamFUOTduSUFXMVJVVHhmQmFzNzV6a1pENGpCSnF3MEUzX1BDWURmaW5NWGxmdm10TzVfX0tLd1FLWVEzREMzdGFSU1Z0clJ2OGY0VEw4d0Zu?oc=5"
+        },
+        {
+          "name": "Финансы Mail",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcVVfbGExWmZpOWxOanhLV1JaM2wtcnRKRmpYcHA2NEkwQTZ0TUZ1YUN5ZjBoNFRJRXZnS2MtZzllNjg3SzduZE5GeHZYQmdzR19ZU0ZVMWQ2TjJKTTk4dE12bVozSEhyUkFzanE5dXk3VWxDNjJ5blFUWkhuaDBPMlVPd1VqNGh1Y0hFcE94bXlvd0VWNlNwMjNaZlVMOEppZm9vc3BMOTlJWkRBVU9nNUhoRQ?oc=5"
+        },
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50VXliSlJLVEtrOTBLeDMzT002UXBPX0E2WnJCNHFBblpDbW12Y0RYNmw4UHY4ZV9XRnRZTHRsdEJZblZDNUR1ODQzYXpBUdIBS0FVX3lxTE80Z2FNWWtQb0hzVHdBQmNfVWcwNm4xdDdwUDNaSXRmRGd5VTF6RmNGTVpYMXczODVCZ1dZV0FFNTRUM2xyTVc2OWVITQ?oc=5"
+        },
+        {
+          "name": "Министерство иностранных дел России",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tdHU5SFUtSm5HMFZMYVlHQTFRcEZxTlhNVVB3YlJoWk9Sbl9nbE1JZm1leURjSm9rbndNQWIwZmRUR2k2cjlCbjBPcEp0NUJEdjlWakYwN2J4Zw?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-18T14:46:00+00:00"
+    },
+    {
+      "title": "В Рязанской области сбили БПЛА — Новости за 18.10.2026",
+      "summary": "В подборке публикаций: RZN.info, Интерфакс, Ведомости. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "RZN.info",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbEVlaTlYNEZUUjFxOU5CNGFUVTE0NmRqR0k3MVZGb3MtbG54UWtScHo3OU5kNW1LcXV0WmZ5NnRPaEdEZW05dkR1dEc5d0JTUXB6ZF9IWklXMkQwbjVXX3ZzaThQV0dSY3RScXZuRkhNSDJmc3poWUJOZV9Hei1SaGdNLTlBNk0?oc=5"
+        },
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tdmEweXpTX0ZiVGQ0a2hYYkFCRFhwdFF5eE85bktVd3l2M3BPU25GcmFKclNwRy15dFhTcTE4QjZocGxFcDgzM3lCY2FaZXPSAUtBVV95cUxQYmUwXzM4REtGaWgxM2NIUV9fUklUZXhaNG5sT0VIWkI1dHVzTU9uN1ZRVWFISzRZSHN2cTFobzQ1QjZjSUEyQUZSOUE?oc=5"
+        },
+        {
+          "name": "Ведомости",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BYzFLV2RIbnJzUDFLcFFtYm5yX25oVU16REVTYndsMlVMOW51V3Y2U0tBWUVCcnFCUHQzdFUxTExkSjAwR2dFU1V1ckFycFJfYVlUTV9aX0x2Y0hJTkJ6d1ZUTHRWNjB1aFozVG95MTlVWjVUUEt2VDFacw?oc=5"
+        },
+        {
+          "name": "BFM.ru",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1haVJFLUViMWpyZnF0QmtkV2NBQnEwbTRLOUdTX05mRUNmTjBia1VySHAxQTQtZl8xNXhSalVNXzNJc1p60gFKQVVfeXFMTVVkcUVfTHNYZHBUTnRHQTkxZkVqdFVvMFIzckMxYTJsZkhWeUw0R1ZnUEwyTTB6b2wzbnc4cEtIMG16TmV4T1ZrNmc?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-18T06:37:53+00:00"
+    },
+    {
+      "title": "Раскрыто, кому Путин показал кулак во время встречи с бизнесом",
+      "summary": "В подборке публикаций: URA.RU, Новые Известия, Финам. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "URA.RU",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBKaUhENnJ1aTZLeERvNFhWdnFKdFZ0QUQ5NGpsNUdic2hWR0VkOVBodWkyQVl4d2ZIcVhCSEtFci1lZnBoQTZV?oc=5"
+        },
+        {
+          "name": "Новые Известия",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGpyVkh0LTRzVFVkUTU3cTVVeW5md2xtLVJaVWJSY0pKMkxhR1R6OXNHZFVqSmpQcVF3Tjlzc3VCcGJqZHFrMjFXSzRQc0lvdnQ4VEd4cEptejVhTTE4ZURaUHM0MXo4bTR3bkstVmhTX2I2anVtRWMyNGp5MnRQbW5Edm9SVjdTMHdjZDJPb3VPRGx0M3pkYkFXMVBRd01JODNFOWY0RzBSeUREa1V5V0pCdlJHcWJuVUxRcTFB?oc=5"
+        },
+        {
+          "name": "Финам",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdlA1c3J1MW5XSHhmREF3RjVaX1NBLWhYT1pZcjRHRDdWRWpyMFA2dG9zaVU3QnBDZEt1N0k0MHFxWDRlRU9wQ19YOGhMSXFjelZLN2tibGxIbk41U0tGWEFkYkNOTHBqcXB6bTFXR0ZCSkgwZ3JTVEgxSF9IeUF6ZzlmMk81eVFEX1Mxeml2eVNiTlEzOGpfcDdwME5kbXRITlBTWXc4OU44LVJHd3p3bE5VTjNKbXJldUhXYVRoX0lXc3hqUm12LVVwM2ZFR0pIUFpNVTY5TkZDUUxSeEE?oc=5"
+        },
+        {
+          "name": "Президент России",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00Q2Z6UGNpWFZTTWhKQURhUzVGdVdtQVBOdFROYlJGUnduemU3eUQ2cllkQngzTnFnbGRmdjdWNlhFUE5MYWtPTnAwQVFWRHg2dDJIa0dXa1Y?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-18T11:40:00+00:00"
+    }
+  ]
+}
