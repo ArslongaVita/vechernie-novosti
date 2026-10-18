@@ -69,7 +69,7 @@ def select(items,posts,excluded):
             # Telegram only supplements an independently found RSS story.
             # Require a strong match in a short post; never promote a rumor by itself.
             first=post['text'][:350]
-            if similar(lead['title'],first):sources.append({'name':post['name'],'url':post['url']})
+            if similar(lead['title'],first):sources.insert(1,{'name':post['name'],'url':post['url']})
         names=', '.join(s['name'] for s in sources[:3])
         picked.append({'title':lead['title'],'summary':'В подборке публикаций: '+names+'. Подробности и разные версии событий — по ссылкам ниже.','category':'В фокусе','sources':sources[:4],'publishedAt':lead['date']})
         publisher_counts[publisher]=publisher_counts.get(publisher,0)+1
