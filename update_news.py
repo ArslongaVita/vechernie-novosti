@@ -77,6 +77,16 @@ def select(items,posts,excluded):
     if len(picked)!=5:raise RuntimeError('Not enough fresh, distinct stories from diverse publishers; old issue retained')
     return picked
 def main():
+    path=Path(__file__).with_name('issue.json')
+    moscow=NOW.astimezone(dt.timezone(dt.timedelta(hours=3)))
+    if path.exists():
+        try:
+            current=json.loads(path.read_text(encoding='utf-8-sig'))
+            published=dt.datetime.fromisoformat(current['updatedAt']).astimezone(moscow.tzinfo)
+            if current.get('date')==moscow.date().isoformat() and published.date()==moscow.date() and published.hour>=20:
+                print('Today evening issue already published; keeping it unchanged')
+                return
+        except (ValueError,KeyError,TypeError):pass
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
         jobs={key:pool.submit(feed,key) for key in ['world','russia']}
         telegram_jobs={name:pool.submit(telegram,name) for name in ['rbc_news','kommersant']}
