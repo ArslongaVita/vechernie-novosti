@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-19",
-  "updatedAt": "2026-10-19T19:00:14.389740+00:00",
+  "date": "2026-10-20",
+  "updatedAt": "2026-10-19T21:22:36.950968+00:00",
   "note": "Автоматический выпуск по русскоязычным RSS-лентам Google Новостей: приоритет темам из нескольких изданий и позиции в ленте. Это не рейтинг репостов. Ссылки СМИ открываются через Google Новости.",
   "world": [
     {
       "title": "Волна протестов и погромов накрыла всю Европу",
-      "summary": "В подборке публикаций: URA.RU, Meduza, Euronews.com. Подробности и разные версии событий — по ссылкам ниже.",
+      "summary": "В подборке публикаций: URA.RU, Meduza, Ведомости. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
         {
@@ -17,87 +17,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXA5YmRaeF81RmVOUmhuRnlUY24xb29ZamlQY3AxRGxmd2RDVkowcHdtc1VXaE05eTU1MjdIUjRObExvSHBBZU9Ja1JiaDVnejRNb215bDd4OExPeXdvSUkzaGVxeFk3TkV4MDhZc2VRbkI0RVZ0eDdXeWgwN0hIRVZ0MVVXLWh0R05vTWRVVHdyYnpNcjF2Smx1Zzh5RExNZnV4S1g1VGI5eknSAbABQVVfeXFMT1d2ZWI3R0YxQ1kyaXY0MXZ5UDc2VGcyb2dKeHR4WjdQbzFjMzIzakhfUmRMcDN3MHJ5QUc2TDVWSFprSTI2dERHZkRkeEIwNFVuZVBRT2pDZ19oUXlsaFdnd0RaN1dkZ0Zta1NKa1Y0VWVndUhtdHlGaURCOGdHZ05iQ1NiVndHcENKZjZhRVNJSXF5NDhwUmdZVHVhV3dQT1ZHdGFnc3p0RFZPTHg5TzA?oc=5"
         },
         {
-          "name": "Euronews.com",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DZUFLR2pFQWx4a2xUTl84cjV4SUxNNTZCOWc3NlZ2Z2tOeVJtbHpFclE5cWJBSi01YjQ3X3dNRUstUmtKTjBKd3REdXNBeUlBc3VJemN3U1lrM0VfZTJpa3ZEZHBBZU43?oc=5"
+          "name": "Ведомости",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkNibzZrV1o2LUlEYzlRV1lQdnpBOWROU1F2cnNWSzJ3dWp2RmJuTWlhbDNLY2pyYnZKQW91aHJDRjNGdnJwZENyUFFFX2ZkcWtHQ0NZSEFpajZNOEJsMFNTaXotY1JPZnVYdEJobUlwTjdaWW4xSTllS2s3NU9DeEdrQko?oc=5"
         },
         {
-          "name": "Ведомости",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWVN2S2xnZzFIcmF0YmUxR3BCaVIyY0l1NC16TVhMQnYycDVMM18wM0lxVDlSMUlKODRpTG5FRUxxUEVvU2VGWWpEajVka254SUZJMTRBZWVnV2ZXdnJYXzRSY1Fhc3ZRYzNBY0UxTUo4SE85N2NlMHp5TW5hazBVRjczUDlTM3NBME5hSlBzTHVzMG9lTWxtMG5Lc1Zfdw?oc=5"
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MQXoxNjVwMnViNlFRcWZ6YzJoZ29BdlFaNmZYZzh2X0xPNF9GWnBPU3F4Q3VzSlRKaU9Mblp3SngxLVRyRmcwbWVBME1FQdIBS0FVX3lxTE9KYUl4SHBEZGFpRHlLWDQ4dmg3QTJIYkYxcHIyXzhYRzlGVHNHYzltTlItYUJYbmRsUFJ6aDZqdEp3UXVwMC1SY2dYMA?oc=5"
         }
       ],
       "publishedAt": "2026-10-19T04:04:00+00:00"
-    },
-    {
-      "title": "Starlink раздора: США и Европа поссорились из-за спутниковой связи",
-      "summary": "В подборке публикаций: URA.RU, Meduza, ВФокусе Mail. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "URA.RU",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEWXdkMlQ4eW9hdkJxZEwwbFNSTjR2V3ZfNjZXNWpUdzk3V2hEX2xrd3FDVExoX0FEdWlDa0hoOHlzZFZSOFYxWE1Hd2E?oc=5"
-        },
-        {
-          "name": "Meduza",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOTVETzdrQ2ZYX3FZaFhodmtPaVdITDBaSDZYbXNyWVFtZXVzSHlCMlR6RlRBNndsNkNvekFJYWlvdXdENEpnbnV1dzZOMC1TOHFqWUdkV0lFWlVFRl9ZNGd6UFFPV2NpaGM4NHZCRlFKYkR4RHlyVW8ycEpkZzJsMnEtOXhmNHdLZTlINzVYcVd6VWpuRnMwYzIwSHdEVEF5RlAzNHBIa2NMcXFGbjhtZlRaUGxjNG5Fa2FqbnZnX0xZcl9nWGxsYjBvZHhHTVV6Tk80UTZZd0ZYMXFsdUHSAeMBQVVfeXFMT0hSazdhU0t4UDFvcE9RRy01U3FyN2wwMEFCWmNPMDlVUzBtMjl4WndPUXlmSS1ianc1bng5Nldwd1RUQjJaVzM3QVpzUEpUeXlyUGlHdDBSZWZrUGNvWHBrdjI3V0l6QnQ2VzF0bVlYUnZmd29OaTVuOENmNWlNdnBka2tJT3dpOUJhTGxpNVJ6LWVDWnJaYUlZMHBLWjRFdHNXci1fdTdOc2N2VnRUbEFaN19GVFA1Nm9pRlMtVXRmQnBKUE5SaEFMRUJERnFicUg0Nzc2V2EtbllZYXMtZmZLT00?oc=5"
-        },
-        {
-          "name": "ВФокусе Mail",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclN1RUVUUTFHUlZoQ05SMGFtTzQ3RlFmclM4SnVvWk5SZVdUVHo2dkt4cXdSWXhCS0hMd2llemZqdFZ6dW9NdFc1UHB5cDF3VzNkUzk0YlRSOHpOV2tjZlY5S0hWRF9WUEJUSUVIT2IwNUlYWjdSa0M4djNQYTdQVFc2NGNINXR0cUg2eUd4My1NZWFHaWg1QnEtMk9UZVhlVEE?oc=5"
-        },
-        {
-          "name": "Forbes.ru",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTXZjMDhDZE03YnVsa0d1ZjNxOGhoeUdoX09iSmN1T3h1TzBNcTcyRGtrY1BtUVZweGlfYW5KTlBobkVCWnBCTV9PcGN6QTdNTzJjWTlKdEtaV3hWa2staVB1RlBwd3hCMnYyX19YcHhaeHBGOEZ5TFpibnVFMTVUMmRBRGxrR2R5Ykpka0JZYUlDc3pyajN6TldjbXRCVmM0aFpFMGJRUmRTWEU?oc=5"
-        }
-      ],
-      "publishedAt": "2026-10-19T15:08:00+00:00"
-    },
-    {
-      "title": "Украинский дрон-камикадзе подорвал легковушку в Литве",
-      "summary": "В подборке публикаций: Клопс - новости Калининград, spbdnevnik.ru, Независимая газета. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "Клопс - новости Калининград",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcGkybHRuS1hGNkZrazhwNEc2bXdJeEhHUnBld0kweGFWM2FuOTZpSHg5aVg4Tmx2S3FwUHh1WWM2Q0FJT1RtYTBfYjRhSUJoa0w0d09ZMFBpTGdmb0JyMlpFODAzSDhLSmdGNFktS09KMG0wOXdNLVlQTDBGbEQ1ZUhYdldBeWg0M1ZldEdacHdoY1RNSVJBY1A5M29MZWlvMURiUmFGNA?oc=5"
-        },
-        {
-          "name": "spbdnevnik.ru",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaXdndHczenBwTUdKX3JpdU1vLUZqWFNvb3AzSnJ1V3AyMzZFWDNxLXhZS25Cd3AzOVVIYzcyZUpDZXljdHc2c3VUZGE4M09hTkJ5d0J1TUUyTlhZUXdZY1FnZEVkM2xCWGFvdXRIVVY1M0RrNkVnOEN1WTQ1ekNNdTlNNmRaR2FYZGtwSnppMVpWdkFvTHprclRlSktMM21hdXA1RDBRaw?oc=5"
-        },
-        {
-          "name": "Независимая газета",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wX0UtRmdCSVEzSTIzTmNWcV9iOE5MYThLRkZld0l4dFE4djlPeF9YLVZDdlN5V1VuWXNsMmZmZndfSC1XcmNSY25B?oc=5"
-        },
-        {
-          "name": "ВФокусе Mail",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUXlZWTdtb0dBbVYwWGp1eDltdHFqUjlOM2hMcndRM2gtZ3dYNC11VVNxZnM2V2gyNTBFd0JtWkRIR0lXd2ptNDMxNVgtTnZJWGFCeU5MaHVpY1FXS2FrUEVscnc1TjNCOGRmMElLcEFDWDZiNE1VUURpbmQwWUxzcVFKaDdRa3RwaG40ZzluSDRmY3RnVjZkTU5scTVUN295U2NzOVNNQ1dSQ2JUWHc?oc=5"
-        }
-      ],
-      "publishedAt": "2026-10-19T06:28:51+00:00"
-    },
-    {
-      "title": "В Литве хотели сжечь компанию, хранившую оборудование Starlink",
-      "summary": "В подборке публикаций: EADaily, Meduza, Настоящее Время. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "EADaily",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc2VDb2tJMzdMMDhWVWJTbTJLMDR1LThLSm5idExKSzkzVWFwZTBuTGs1Mkc1RzZRWnFQa2hoaXBYVktrekE0ZGxLb3FHUklLNTVWWTNYa2lIVEdacF90U2Q3cDVXblpPdjRyUzNBQllxNkpFOE5JTUt3OVAwaUtuTk5HS0p5eHFiU3NDNjE2X0psUVlIMFZyNWpKYWc5Y3FUN0VIZEdIdkthLWEy0gGwAUFVX3lxTFBGMFIyUW9RUTU4VkpPTUNENkZzYjZzaGVCZDloc0pxRFFJaDBSNHJBM2ltMDBDaGRJX3Zib1NzQ0VBNWU2cUpod214SFp1Z2RpUzlfQnZVck9tMExSaExHRmJsZHdHX0ZkSGNJVGxPXzRRQ3ZIa0ZVeEhLRnA3QkRzTUFoRFR2a01wMHJ6aEZkS2pmUUhJUUowYkJfUm5WdkZXcFVEeXpHOFNoOFg2eTlu?oc=5"
-        },
-        {
-          "name": "Meduza",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdGg3UDlYQUNxWVVIa1FyczBadTVXNW92NXVaZ0ZYUUxFc0wtSXl2VGZ0RS11aDJXNlkyVXRMd3NkeHpFRlhHLU1MaHJZZjBuMEk3c1hRQzN4OGhId1hCYlNteHh3SS1xS0xFQVBWRWU1Z3AwM09PekhYaTdUTll5M2pzNEdEMkVKSUJsYnh0dGFCanRYbVQzZ3VabXp0TnFq0gGmAUFVX3lxTE1MRFhQTnotRGlHOGVUM2hIUG1ZY1lxY2hVUG93UDdhMjJmeVlSOXFjVXhzYV84T01raEt5ZDF3X0xzU2FHd2dsYkk5WUlpdnNBbnRuZjV1cExHSTk1eXJwMFY2c0FvV0U3N3FwUVFOSURyTUJwazBKd3Q2MVZXdkdIbm1qRDl5Y2psMTcwYUxRWEh3ZEQ4M2lwR2dCb3QyTmo0cXBHaFE?oc=5"
-        },
-        {
-          "name": "Настоящее Время",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLakpPVWt1S2ZTSlRDUDNucGFCOWtUeC1UcUxRUEdfekp3TE12aVZsUXVnUi1wQTBfMTRQTlhVVFltZEVPZGFLWG1uWWdLRk9CX1hqSHNPS1dZSEhuUF9SM0xCZDRYWVNnWUs5TEFocEhyTTZHUXF2ZU5PRdIBfkFVX3lxTE5FNUhQMWY5bkdwcW0yQjFUbG1idDlCa0JRc0I5eGFaMWZEb3VRMGV5bnhJdHZaTjE2R3h5ZXdlbzVJeEV3WUo2V0hDVW5DLTFYczV6VllzbGdEMlRVTXN0TFhlenlmYkRLM1RkMFBhdGx0QnhiWk9JNXBLZ0Z0dw?oc=5"
-        },
-        {
-          "name": "Європейська правда",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EWjdqeEt4angxQ2FmbkdsaXd3bzh1dTlvTFRCRkM2QkliblNoUGJpUF96X3VlWmJVWVoxYUVhRk9oT1gycGtFOGFBUzR0S2MxSzk1d0RONUFOTE1rVEozWmZmOFRNYlhJQ05Cck9ZT1E?oc=5"
-        }
-      ],
-      "publishedAt": "2026-10-19T05:10:00+00:00"
     },
     {
       "title": "Испанию накрыли ливни — видео, как улицы ушли под воду",
@@ -122,18 +50,110 @@
         }
       ],
       "publishedAt": "2026-10-19T12:25:04+00:00"
+    },
+    {
+      "title": "В США выдали ордер на арест 95-летнего Рауля Кастро",
+      "summary": "В подборке публикаций: EADaily, rbc_news · Telegram, rbc_news · Telegram. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "EADaily",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMF9wbV80TmJ4TmU1VGNNbFZTNWwyNllnSmpQSHQtblpGbU91RFBpMmFubTlVcUZQdUN3MTdET1FVZHhpaDkyVEF4VjJnRHpCUzJCd2l1SXo4WmhhOWkxTmh0MEcxdzhwVEtuSGxGX05WMTU3YUlzb0kyQXo3WThhb0JJcDRpbko1dDNMMVBZM3lZTFFDRE5ZVGkyU3rSAaABQVVfeXFMTi1kbWF5VmJuUnJnOXV6c2l6c25YQkRIdGtyRjRCeTNGMVgtQTljQXh0T0llRHl6THloZ2xGN2MxWHFxaXdOV0g0U01ZSHVrVW9pLTN1N0h4dC1NeWwzMXdHVHJvUkE1bGw3LXpVZWstLW5HWklqNnotdFlaNnBJSUM1OUVIejdTVXFXeXVhblNfZVNhV051OWh4LW5mTUNIUA?oc=5"
+        },
+        {
+          "name": "rbc_news · Telegram",
+          "url": "https://t.me/rbc_news/159003"
+        },
+        {
+          "name": "rbc_news · Telegram",
+          "url": "https://t.me/rbc_news/158998"
+        },
+        {
+          "name": "ВФокусе Mail",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTR4enB4M1NVdEVIek5HTFY2U2xBam1qX3hPU1VZT0NQZ3J5aktISFRzblpCMEd5UjRFRjBMYU5SQmhqcEZMbWFaOThHSkhCb3BsM1JNY3IwUTFlTmdrY3QwRmtLR3M3b1R0ZnRTTElENEtDVjdJTWtTYm15dUV2YzZVWE5tRUhOX0E?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-19T14:15:00+00:00"
+    },
+    {
+      "title": "Украинский дрон-камикадзе подорвал легковушку в Литве",
+      "summary": "В подборке публикаций: Клопс - новости Калининград, spbdnevnik.ru, dp.ru. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "Клопс - новости Калининград",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcGkybHRuS1hGNkZrazhwNEc2bXdJeEhHUnBld0kweGFWM2FuOTZpSHg5aVg4Tmx2S3FwUHh1WWM2Q0FJT1RtYTBfYjRhSUJoa0w0d09ZMFBpTGdmb0JyMlpFODAzSDhLSmdGNFktS09KMG0wOXdNLVlQTDBGbEQ1ZUhYdldBeWg0M1ZldEdacHdoY1RNSVJBY1A5M29MZWlvMURiUmFGNA?oc=5"
+        },
+        {
+          "name": "spbdnevnik.ru",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaXdndHczenBwTUdKX3JpdU1vLUZqWFNvb3AzSnJ1V3AyMzZFWDNxLXhZS25Cd3AzOVVIYzcyZUpDZXljdHc2c3VUZGE4M09hTkJ5d0J1TUUyTlhZUXdZY1FnZEVkM2xCWGFvdXRIVVY1M0RrNkVnOEN1WTQ1ekNNdTlNNmRaR2FYZGtwSnppMVpWdkFvTHprclRlSktMM21hdXA1RDBRaw?oc=5"
+        },
+        {
+          "name": "dp.ru",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ySGV0X183QzMtVDRmdDBybVhoZXJyc2UzOWhmLTllOXVmbm9HWFZ2dGFLdnRqOS1yaDV2TEs0aFJTaGdvUWVvVDhkSzF0UjR1RzVhbGxUckJJM2ttdE9BM0NKUTd5NXFpZm1oVE45Wnc5d9IBfEFVX3lxTE5Zdm1FdzBoVlFCamdRU3VOMEQ2enE1b2NjYTNwY3ZMTm1SMzdMMWk1Ri1XWkJ2QVAxVWpmMmFXSmROd1VnSzRBU3VYRGhYbFoyMlUtdVFHSGJYZkxwZVVqaG81RnZZLVZCUzFxQnY2dDU2LUxEX09WUnJZN24?oc=5"
+        },
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wUWtHWHNhcXNxSjFJSy11VEdhVHV6Q2pqSno0d0tXUWhsV2VpTXg3SHlqVnlnYnlVbTJzNXhoUk9ZRUNkaDRiTFREWGttd9IBS0FVX3lxTE1SMnRDblFwbTFSWnc4MVNRNG02b296T2N4MkluYl9ncjlkZktjSERUTk51b2k3am1oMy12alQ2eGozZHBCa3VXSVVFNA?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-19T06:28:51+00:00"
+    },
+    {
+      "title": "Еврокомиссия намерена усложнить россиянам получение шенгенских виз",
+      "summary": "В подборке публикаций: Ведомости, ВФокусе Mail, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "Ведомости",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPclVZNWRaczRWV3BCRVA1YlF0ZXZaTGpyaFU2MDh6QlhtS0kxTHJBazQtZVlWczQ3Q1NLblFJVDRVZ2RxZkFlc01PXzJYQkEtZW9wdlF6a3E3Sm90ZlE5VUVGR01TOV9JcE9jY01NbTg3RTZhOHFZQlJsZ2tmUFVUQTYyQ2E?oc=5"
+        },
+        {
+          "name": "ВФокусе Mail",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMHRyM2dwVlIzbWtXTHVZMXVzXzVveVNxVDFlRkNMTkREaWFCU1MtOEprZEZOaU9UOVNYVHh6dFFvU3paa0NzZTB4a0ZGN3A0aTVBVG5CSGhiY1ZtSHJ3aWZRN09LVW9pQUlXTUY0YTZDVTJoQ3JMcm1MamUtc01BSUZXWE5rZGNXX3QtcmVhUF9Sa1BUMXdmMzN2MnV3aVlpT2lQenRBckhLQ2pZdTloVTFpX2o1b0dqVWRZMzQ3UVdpZHVhcWc?oc=5"
+        },
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52SkVXcmk4RTVnN0R3TUsyTGdBWmlOSjgwX05udENsX0RURl9GaEs5bmFXcWJnUlQyMjNnODdUYmlzYTJBZ1IyZWpKaEhOZ9IBS0FVX3lxTE5ac284bXc1aWFRdWFrSmV3ZzdaWEx1Rm5wTlpKYkQ2SXNLblk3MnNFdHpxUHBTMkV1cDJDejVxODdXblYyQktUdWdraw?oc=5"
+        },
+        {
+          "name": "Росбалт",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUWJhVDNSel9HVnAtTmlQOHVxTHVFV29RaTJOeEtjOHdab05MZkNUcVFTQXlVS0tmeGY4bUE0Sjl5bUh5dEo0Sl90WnJXRUVfSnZXY0NWLWsyOFdKVGhMZ1haQllBcmstMjJVUDZQbXdvV0dnV19CcjdZekpYMTJtcExUY0pOM2F6T1lrbzZWa3dqaE5hNWd1em5lYm9aNEliVU9KbUd0OA?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-19T12:26:51+00:00"
     }
   ],
   "russia": [
     {
-      "title": "Роспотребнадзор предупредил о глобальном ЧП из-за оспы обезьян",
-      "summary": "В подборке публикаций: URA.RU, Интерфакс, ВФокусе Mail. Подробности и разные версии событий — по ссылкам ниже.",
+      "title": "Каким будет курс рубля 20 октября 2026 года: прогноз эксперта",
+      "summary": "В подборке публикаций: Финансы Mail, Банки.ру, БКС Экспресс. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
         {
-          "name": "URA.RU",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE55cDlZaDUyNUJrMTZ1VV9mbkc1SHVaUW14d3JqZGFNMU5ZcVJXVzZrQWVCZTAyVG11OVBRWXVHZlpvOGtGM2hv?oc=5"
+          "name": "Финансы Mail",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTHpkbjE0aEg1b1R1OTMxcGpEMW9tRlFCclR4MTBpVWpRWFZKNVRGR3ZIUFptRGVnZW1YSEQ4VDJ1OWZOWURXVmZYN2JmaG5IZDhhUElqaVI1Zmt5THVIUjBIRFNlTHljTlViUWtfSG9uM25qUGZOX3NvR1BKV0lOc210YVVRRXR2SUt6MlRfZUhGRmRRU0RtdENzU3NMM2YxeDZKRWNpank?oc=5"
         },
+        {
+          "name": "Банки.ру",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1la0FtRS1fcks3RVV4d19Id3RleWxrb3FuUnBjSnJMRzVTLWQyMlg2Vk9EaEZlcF9sT2tMM2duTzdSUjNCT0QyTjZzbzhLV3J4MEdMLW5JMA?oc=5"
+        },
+        {
+          "name": "БКС Экспресс",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeGJDS2tqOERCZFhpbHcyYnVpMnZTZGFFcDMxQ3dlM1d6dV9OcWtGdU5GM0ZWWDg0OVdoeUtNWjREa2JXV2ZMN01jZjlSbWF2U1phR2ppbEJXUkpHN0dhSTlhRVNrT3AtRlMxZy1XbWw2NG1WTXNEc2ZRZ2M3MkMzTEtxbklfbW1Fbmc?oc=5"
+        },
+        {
+          "name": "Ведомости",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQTE5RTVCUEdLR1ZsS2RZZTNHZ2QybDRGd2E1VUV5WkRxY241MVJMVXRqNWQzbHd4THBsTWpRaVhKblVRZUpJbktOMGZ3ZmVLaVk2Wm5XSEl2bmlBX2FwX3ExN1NKWWJMVDRnV1J3b1Q3NkRYZjIybDBtQUpDTmFxSENhTGQ?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-19T15:25:16+00:00"
+    },
+    {
+      "title": "Оспа обезьян подтвердилась у пятерых человек, госпитализированных в Петербурге",
+      "summary": "В подборке публикаций: Интерфакс, ВФокусе Mail, Ведомости. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
         {
           "name": "Интерфакс",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52OE1rTklXZTBEeVZjWC1WQ3RSUXRTaDBBeFNveWF0WV92VF9hejVGanpKblhwaUl4UlY0cV91RnBxWUJIY255YWFVQ2RzSTTSAUtBVV95cUxNdzhwNTBSTU5GLWxWZTJZOU5lVWdxdEtlUFI0U0d4aExCTUkyaF9DMWNqZDF5d3BUdmxXd1JBZ2VLQ3d3eGxGcDFDT1U?oc=5"
@@ -145,13 +165,17 @@
         {
           "name": "Ведомости",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZkxtMVc3VVJ4RHdfcjdET0RINml5RDg3TWJNQ2M3cHJfWDBySGtaczM0Wi1MZ0lSUl90aFg5Z3NIQXp0RzY3dTV1aEl0SDl5QUR4aHlTeGxaVWZPNDB6NWhIbk9pYlY1RDc0TDc2d3dUdHQxTDQ1WFlYLTg4X1FGSS1LZFdPWG8?oc=5"
+        },
+        {
+          "name": "The Insider",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9ERnhNcl9VbVRCalFYMXJLVnMydUl5dlpUU2dHRVdIUk9NTWptYUtJajhLSURUaE1YYVhYY0dwR0w0eEE?oc=5"
         }
       ],
-      "publishedAt": "2026-10-19T14:21:00+00:00"
+      "publishedAt": "2026-10-19T13:29:00+00:00"
     },
     {
       "title": "Сазанов: Минфин обсудит с РСПП предложения по налогу на сверхприбыль",
-      "summary": "В подборке публикаций: Ведомости, БИЗНЕС Online — Новости Казани, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
+      "summary": "В подборке публикаций: Ведомости, Интерфакс, BFM.ru. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
         {
@@ -159,71 +183,23 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcjBLNzJWal9Obm5kbDhVYU1yTldJLVgwSlhjcVFlZEExVjVza0xjVW53ZUxsMFBvRWlqR0xXNEtzZkVpWTBTLW41Q01ZaFBFVnJSRFdUbU1DSU9jdVNkVmRWbE1mNlZwNXFJNWNtMC1MT09pbkE1YmZyeDVwYkJmQ0FuQTM0cXhjVmdTUFFB?oc=5"
         },
         {
-          "name": "БИЗНЕС Online — Новости Казани",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlM2VNTDJ5Wld3V3k5VGVZSV9WSXRORE1YejBYMWIyMHVYeWwzZmh4cHFsbkw3bFFMZjJjRThBbmRRRlFoeVNneUliMldDNkZOUHg5SNIBU0FVX3lxTE9HWWFTQUUxM0hLZExoTDNNaXBYdE5PSDBjUUh3WjBjRkR0WlRMV21KcnFvZXJhTERpVzJMZVRlcjJGY0tQQnFGTkdCT1F0NnVpUEs0?oc=5"
-        },
-        {
           "name": "Интерфакс",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKb3NLOHFwa1RpazBNR25jNDdyV0RXNG9BWUdMSmJjeUJ2RDdubkJWY3BLd09ZcEhMb1JMMmxROHJDZjdXYUR6TjJyMEpsME9wTVHSAUtBVV95cUxQbzV3MWhEOFcycEVSNnZhWE1VQ3ktaWl2cUNzclJOenkyS1VnOGtWa01hYTBWclE0ZzRXMkhrNS1uaFJRS0N0bVN3TUU?oc=5"
         },
         {
-          "name": "Финансы Mail",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGRSYWl5YnFKXy1DWmpPdjFRcXoyM1drTmxFdU5Pcjd6b1p1TEcxZi03bWVxSEVrTFItOS10YXVNQUFZbnNYU05BVUFacU5Cd0lsQmdWc0RnMmI2LTdVVjZ2RWMyZzdRNmg1N2RYRXU5YURrYlhweUROa2lNR210d0JkMW9kbmxZTFlTMUpQSzI4SXJFRnFMNnVhbU5DRENtSDdFbQ?oc=5"
+          "name": "BFM.ru",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBMSlFyU1BxbnduQjRMZm41VnRiZUM3blJpaF9yWnJsOFo3blhhTUlvckhxZnpiWVN0YXA1ZzY3ZVFWYnlJ0gFKQVVfeXFMTVdVeGR4eWNmWmVCczZqY2dtdngydUJSWFUwcGYtVlZ6MDVldU9KWGdHbnh2Y2FyZjlFYTVCbnFWTHJiMVg5SENwQlE?oc=5"
+        },
+        {
+          "name": "Государственная Дума",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1ieEFRTUZDXzBLX2lYTXFIakw0RkRkNWlFVjdReHctd3lSVG9Pb28tWjVXems1clAtVnVXZ0NxUU5lY3Bp?oc=5"
         }
       ],
       "publishedAt": "2026-10-19T15:32:01+00:00"
     },
     {
-      "title": "Повысили семь банков, снизили — три. Как изменились ставки по депозитам и что делать вкладчикам",
-      "summary": "В подборке публикаций: Банки.ру, 66.RU, Финансы Mail. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "Банки.ру",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxcXpJRUNkbUFGQU9acUFzZWFqNzlZQk80V1JVRTZhVmIya2gyYVNBQTNJVmdKTXVZSktLTWFzN1ZjaVhwY29Lek5nYWV4VVNIRHVsTWR5UQ?oc=5"
-        },
-        {
-          "name": "66.RU",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOXy03c2JOaVk1TjR3WjQ4UlMyNW8yNjVJUDMxMEU4YjZBTWhUbWZKV05SSGdZNlJyZUF6UXBUSEdvclpHRXQzS0M2RGRYWk1pOWZjR0VWdTdfaVFsU29WS25KZVdpOFM1TDM5d2RMVkpTQ3ptTXFfTDZrcXE5ZWIwYVpMckdJcHQ2ZGdvQTJkX1Z1Q1RhYXAw?oc=5"
-        },
-        {
-          "name": "Финансы Mail",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeHhDTTBVb1VxdGgtOHV1ZnR2c3RwT3lWM2R1UmVrckp1dmExRnVaNTRtUG1EdXpFSHNrTVdqOExSTUhQTWt3VW9MQ2laanhXUm1jVEJvT2oyWkJienpTM2pmZzdBUkxGVjNfMjhvRWRkLTUzQ3QtZTNGc01ubkY1aGVKTExwRWxrSURHTHJTYTJ6U21odnhselNlWFJDN1pmLW9LeTlKaw?oc=5"
-        },
-        {
-          "name": "Банки Юга.ру",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2RXRnbUhLQ1JjekhwcDNaWkduWGxkZkRuM1JiMlhQcmFXbFhFSGN3TldKQkIxZWxqYVNFX0RLb1VtSkNaZkdNQzVNVVPSAVJBVV95cUxOVF9XSkVlNmxIRVpSWE9sQW9pVjVUUU83czBKTTJwYzFhc1JHbjNuaGU2a0dIMnBhUDFZOFdFcVNESEdvRWN3ZjcybkUwU2YtTG1R?oc=5"
-        }
-      ],
-      "publishedAt": "2026-10-19T12:24:45+00:00"
-    },
-    {
-      "title": "О визите Министра иностранных дел Российской Федерации С.В.Лаврова в Исламскую Республику Иран",
-      "summary": "В подборке публикаций: Министерство иностранных дел России, Ведомости, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "Министерство иностранных дел России",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhSVB4dGkzY1VXRFRVdWdLXzd4amZaMFdFMU55LTl0TzluQ0V5WVJNalIxNEZoNWNFMWVMeVlpQlBTbFZ1ckgtakh5M3R6U2lpOFB2NWJoZHJjdw?oc=5"
-        },
-        {
-          "name": "Ведомости",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU3hSOXY5R05NZ3Q3Vk9jR3A1YlV0R1h1WV9sUDdhUFo1VnlGRGZqNG53TUFaY2FoOXFnTkVxUUZFc2RhTEhLQm5janFVb0RWWXlTVGlyend5bV9DMWViV1pLdnc2WElwSzdqZ0RQcEpvX3hMcENkSzNLVEhXVG92YmFoMVpNS0E?oc=5"
-        },
-        {
-          "name": "Интерфакс",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUQm5zMS1lVlZGLXpsendaWVJUWGZvU3BUU1g5NHk1QTR5Qzd1WnNPT2c5am5zQlBYdEtvMGJDLV80YWtRSGxmVTN4TjdzZGvSAUtBVV95cUxPVHMxM1FoZHFqdUVQbHRldmd1bG9NdG5xaEtpNUM4SjNiekVjdVF3RE9Cdk5HQVZpUlBYRy1rbGZRSG1lR0F3a2dMckE?oc=5"
-        },
-        {
-          "name": "ВФокусе Mail",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeklzdTZGRklBVHBBVF83OU8xMDVxeDNhYUt2dlFfZllpUGpjbXBTenNDSnNqMlZnZWhTU2NHTE5sckJYc0hmN3lfRjE3TTRxdElDYmRnN0JVZFBnSkJZdUlJTnc0eFpSUnJDOWdMV0xKVDlFZzY1aTY3ME94clMwU2NYb2pfYlQxSnNibkRZYm1FQm9QWGNZbXBNNFd2NFpxR0FtajVlNGxjVHkyTTFSNGxEOTZ6cXpDMjVicA?oc=5"
-        }
-      ],
-      "publishedAt": "2026-10-19T17:32:17+00:00"
-    },
-    {
       "title": "Зеленский заявил о замедлении Starlink на разных участках фронта",
-      "summary": "В подборке публикаций: Lenta News, Русская служба The Moscow Times, Радио Свобода. Подробности и разные версии событий — по ссылкам ниже.",
+      "summary": "В подборке публикаций: Lenta News, Радио Свобода, Настоящее Время. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
         {
@@ -231,12 +207,12 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0g0QnNuaVVMQVhLUS16VmNxT3paVXphVjAzR0stR3lpcjBvWVZHODNZeGk3eGh5NkxYMkMxejZpSXJnakdLeGJNSlVGMXBJTzRBQjZpVVFhT1dtLWp4cnNkNWdFazE2c0RJbGl2V0VGeHJPVHlZNEhiRE1sWlB4NjBaTFhKNnpLWkxiMEtycC05THFLWUllVzhMdGhlTDlqMmZzTtIBqgFBVV95cUxQMldCM3gwSXNHVV9xOGN0a2g3VmpZTVllZVZYMmZydGpELUFaNDMzcTdQRDhhdVZDYjFzUUM5TkhxYk9JZ0hSUW5yWHRSSmd4b0tFTnRlX2hIa1dobWQ1dTFMZ3VxaUl2MzJ6S3JqbFljNXVqNHRQTHhjVUxoMHlzLXdZRUU2TnNXZkZsNllUSU4tejV1ZjVsYnhTNXo4TjJGdHNXMGpWU0I1Zw?oc=5"
         },
         {
-          "name": "Русская служба The Moscow Times",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRDZXQVJ3bmt4WklYb0p1Mks2ZDRTMDJxOVhiVGlQVFctNUs0YVg2NXlySVdZeERuQ1hMU0kzdFZ6aGFfd05RMGJua3g5Z1hvekJCcmlLZEYyT0Fram5pdFFZbjRBZ0pjWU91ZkVZTGtsWm1TWmhNQUYwRHVnWHNCVXQxZThBaVF1dzZlQ01MT19VdnZfdDlDRXE2blNlNHZmZkx0dEVySTQyeFVQd0hQZFlkQ19PVGVwYzFuckgxRnFuM2tIWEhUTFE4blhMZzZkMUJBaVhJenJ5cTE4akpyTU93Yl9uUU5RcVBuTU9Mak1fMkpkRWdB?oc=5"
-        },
-        {
           "name": "Радио Свобода",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUF9tNHpOLXNMRkZyV1dhQzRfSnRLUmlhZU1fR3pTbkhVRkJvX3FmRWRaaFUzalhGZjd0VFg4U1h5al9tcC0xVFZodEkxVnhtb0lxTVRxVVhmZFlQbkx3bmVyZnM1b2Y2LU93Q184VWZQYmZaTDJ4WWdxUlhpMFY2T1NuWTRwT0pxVk91V2lnaEd0eHBLdjFQelN0VWE5NmhFT2VV0gGmAUFVX3lxTE5Bc2p6dVg3b3NnTEpvekRoR0dsMm5uSF81RW9GZmExT05aOXVJTFp2Z0o5MzNkNEdvaVB3TEd4blloMFMwb2NKSzgyT0Y0ZlI0MVZRcWphSjRENEhLU1FicndrRV9OOTN2X0daQld6NVh2MUJUbmt0Nmd3WkpmaTlTVmxQcElIVmJSMFJDeHJLbEphX2d2dnIzMEthUm82cjBGQVpLZVE?oc=5"
+        },
+        {
+          "name": "Настоящее Время",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVF9OZEY3a0tUZjB5NkpsSnEzb0pnT3RPSHRBeGhVMzBSU1dFX2drTC1RLVp3RVozbFVvTmpibUJBc2t0R1o2aktLYUxBdVlUeUJkRnlhVDFwTGJhQ2lEREZDLUVYZi1heWZ6ZEpSV2hzNnNhMGkxaUVGNHp2Z1NQUVBTU2NaNGFiNWc0NFNCNHlxZHNldnpPYVBMMERYa3lrR3RIRHFiREtvT0o5a0N1SGlral8wSVJISjdTN3hVTGZWNXNP0gHHAUFVX3lxTE4zb0lIRWdJRjR1c3dfaHJDdFNudHZXOEYxNlg1OXJ1WTNMam5QUFNMWGVCSk1hSnVucE1KT1dmNXlYUnVMRGxiamhVRVZxenp0aW54MzNFRHZseEIwU0RFemFPUG04R29kaWNXb2IxcktnZWZOSlpGSF9pQnMxeVFKWTRtU0locXdMMURpRjVfa3djWk9mR0h6MGc0SkVDektDaFZDdWdZMVNEQmUweXJFeHo3QV9IbkoybnAwYnlsUWRSWUZUWWM?oc=5"
         },
         {
           "name": "Интерфакс",
@@ -244,6 +220,30 @@
         }
       ],
       "publishedAt": "2026-10-19T13:57:00+00:00"
+    },
+    {
+      "title": "«Беспрецедентное событие». Путин предложил Трампу и Си Цзиньпину обсудить Украину без Зеленского",
+      "summary": "В подборке публикаций: Газета, Meduza, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "Газета",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JRF9RRTFvbHphSlY1eWx6TDEtUHNrOTlGeXh4WmpCbm5kd2djU0pnczRiLTZHY2JabFR3RGNYQmFJeW9BZmt4M3hySHhRVFJ3V3FEN2JyV2dVam5Vb3Y4bHU1QU1GUXppc1MyN3FJNXRPd9IBd0FVX3lxTFBRZzNEeGg4Q0RRQUsxWDQ1NnVuLUZoa3k4X3F2eGxGVEFpejVYM1VDcXZMSExnWG1WWHp3V24wSmFvRTNfMDExNlZXR2lySFVidWFWaXU1cG9Mc0l6cThRUG9uM0pWSE5qdHdKX0JBc1dsVEY5V1Fz?oc=5"
+        },
+        {
+          "name": "Meduza",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOU3NnVXdMYXhfeTRZWkRObFhkXzlHektfRXduRDNBMnE1YWlSVXU4aU5LVy1VZVB4UHNtMlA4a2FfVjdLb0MzX1lwajk5Sy1TYWsxbGhTWnBRM0FBdjFQUWNiOUg3UnRtOEVENW8xczZPVE9TZm44NnFLYkNlZXZlamZleFFwNXB2eE1WbnZ0M2FjamNsWk9pMGtrRjdEa0MySHJZb2NETnlvY3Z1Q1JZMFBVVEsyVDZhVkc1S3Qyb3NOMUhvajVScC1HVHN4bk1odFp1Q2kxTnRrWFpBMEhkcFFzYWFwR2x3dnZLTlJUQTlONTlSaW85LTI1eWc5bzZk?oc=5"
+        },
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfYjBvbWRpSmRpMmNEenpfTDh1T2lyajJXTlpfVkRadVFMR0xzbk1zNERjLUVlbGV0VzJjTFkzMlNvNU5rbUlBUGNpX1FQd9IBS0FVX3lxTFBLQWJTQmlFZkhzUkhsMHdDU2U3MGVqTEd6MnJtSzJkenNleV9OaEpvMjJ1YzFPMGFxRzdMZEVSUUNEdDVPMTEtSzF4WQ?oc=5"
+        },
+        {
+          "name": "Радио Свобода",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEpjbnVqSlZyQ2c4ZFhYN3M0OGFJaXpFdkV5NHBULUZQaGRDZEU2bzFwY0VIMk9JZ3VTUUNrbEZtT1JTRG14VGgyejVQY3BjSk9Ra3VMU1VrUnh6Ty1haUVZdExIbEkwZUZIc3ZHNlE4MzBwdi1iWVdXbmhqUzNldTJub1N6U1R4RzJWVHJJT1R2b0NUcUxBQUtDX2Jxazk1UklGUnZ1Nm8xOER1UDE00gGyAUFVX3lxTE4tSkhzR3gzMzR5dGZ1RGdpcDNTaTRjcDVUQUFfaUQ4cVBkdXo2WEl0Q2VYczBUT2pObDVKN2RBekd4bXdySzlhb3ZhUmdBNU5qS3BqcjlGSFdQSlBUQXYxcG5LWkx3ci1MYWYtM0IyME5FeEZlT2xhX0hlTjRjc2JlV1V5ZkVMOF92QUdxdmRib0k2aGJ1QXZuUE9jUW9oWFlHZUl3Y0c2WmRrTlEwTXBEZVE?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-19T09:26:16+00:00"
     }
   ]
 }
