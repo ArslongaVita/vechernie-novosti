@@ -1,31 +1,31 @@
 {
-  "date": "2026-10-20",
-  "updatedAt": "2026-10-20T20:19:41.184643+00:00",
+  "date": "2026-10-21",
+  "updatedAt": "2026-10-20T21:40:50.048127+00:00",
   "note": "Автоматический выпуск по русскоязычным RSS-лентам Google Новостей: приоритет темам из нескольких изданий и позиции в ленте. Это не рейтинг репостов. Ссылки СМИ открываются через Google Новости.",
   "world": [
     {
-      "title": "Уиткоффа с позором отстранили от пресс-конференции по Украине в Осло",
-      "summary": "В подборке публикаций: URA.RU, Meduza, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
+      "title": "Зеленский пообещал кое-что передать России",
+      "summary": "В подборке публикаций: URA.RU, Meduza, Ведомости. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
         {
           "name": "URA.RU",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE15UVhGb2JWZ0VqR1hTVU5oR09aS2xTMHhtUU1TYkF6TEVqS1RQMUR0R25FWXJSczQ1MjNwcTFlTGFBLW5HdFVV?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE15SDgtZXY2VmZ0RDNGS1VJZ1hlU1hGcWZRMEh2N2F1bm9mVXNrZmZFcURRUy1kUTFTbVQ3N2ZnRVdwV2ZvTFdV?oc=5"
         },
         {
           "name": "Meduza",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb05MVzFJU2d0WUJRdGNaTmkzZlJVeE5XLUlGYXBXVzRLREVVM3NpTVYyY2dCS2l2bktVT0ZOM0M5Uks4TVZRSWM5ZFhWTjctNE1iNWMzUzZRR1IzV0hUQm0xQTd2TUJ6b1JfcU03cVduc01IMHdfdXdVT0hjYTRvSkEwMmtzb3lEdEhLS2p2ZF9NRFFYUmgyYVo1dHplUkpJUkczekxOem5VMXh5Qy05ZVdGXzJtRXFOTlRz0gHAAUFVX3lxTE1uMFIyX3ZTSk9NUjF4N3B1Vk93M1BkOWlpeGhReHltUzR1ajZ6dW9IeFo1eVhMRHFfdmxDRTVoZ3hPMHM5Um44OURVTDhjeEJNWmIzZGEwX2xoOUVudEJHaEJmSnNOb196T2lNWHVtTDZ6a19nRHZSN2M4WGxjN2tQUk1iOF9CZjA0MFp6aGlCYWV6a041Z1dWMzYwbEJqWDVkeHdSM1RqYjUtb19HZjYzMmRKeWp1RFdNc01pYnpuMw?oc=5"
         },
         {
-          "name": "Интерфакс",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mRXE2T2dtQ2Q3T1Y4dVpmV1Z3U0pxZi0yU1luTmJRcThQeDVLR25BMFhwYmtJU2RaX0ZnNzZUd2ZLdGNBSk5LVkh3S290Z9IBS0FVX3lxTFBSeXpFWGVoNmJiSUQwVENOVlpFYk5TM3JITm1Mb2VRZ0VZZFVHNFh1MTlHdFByQU5Ed2lGV1JtRGxON3ZNR25lOGFIMA?oc=5"
+          "name": "Ведомости",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjJPS2VhekFTbnE4ZWlRczBCV1VaeER5UTlrR3JubUlWekc5RnJSVGZFS09sTTZXUHpkQlJtRDJNclQ4Njg2N2NDOUFIaXQzdkxZU2FvcjIycWlMR3RLYVhINkJxTUZvV0FTd2tfR3FKVERROERUdkR5aGRmNndoSFhoZUFCREptZjNKQnRkX0xjbzZ3dWpvNXBtcloyY0UxYmNhRDBYSmlfdnM?oc=5"
         },
         {
           "name": "ВФокусе Mail",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVG9pSnpxTXBZN1RFTFFmTmVGYmpoZVp5dkVDMGk3NXB1UWREWXA5MkRGc2tPSzY3VnJUT0otRThCRjVuLU1mQzBXUHBUeVVSdHJBMzhPVjJ2MExoNHFyZUc3UDA2TXB1ZWplZ0p5RW1jZFI0Zy1qVlFlb3B1YmYyVEtabzZlb21jU1Q4QlJjRk1xV2VNYTczZFlXNTNGQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXV6NmZaRWIzQS00cjdIaHoyaTlzaWo0SGw0cjhQcjBKT3JmcW85NHVLaVBDVERNdHY1Z01fUk5TYXVfV1pGRnZsbHVZTlJuUGs0Sm1GMVVGUUQ3aW1iZHZkTzljUmp3YjdCcXp4c1JKWGhBOGUzRGI1XzZUeEswOElsTVdsMUFua1FHZE5Sbkt0MTFacWcxeXp5TFFCUGFEdnRVNFJudw?oc=5"
         }
       ],
-      "publishedAt": "2026-10-20T17:57:00+00:00"
+      "publishedAt": "2026-10-20T17:28:00+00:00"
     },
     {
       "title": "Жители провинции Альберта проголосовали против отделения от Канады",
@@ -52,52 +52,28 @@
       "publishedAt": "2026-10-20T12:20:00+00:00"
     },
     {
-      "title": "Газ дороже на 69%, торговля сократится вдвое. Армении подсчитали цену выхода из ЕАЭС",
-      "summary": "В подборке публикаций: ФОНТАНКА.ру, Интерфакс, ВФокусе Mail. Подробности и разные версии событий — по ссылкам ниже.",
+      "title": "Украинский дрон пролетел через Польшу и взорвался в Литве. Туск сделал заявление",
+      "summary": "В подборке публикаций: ФОНТАНКА.ру, Интерфакс, URA.RU. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
         {
           "name": "ФОНТАНКА.ру",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBaXU5ZUJ3TkVQbkRKRjhGN3RVRDhxZXRWN0RmbUZqWS1vZENpa09LLWVESVVvcG5qTnNxRkthRjFTZ2lGbE1oajFKbWROVi1QemJzdWI5NA?oc=5"
-        },
-        {
-          "name": "Интерфакс",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxeHJSckFPajQxWTdLQlhra1Q2WVVyelM1ZXJhTXZHdnlyQ205ZmY1TjRjRDljMHNVMmc2YWh6Z2k5OFRUZWg3bWlqdm15bEtyUkHSAUtBVV95cUxOX1lDdE5uTEgzOGhTTXRQUlRVY3o1aTVfS0RVRlJqMW13Zk1QcFVjVC0wWFVUbXZnaWQycXZick13VGgyeW5QdGxmYkk?oc=5"
-        },
-        {
-          "name": "ВФокусе Mail",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDNJdEItdVQwNmplZk5VdzhjcUpYaVJvVFItWlZzVEw2WG1oQzFxcE1KdlBTS29ScGZwU2dmano2dzJEUFZxYmNlTVVwU3UzSW1UMTJVWThFXzVOSU85QlgwM1lhQVVaRFdxMUZIdHlnYWRXbTYyYjM0OWNJYmpCVk5WTWc3NnA5Y0YtV0NtNkc3N1dPVnlxUnBReklRY05hNERkc21aeDVhQQ?oc=5"
-        },
-        {
-          "name": "Сноб",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONEFzY1BqcDBLYnQ4MFZ1bGRWMDVkZkxEb3FOcWpBMGhUelpBdE1ZRkNpMUpJZ2VZRjNpVUFMelhRY0Y3V2xtUWVwR01nT2tKWnpNRFNVb3p1SmV3ME1za2ZKcHNBem9EdHhPS0VDUHEzYUN6QWJGdVFGVjFTQ0M2UFNqbnRCWUkxdTJoZ1haa2pMVnRob1YyZkNLbURyNVZ5THdrdEZMNlFyLVBUNE5CRDdmN09RbTNM?oc=5"
-        }
-      ],
-      "publishedAt": "2026-10-20T11:50:00+00:00"
-    },
-    {
-      "title": "В Литве узнали, откуда прилетел дрон ВСУ во время атаки на Ленобласть",
-      "summary": "В подборке публикаций: 47 новостей из Ленинградской области, Интерфакс, BFM.ru. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "47 новостей из Ленинградской области",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwbE5hdFM5ZlRNZGlvUmNldmtBX2xabklDTUZDY1d2QUdqckJqS2MzRDJuVDIxZ0pqa2lZd0I0d295LTFrUFU0SA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vWk1LbTYxVDJnWDBLYVVPTllvWDJQSnlqY2M0bTE3RTFwWlprbk96Ykp5ZmZKeEozeDMxaHRMZGNsSGh2UTNTQXlkVXBvSUoycTR2azl5bw?oc=5"
         },
         {
           "name": "Интерфакс",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBodVN5MThtVlRTWmFvak9CYWRPLUFTMldLVHZEYXVUeE9TZ3R6VF9GVHhZX00yT3BKb1kxQTAwWnVwTjIwRWJXWE9fU3Zkd9IBS0FVX3lxTE41Z19fM2Q2Yk03LVZacHd2QWMtRzM2ZGtaVGZrazF4WnEzVWRyalhzeU4tSXNHOUdLdEVsTzdyTEVGOGd1Y1Q1T3pWdw?oc=5"
         },
         {
-          "name": "BFM.ru",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBPN3JmOHo2Y0RkU0V1UG42OTVGaFRLVEx3V0hreGs1cXhiWEVIbGlvQVRpX05ROHZicXFKVXd0YUtoY2t40gFKQVVfeXFMTTJvbmFFVUdpV3dWMmVSYkpmV29LaUJKNkpOVHNOekIwT3puTmhkeDB2NzAxN002ZW1RSlRxRGhJYWVVOGpuckczNWc?oc=5"
-        },
-        {
           "name": "URA.RU",
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5XS0JzemZ3T09WbWtNcFpiVmREX3NpUThqaHI1cFBPcmViZ19wRUlhdUE5aUZvS2tjUjBwVXk5VHptZ2w5eEJr?oc=5"
+        },
+        {
+          "name": "BFM.ru",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBPN3JmOHo2Y0RkU0V1UG42OTVGaFRLVEx3V0hreGs1cXhiWEVIbGlvQVRpX05ROHZicXFKVXd0YUtoY2t40gFKQVVfeXFMTTJvbmFFVUdpV3dWMmVSYkpmV29LaUJKNkpOVHNOekIwT3puTmhkeDB2NzAxN002ZW1RSlRxRGhJYWVVOGpuckczNWc?oc=5"
         }
       ],
-      "publishedAt": "2026-10-19T20:29:00+00:00"
+      "publishedAt": "2026-10-20T14:04:27+00:00"
     },
     {
       "title": "Фото. Блокировки соцсетей, платные вузы и безработица: из-за чего протестовали студенты",
@@ -122,104 +98,80 @@
         }
       ],
       "publishedAt": "2026-10-20T12:35:15+00:00"
+    },
+    {
+      "title": "Трамп заявил, что Франция может перестать существовать",
+      "summary": "В подборке публикаций: Рамблер, Интерфакс, Ведомости. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "Рамблер",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNi1zdXVJU3pnbmJIZm04c1c0TklMd01pNnVSdGJaYlYtSHFrR2FTRzJCWEdYRi1GZ29WT2p6eDNSbDJuNE5OaUVjb1RGUTh6SUFSVTVIZGNnaTNkTXBNSkpwWE96M2hhWXhKZWJhbC1FQ2tFRTByVUlaY0lLVHZkSVNhdkhrRU1NcXZmUDF0b3ducmNGMlNXM00yMnFyX2_SAaQBQVVfeXFMTS1yY1hNelN5ZVJXQ2ZENHVFVlIwZTdRQS1fUFVENzlzQ0sxLWc5ZFd4cHhKSDRCaHZBcy1pbFlMRFVLOUlwU0V1eE5qaER6cGpWTElRdlJhWUQ3QUhieFprNlUwN2JXUkQ1NDNPQmtZZVRvUzVQb2VMdHNOcnlSU1RvNFpDZE4tWW0waHhWVWtNS2kxZ2JuaExLNXdtLXZmd2FvZTA?oc=5"
+        },
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtRzdoSTRXaUkyVTJ5M2JqaWNRN0s5VHI1YkNwNjFTWmhyVGk5UmJENWY5OHc1LTl5RVZHRExJQUY4SFZsd2NSa01OYWJmd9IBS0FVX3lxTFB3OXVheFFvWXoyeThxdVZWbmR6dVBlMThtOUdwM2hNNWhLNXlQT2dULUMtTnpFOE5JSlpvel9oRUN3aWdCVW51UG1PUQ?oc=5"
+        },
+        {
+          "name": "Ведомости",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkNibzZrV1o2LUlEYzlRV1lQdnpBOWROU1F2cnNWSzJ3dWp2RmJuTWlhbDNLY2pyYnZKQW91aHJDRjNGdnJwZENyUFFFX2ZkcWtHQ0NZSEFpajZNOEJsMFNTaXotY1JPZnVYdEJobUlwTjdaWW4xSTllS2s3NU9DeEdrQko?oc=5"
+        },
+        {
+          "name": "BFM.ru",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1aUVp2WWVKeUxMc0tZdW53MXdtWGlTS18tTEZpTHFweEVfUENlTVVITFJ5WDBScmxLR0ZMNU4tejRDZ0pt0gFKQVVfeXFMTVIyVVJoMFhfUklrN1REZHJEdDkzOTJ1UmtydWdrYlU1ZFhFQUNYTkFwa0dBQ3gtZ1BqWlU4ZkpuUEphbEVPZ3V6Q1E?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-20T20:46:51+00:00"
     }
   ],
   "russia": [
     {
-      "title": "В Думе предложили усилить ответственность за призывы к массовым беспорядкам",
-      "summary": "В подборке публикаций: Интерфакс, Meduza, Радио Свобода. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "Интерфакс",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iY3JXUkYxMVdlQ2lTUkVkRVpnNHdaeVFSMjFjUWgwRzlnM1pxMTl2WUZMUFRtMDJUQU9jQUFYQUE3U1hfV2tKYWN3U1hyR0HSAUtBVV95cUxPaWU4Z0JkZnNiZl93c3dHYWlsSENSNTVHSGM1ODR3dWJ2UXhjTWIxbjdTUk05TTNWeVlTVTBLbng1OW9tdGVoWE9Ualk?oc=5"
-        },
-        {
-          "name": "Meduza",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONnpTeXlnejNSVjVIZDhtWjVKS0tqeEVGTEhPa2tqLU5rM2Fib2NrOU1iLW9JT0FYWGhRYkJzQjFNUEVUV2tFS0Z0UzNSX1pNcm5OU2x1R3laMHRiVmVaMjViNHA5RDg4UVAta0dKSmhXLVRRdnRqVWFmSTAxM0o3VDE5RVVPTGpQZGRRZmw0MmdFTGZ1U3J0SVdwTXNnb0o3VWp5TF9iU1J5d2pBNGZna1RETmYzU0ZFVHpBeGdHWmd4REVOOFE0MVJRS1FldWNNQ0F5d3lQTGtPeGpFU0lEY1AtY0VtZG5saFhuX1ZQZ2JsWi14cXdZQzU4NDFJM3RkLU9tZF9IY9IBjAJBVV95cUxNN3BvN3MtVEVaSVBBdmM4Zi1hTDF0SEZSbnZiYTJZalh3Y1JnNTdwbFVhZHhIQktlSWRjRzh5M1V4UFpab2UxaDBmYy1WeWtHUFNIT1NveWNXUXF6T1poa1NmR25SRDQ3LXJpazRhc1p0MjNqNS1oWjBMaHRUN2NtX3hoQlBxNnVIdXhLR2pVVXEtM19LSk8xYVJLcFU2bzNPWUVsMTJiUG8xMjY1NFlKaVNUdHA1NFlRT1RZWjJEOFhBVHp0aUo4ZnAtYm1Md0doZFVhSXNiaVMxdGhaeUlyN1lpWDRDSkpqS1VZVUpoR29hdl9LTlFCdmtudW1majhGaG5DMEE5TzcxQmVM?oc=5"
-        },
-        {
-          "name": "Радио Свобода",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHphVk5iX1pOcWZWNEcyUkRHQ0hZV2JZdzRKc0wxYXNLVGlxaHpuYmJydVgwTXM1dzZMQnhPN1A2VDZSNHE2M2szLV96cmVZUVFpT3NxcmVEX28xOVQ3akZ4OXVHdWlVQzVjZ1ZRMkszeVkzVVVfcld1NVoteEdsQzAxTW9DUWt2OTh5OXVfaWp1bHpCbnllTVNuTmYwWVNubjVkQnpZNzJPY2xQa252YnVLa1ZQN1Rrak400gG-AUFVX3lxTE1iZUFpUFJreFdudHZQRFVnZmhxZERfNmotWVZYV3dZS1pzbGJJaFA0M1NLTzdHQjQ2aTNhQ3N2cktELTNTU1VWVFlNeGFxUGdaNFZjT0paZkFEd3NtQ19walFKemJzaklOTGRyQVg4ckhMcEJfZDZPU192cVBaTW5QVU5rV3Uxb2tRYno3dHdJZmVrU0U2R0lTajVfLXY3bFppaTZGQkFINlBkdzVjT0d0eE82cTZPZ19scmcxU0E?oc=5"
-        },
-        {
-          "name": "The Insider",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE81LW5tbDB2ME9IU1lhYS10UVlKYS15aW80TFFGTEozZTdQb3VUQS05eGI5dEZMZlowUzIwWmhlaHljSWM?oc=5"
-        }
-      ],
-      "publishedAt": "2026-10-20T10:19:00+00:00"
-    },
-    {
-      "title": "Назван срок прекращения работы популярной у россиян платежной системы",
-      "summary": "В подборке публикаций: Lenta News, Ассоциация Туроператоров, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
+      "title": "Рубио назвал три наиболее могущественные мировые державы",
+      "summary": "В подборке публикаций: Lenta News, Meduza, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
         {
           "name": "Lenta News",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZY1FKVWRzTHMwQmxxSzh6aU1zbm5tSWIzV1puaDFabXExTkszMUZ4ZlEtM2FhNXAxRFZhVkhiV1BuWWhBSkpRNDFrZ0dxNktfb0xj0gFYQVVfeXFMT1FaSG1EMFdabGxicFpqVFNCTkYwQVNHSUVjOEc3YjJLQnM0S05wR1VYZVB2V0VnWXpjaTJ3VEhMU0lwaVdENlY4TWdUTTRDYzZhYmYyNzYzSg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNXNlNEJ3d1ZtQzRobUNJeWl4aWlxdkxfaWp2WFdIVGFGY1NLZ3Joak5QdjUwQVBSeGxNWkpLVlotbFpvN3dzZGhIUlZnRVFvaVRTajRaUkF4YXBKeTBROC1CTVBLRVAtWjVKVUd4N0hWR3p6VUFqM2gyRi1YY3RhN0JNRGhBVkpIaTFaYXIzSnJwMDRtb25LTWNiUdIBoAFBVV95cUxPaVRfMENCa2R5bVVZME91SXZhcHVpSnNlbXNTNjNCSU1YNi1zNjloaXhZWlI4VFdYV1FoNUFteHo5SzBGdjVJNzdrZTBob05Rc01fOXQtcDVaY0l5VXY0VzFaNzJ0RTF6Q200T25IQm05bDhGcUNPT1ltQ0VQRGhoSXVrWEpPbkF4cEhRLWtzSXM0UHVHQkNKdEZ3VmxrbXlK?oc=5"
         },
         {
-          "name": "Ассоциация Туроператоров",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZlBIRDJfOU1vaGNYTFZ3b3dsNkdtS1NiSm15cm9xZFdXTzFVQjNvMlNyX2VsWmhfSFZZUXkyVEdBREFKOFA4V2tLSEdEaEo3TDlZQ0ZGQmNHanZxMERPNHlWTFNDWmVzWS11OVFTVGhDRW5qc0FZWGZKMnZYSFoyeFlkYmt4bnpnc2lJZG5SMmJIdWlySWlkVWRBRVVmWmk4S2RRNW5tR0prN2vSAbABQVVfeXFMTmowWUxSWTFIWTY1T09Cb3k5MS01ODNCLWt2OWtQdk9GYjF3bUF6THRFbkJONl9Jc2o3WXZMTUp3NWxFaVBaODZUXzZyS180NHlHLUtJcTRRbUJaWmlHSjhmVXVnTFZSZXFZR0ZzUC1rNVk0ZVoxWm1kWnJOYWhfUlhrTjFTRm0yLXZHOGVqTE5zXzBCazA5azdxYUJwR3prMjlOTTBPRFo1bVBFbWJFbE4?oc=5"
-        },
-        {
-          "name": "Интерфакс",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CMGFFYk9TQzNRLUYyUWd4T2ZIRFlUX3o0TDhFOXZNVmNhcFdfYnVRNFlua0tUOGdPM0hZc1E5TUtjRUZjQVRxRkRISlg3Z9IBS0FVX3lxTE5yVWJsLWFUOHJhZmFOUWZXSHRvVndjcXJjWVdBU2hVOVV2QzJ4UlFiWWRxbTZoVGg3N2lzSXN5R1A4YWxxWXJyMFgtbw?oc=5"
-        },
-        {
-          "name": "Ведомости",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1JPTnF5djZveW9NZTYtMDhvTC13QVRNREhTbjg3aVFDNTVEeUsxYnlvakpNdkN6NjA0ay0tVTNndWFwejJIZEpWdXAzaEo4dDZOd3hMOS01U0JfNzRqdzZxWUI5SnZtN0xPbFZkTXFURDgzVHU2RXVFdWRDNktsTGhHbVJ1WEhGZy1F?oc=5"
-        }
-      ],
-      "publishedAt": "2026-10-20T14:24:00+00:00"
-    },
-    {
-      "title": "Долетели до Подмосковья и Псковщины. Что известно о ночных атаках",
-      "summary": "В подборке публикаций: ФОНТАНКА.ру, Интерфакс, Ведомости. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "ФОНТАНКА.ру",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BT01xNmcxcW5ZR20ySmJ4czlnNlJBWTBLcGNuRXQ2c2JFRERKQS01SjBlN3NPa3ZlR3VmOHI3U0FmUFN5M1ZjM0lkeXhEUEdjYlhZUmhjUQ?oc=5"
+          "name": "Meduza",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVVBEU1VoVEZPc2FSd2RJMmVBN1VibGJHWEtEQk5DRE1QNTVNRUJESlh4eEdFanNiNVZiRWJ5ZUt0REpWVGFKenZwVHljZ1pRVzhrQ0l4dDVQcDF1dGF6eTdSX09XNXdwNFFpTVZLcXc1UW1haFJVcDB5Uk1BN0xJanJZRW9mRncweG1nZks3Z1hVcDRwUVdDMkxfUGhGbXBtbnF2OXNLcUVSdzBxajgydzUyVWpWbC1hQ3ctOTJZSHVBU2V2SDZ6d1F0Yjd5SVNuRFhsVGtUVkhFVFJFRzlZRlBOVy1Eb3k3b1k2MWlLcTJIRzNBQkMyWHRTWlg2dEM10gGGAkFVX3lxTE42NmVVN01MNzZMbW5JbG9sRDFqc2xXREpQcUo1SXZqa2drUjF0amxlLVRKWDhqd2dkLU1oT0F6U0NDN2NieWlvZGR0ZXhJUk1LYUFaY24xTVhOcUpQbjQ1dmFEZWd5UFhjQW1mZXBBYXFyLXBsQUNBdHQtTXJva3lRbFRiSWZSY2NTNmFUMTl5TWJLVElJajFrTHBLU2gwQmItaWthS0QxcUdEMGZ2OTZ6dHpPa0JBcGRiXzNJQkVHZTd6cWNvRDIzU0FWd3RiUXkzOHpaVDBZbGZfVkR0WmtFVmR1UnJ6SHdNY09lTW1LZFVrdVlGNEZ0THVCbTQtdXZGYXlOY1E?oc=5"
         },
         {
           "name": "Интерфакс",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwTWVTMVI0UV9SSDk0b3JYWUJKV01nRVlQYmVsLWV3RS1ldVh3ZDZfZXFYdHdkTGpSX3k0REFfSzN0NmFIVEdxTWRkd0hWTk3SAUtBVV95cUxQdFhPUkVCcXVVTlR2TXA2MEtYWlRrN2ZmZ1lvMEh4TXlNdGpXZGR6U0NaemR4MDZiVDQ2TGwwMlQ5VDFrRlFYaUFUOG8?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SSnpNSkZiY0pTVzBHNEJWWHowblZ4bTVpOTJhNGs0MWt2UUM0YlY5YzFGWnZyUDd1dWQyYjF3NlBMWVRGWXZJUTJ0ZC1wWk3SAUtBVV95cUxNWkE1ZHdtMjZsUHI2YmZQS0JIMXM4YzRQQk0tVU1JaGtINHp3U0YyVGtNLVMzcDM0NTB4Q2pjMHZIS2NEV0lLZ0xad2s?oc=5"
         },
         {
           "name": "Ведомости",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPempzclJ0VEhQX19Cekc1YmpGaS1MdWNGUm5oazVvUWRMQlluRTJNa1pnQjJIalBhbEJhbU5OeUk3b2R5WjFlNVNlTTFBQ3VnYzhzQ1B1Tmc3ZVotcmZuSUdXdk55S0g0ZTFFTnlPd0FEeDI0TWJtbF9ybmo?oc=5"
-        },
-        {
-          "name": "ВФокусе Mail",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVlY4X2pidktvWEVtNW9xUmlRU3l4YVdWU0F6V2llVDA0eG16eld2TUJHcVRtdHVIRlI3ZXRUVk9TU3hjeU9DWjJoX3lIa1U0ODFNVzJMWXRqTEdxTEo3OHRVWlNHZzhZMXJ0ZlRnUE5qbi0ydHg0UndkRXFzSUxxdndJUV9QeWJITllwUVN5aFZDcDR5X3BSNkxmeE9SS0NRZDFqSVViQjlvZnZ5ZUo4Sk9xaWpLdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPckliY2lwN2NJQUNQQnY4cHhaSGhWak9QTVA5NE5mWlcteGU2eDB2TUo1ZXNUSmx0NFFxNlRiQ0E0bXRDcGdxRTZYcEppNWlNTHFERjl1RC1maVplcnZia1paenVUS0tyMG9qS1hiSUJCLTV2Uk5Hd05SLVJSNkg4QWtn?oc=5"
         }
       ],
-      "publishedAt": "2026-10-20T05:17:00+00:00"
+      "publishedAt": "2026-10-20T11:40:00+00:00"
     },
     {
-      "title": "Уголовное дело в отношении Navai прекратили",
-      "summary": "В подборке публикаций: Lenta News, Meduza, versia.ru. Подробности и разные версии событий — по ссылкам ниже.",
+      "title": "Россия возобновила поставки дизеля двум странам",
+      "summary": "В подборке публикаций: Lenta News, Интерфакс, Korrespondent.net. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
         {
           "name": "Lenta News",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3BWYkxjOTZucVM3Wm5fZGZucjlPWnNSYjNfOS1oakYyeklCS0xzNm9YbUNGdVdzUEVycjlYSzNMdF9IWTBYbm4tWXdVNVU2aGNMMjlBX050WEg2MWFQR2tXaUFjVnIyWHg3MDBDSzFPYk9tcVZaMjBXTERZbGFGZGRsMm9jTUnSAYwBQVVfeXFMTUxsaWtnNkJVOEIzNGFmMU1KWm1VUlZmdzBnYVpfTDJqVGgydC1XTUJJaDlrNzRKei1uMDBQVURjYVVkelBRUWtsWFhFR0w2VVNRZTFxSm1jS2lWWkRWenhQRFd6TGJCUHNzQ1IyQTZrM2FfTk1ZMUgyaHZBSXRmM2JxaW1qSUZwN2hxQVk?oc=5"
-        },
-        {
-          "name": "Meduza",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObUprd1IyZXVpcFpLT1pKNXBOMHM4b0RUWVBkRVdtVDZZLUd0MDVUQm8wUTZaMUh2YjYwSjlDQnYwaXRBLUl1WWFrcWdNU0NVdi1DNjl1NmsxVG5IVndYaDVuRHZ5QUlHR0J2b2dndXJBVTM1VENDQjVMWUE2Nk1oSFpWSW9ZUUM2ZjlUUEQ1c3paZTJtMXNYNVNOUmdyTXdnUFdVZXdMZGpkUGdxbkpoVk9oUzhhbldPcnQ0Nm9DZ1hZV3h4M200clVRbDNYQdIB0wFBVV95cUxQWnJnUlQxNTR6ekZxeWk1TDlpZVY3UlAtSi03OWg4Y0gxUXJscEFRU3hQcTFjbUd4Y1dRVFc5S09iZFp6VURfZllVTzVVVGRlMTNyb0dKdV8yTTdDMm1YM0ZkTUY4NTRXQThuMHROOFMzSHV5clpBZ1FlZXdCQk1MRWRkZ042N1BpWW9nTjdTX3kwN1A4M1czbGtMelJRQW5Zd1RrOUk1a01BTVZ1ZHhEOVdZUndXbXZmUUxDWVdNLUtGaDZkR1VIOHA2Ml8tSjRDZHhN?oc=5"
-        },
-        {
-          "name": "versia.ru",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeTBnS0dudUJvVGhOSTh3dE1XYUNwdnYyeWdrdldmSkJGQUQ1aEFsNkJjMjJpZlAzYXJEdS1WWWRGNGRMZDkzMFF4ZFg5NGhITzRkeDU5LUY5TVpCRzItRkd6THd3dS02YmItTHB1aFItYmczUU9yYVlteEdVQ0J5SmRhVFVoSlNtQ2VQZmtKb1RoQdIBlwFBVV95cUxPbWtVdXU5N1E5VjVUWXM4cDhmNVJoTF9Ga0pXbTJraThIRTA0WC1TSGwwN1lzYnNWRkdzbDA2c1UyQnNza1daUGpBWlZOb3IwSWlxTG5wd3NhbExBNFNZdy1icHU3cUJCMUVzcjIzT2tsR2Iwbi1YdTBkOE11b2lmWXZ0a1NzTVVsSzVKZUFPb1JfWVVTVEN3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcTR1ZUVqU010eGV0dnlaTGxqdGtfUW1PY0wyU2x0S1VNVk9CQWtyNnNDMHBfNm9ndGFiRUlSUXdXR1VvTWhRM0VLVk53ZTFoeVpfSndYYlZzM3ZXTV83bDl6N2VqRlIxdVh5YnBYbjhXeE1wUUQ5N29reDBod1daU1hLMjh1Z0NabUpUNzJR0gGTAUFVX3lxTE82blhTOGtPV0pJNDlkTGxZdkRYM090TnB2ak9XQW4ta0g0bGtHczBBQmRyRzJYMTNEdU5NZHNrMWk4MkhCWDF5M2pWOERxRGhBSkgycWxDNkZLQWVWbjFwR0lLR0Noal9VOFFoYjZYRGxRMUpwTHFaNERic2lFc25UNk5COW5IRkQ2aVB4R2tWNTlXMA?oc=5"
         },
         {
           "name": "Интерфакс",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5T0ZRMUljZW9pb3lWSXpBRnZpZHVHOUJseS05d1FmMGYyVktZSEx6WVJJb1lURXh6Q2VXU09JdDJCSlZ2a3NPUEJPaDFfQdIBS0FVX3lxTE5ld1dUV3V6clVYZFpRTW1TTExQSUI0YjEtdDJxRTR1RWY2NnlqRTBSUmYtT3o5U1ZDZW1TY1FQLTB1YU80b1VOQjctNA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oazVJTE1kTFpUWDdFVDM5VWc5bEcydFNFLTVfR0Y2UGtoYU9lZlpnSV9hUkNNYzJIbnNEc3dUdFBZcVNnbVktZ04zcnRsZjjSAUtBVV95cUxPVzg0dVdGcjk1WUo2aDRGR0pMb3lCejdYbnFjSVRFS1NDLXFValJyaVdTR2FBd1l4MUVNVG8wZzhCVjN6S3RIUUMxZE0?oc=5"
+        },
+        {
+          "name": "Korrespondent.net",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUHRkbFRiVGRmVzRUZ0RkR0ZqakpUamxQZGtaYWs3Nm9mZHpzajg0SVZWbzNsNUUxRlNVZ084eFRxeWxTQ2kzTFJHdGNmSXFmbGxaNEY3aDZFdkZ5cXZ2a29oMGJBWGEtZFdSd0gzUGItTlRtRGk2ckJpdklBVXFTd3FpWE51Z9IBgwFBVV95cUxOcHF5N0ZEUFMwWHdlckJvcnhCOVVzZ05faFRRSjJmR3dpTUU1X0NCMWx5c2tEaFZxX3VfUzZJczcyT3paQTY4NTA3ZUpJSi1uRTVQd0FZY0ZTMXhJS1NLU3dOampncTlhQnpBbFN5YlVVdDZITmZGOHVIU3lzWThLblFLZw?oc=5"
+        },
+        {
+          "name": "Ведомости",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNm5kLVduUUdrTkhnY2dQenlyeWpWV2NwekRyZFFRMkhuVHN1Zi1hZHl4aFZYUzdybU5qRmZYTjVWbGlibF92YkpyT1BtWlladHRiNVd1ZlF2cm96UkNsYktNRHdHeTdBSENzOWxlcDF3Y0lQTWsyZGNhemhBM1AtZ3lNcUhMVS1ndjU5TktB?oc=5"
         }
       ],
-      "publishedAt": "2026-10-20T08:51:00+00:00"
+      "publishedAt": "2026-10-20T14:21:00+00:00"
     },
     {
       "title": "Крепкий рубль стал опасным сигналом для экономики",
@@ -244,6 +196,54 @@
         }
       ],
       "publishedAt": "2026-10-20T10:33:00+00:00"
+    },
+    {
+      "title": "Медведи убили почти три десятка россиян. Новая жертва — в Архангельской области",
+      "summary": "В подборке публикаций: ФОНТАНКА.ру, ВФокусе Mail, Forbes.ru. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "ФОНТАНКА.ру",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RbGJsdEJUSGhFZFdlR1FMc1RleXcwTHhMZjVEb3U0NWxWZ1dGbmVkM3FPbUdkc0l3eUdhZ3FPVkVwSWloZG03WFJ3d1UxZnM4RF9EbWtoYw?oc=5"
+        },
+        {
+          "name": "ВФокусе Mail",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3dZUzgzN3hJRXMxc3ZEeGV0bDBoVFVSV0RkbWhmZVdjblk2T0JnOWN3SThVMlFlcnF2UEt1SkhPQ01TYjgxYlY0QjU2SnR3eTg2aVN5ZVB6Tk5SRHhyVHAxVUtxdVE4azhOdHZ5cnlVbGpXblAwd25tcEtHdU5iZGJLWkFuQXZwY0ZZMFYyY19VZkhwSTd5VlNHRDJrVWpmZ2RhMDl3VVNYaER2NTAyNHd5MWJoUQ?oc=5"
+        },
+        {
+          "name": "Forbes.ru",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMlJoenpxUkE4djFTcVBYVTZTU3VKUmJNcncyT0taVExpODJ0Z3BvM0JCc3ZUcTBCSW01aHQ4UWQ4UG1Pd3Bod1N3amRFM3l2YVB3dmlaMW5NTFRNZzdUaWRDa2hoRXBhODlVZ3cyejkzTFRDa2Z6RV9JSWcwV3VUVTZHUW83Y0h4S2FCS2lNb0QyRFJMcG5ENU9lbnp6RDNzdGRyS1Zad3BrUHRvVW1oVFlla1Y4aG84?oc=5"
+        },
+        {
+          "name": "Ведомости",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRDVzajUyaW5qUGc1OEdDd0YwcGtxbTdMTzZISTg3NGZkbjY2WHBDTS1mbTRrSzRrWThTcmpranF4eFNMTUs5WFZjUThnQVFfR3BHbHJkVU5tMlF1SjFTd1RoYTVYR2w0ZEdwRmRtRUxCeVZhN0xkMTRMRlNiT2Zta3Z3?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-20T13:38:07+00:00"
+    },
+    {
+      "title": "В Думе предложили усилить ответственность за призывы к массовым беспорядкам",
+      "summary": "В подборке публикаций: Интерфакс, Ведомости, Meduza. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iY3JXUkYxMVdlQ2lTUkVkRVpnNHdaeVFSMjFjUWgwRzlnM1pxMTl2WUZMUFRtMDJUQU9jQUFYQUE3U1hfV2tKYWN3U1hyR0HSAUtBVV95cUxPaWU4Z0JkZnNiZl93c3dHYWlsSENSNTVHSGM1ODR3dWJ2UXhjTWIxbjdTUk05TTNWeVlTVTBLbng1OW9tdGVoWE9Ualk?oc=5"
+        },
+        {
+          "name": "Ведомости",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcGJfOEN0WlA3S1F6ZWM4SHJyREg1b1BrRXJIbGRvMWlxWmJnYlBqRTJDOWZFZVdLbmY3MWV6ZkZNeUFDbi0yalM2MWlSVVJyb0ZwX1FXYmt6VVN0aG5xQVRManZ4NmxaVE1HQjVidXQ1RjVrMVhSWXR5bmZjaHJZM0xTM2hJTTJJOWNXRWZIWFlnRVBCMUJySkM3MkdFQzBOVERzSXlQaFg?oc=5"
+        },
+        {
+          "name": "Meduza",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONnpTeXlnejNSVjVIZDhtWjVKS0tqeEVGTEhPa2tqLU5rM2Fib2NrOU1iLW9JT0FYWGhRYkJzQjFNUEVUV2tFS0Z0UzNSX1pNcm5OU2x1R3laMHRiVmVaMjViNHA5RDg4UVAta0dKSmhXLVRRdnRqVWFmSTAxM0o3VDE5RVVPTGpQZGRRZmw0MmdFTGZ1U3J0SVdwTXNnb0o3VWp5TF9iU1J5d2pBNGZna1RETmYzU0ZFVHpBeGdHWmd4REVOOFE0MVJRS1FldWNNQ0F5d3lQTGtPeGpFU0lEY1AtY0VtZG5saFhuX1ZQZ2JsWi14cXdZQzU4NDFJM3RkLU9tZF9IY9IBjAJBVV95cUxNN3BvN3MtVEVaSVBBdmM4Zi1hTDF0SEZSbnZiYTJZalh3Y1JnNTdwbFVhZHhIQktlSWRjRzh5M1V4UFpab2UxaDBmYy1WeWtHUFNIT1NveWNXUXF6T1poa1NmR25SRDQ3LXJpazRhc1p0MjNqNS1oWjBMaHRUN2NtX3hoQlBxNnVIdXhLR2pVVXEtM19LSk8xYVJLcFU2bzNPWUVsMTJiUG8xMjY1NFlKaVNUdHA1NFlRT1RZWjJEOFhBVHp0aUo4ZnAtYm1Md0doZFVhSXNiaVMxdGhaeUlyN1lpWDRDSkpqS1VZVUpoR29hdl9LTlFCdmtudW1majhGaG5DMEE5TzcxQmVM?oc=5"
+        },
+        {
+          "name": "Радио Свобода",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHphVk5iX1pOcWZWNEcyUkRHQ0hZV2JZdzRKc0wxYXNLVGlxaHpuYmJydVgwTXM1dzZMQnhPN1A2VDZSNHE2M2szLV96cmVZUVFpT3NxcmVEX28xOVQ3akZ4OXVHdWlVQzVjZ1ZRMkszeVkzVVVfcld1NVoteEdsQzAxTW9DUWt2OTh5OXVfaWp1bHpCbnllTVNuTmYwWVNubjVkQnpZNzJPY2xQa252YnVLa1ZQN1Rrak400gG-AUFVX3lxTE1iZUFpUFJreFdudHZQRFVnZmhxZERfNmotWVZYV3dZS1pzbGJJaFA0M1NLTzdHQjQ2aTNhQ3N2cktELTNTU1VWVFlNeGFxUGdaNFZjT0paZkFEd3NtQ19walFKemJzaklOTGRyQVg4ckhMcEJfZDZPU192cVBaTW5QVU5rV3Uxb2tRYno3dHdJZmVrU0U2R0lTajVfLXY3bFppaTZGQkFINlBkdzVjT0d0eE82cTZPZ19scmcxU0E?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-20T10:19:00+00:00"
     }
   ]
 }
