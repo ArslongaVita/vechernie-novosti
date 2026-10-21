@@ -1,31 +1,31 @@
 {
-  "date": "2026-10-21",
-  "updatedAt": "2026-10-21T20:28:34.955306+00:00",
+  "date": "2026-10-22",
+  "updatedAt": "2026-10-21T21:46:25.026913+00:00",
   "note": "Автоматический выпуск по русскоязычным RSS-лентам Google Новостей: приоритет темам из нескольких изданий и позиции в ленте. Это не рейтинг репостов. Ссылки СМИ открываются через Google Новости.",
   "world": [
     {
-      "title": "GPT-5.6 Sol нашла критические уязвимости в языке «70% сайтов мира» — свои страницы заблокировали некоторые правительства и вузы в",
-      "summary": "В подборке публикаций: VC.ru, Meduza, BBC. Подробности и разные версии событий — по ссылкам ниже.",
+      "title": "ИИ обнаружил критическую уязвимость, угрожающую сайтам Рунета",
+      "summary": "В подборке публикаций: ФОНТАНКА.ру, Meduza, Настоящее Время. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
         {
-          "name": "VC.ru",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOckk4Zk5JYkxUNTlIRVVXNnRzRmVzLXF6ekpfdkUzU2hBNC1wa0lvdGpBNmNMZFJPeFA2UzBLMllCRU5pM2psRi1rU291dUtVZnZveTVYQTRtYlpRY0QyNFdkODlPTUFZUTJOZnNuVkhuOFhxZGhCa0FxVmxjSFB6aWNXUjR5X01MbjdjVVY5OWY4dWM?oc=5"
+          "name": "ФОНТАНКА.ру",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KWVkwV1ZvSndOMVZHS3ZUU2xMUVdmQkhDUDZhd2JoUHNBSFh0b3NYUkN4RVZCTHNiSmhxNjV5NlFFaWw5VmJoel9mQTNjUVRjS3lwbWt5OA?oc=5"
         },
         {
           "name": "Meduza",
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNeE1UYU9UeWpVTHJsVTNQZlVsQ0o0TUVPRHRYQ1dObDhieGI4ZWplRDVybm80VnhFMi1aaFVYREhiaHhVQ0hCYk02M29VYlFUUFhBa2FhVFB1NFYxVld2ckZfdHNjOFY0QWpyTkpEak5oVy02VjNUMTU3ZHN1NGh2SEdjV1hGNnJIdUl5dndoSktGVXh0aVIwZnpGNWNLQk9VbmJQMlUxMnpvZ1hGSW1mblBObXZNdTRsWVFoVGxnS2NaLTZneDVIb0ZHMWx1T2Y5ekt5TDRBTjBzR3NHR1dYZGV1RllVNU1QMm9GVlhXUzExbU83aXNIV0pqQUpyVXlMVGfSAYcCQVVfeXFMUDJTdG15ZGpQb01HeGJhazJOdzRCbXB5VXdVY0psQ2JtUXNxcFNKeU1wVk9UYVN5RmlqeGpTajJ5SzVvdE5nSXBPcmpZQ1ZnN0cwVWdNYU1jR2wtbDNHQXNvdHhyVzdZeG5SNk50bVZ5MVNiY2JONXh4MWxyNkgwbjFDVjFuVk1jMXNtbEFLRjlsYVhpMS1mSDBIanUxMFNVQTNGODVUQVAxVDhaQkdCbS1qY0tJd05kdm16UGNPTEQtY0pHaFJwem1lOWV1Q3hBS2otbVR0ZGgya1N5WUhJSzlPTEdUWGk5cWpSdDBXWm9NeVBOMGg4MEtNejN0VWpMMHBLb01Jdm8?oc=5"
         },
         {
-          "name": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtTkU3TG1xWThQTlFLUUJYcU5pblE2WWhueFJFU0l0WWpHTWRCMWlMd25UQlUzZkp4QTZlUmZnMFJGaVdWLXJqWUtHSzhtWnJJZ0xOV3hEcXd5TE5aVzQw0gFkQVVfeXFMTTN2UTE5RTRGUjNpQmM4WUd4MGt6dldGM3QtTV90SWxGNVNRbFJXc0o2eVFHTGRURnlrUk9JVzhGVDNzTkVDT05hbG1sZGozdHdQWW1HeXF6X2l5aHVCNkQzZnFscw?oc=5"
+          "name": "Настоящее Время",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR0oydXRJT2Mza3pJN2JxLVBDZXJac0MyX0h2VnkwOW9iNkNkU2dDdmFQd0JjUEl3dHZTVGdYcy1rMlpQeGt0bXd0TUd1OG5hVDh0cVBTVnZIMGtaeWhrUS0yVWktdjk4aDcwVnI4VkNFNGZyRnA2Mi0zRXNGb0cxUzA2UmJTd9IBiAFBVV95cUxQdjdPZ1dXU0NVeDFpNWN2cFJGSFc5b1V1WTczbzZxbzRuRE1hVUN4NG9SSDE5bDU3UmI0anRKdEJKaEdZZ3U5a3VxbnZYeUhLeEtRSkhXOVdSdkstWm45WWszYjh0S3U5cmxRc2U1NzRjdWVmdFVFekZUY255V08wSEFibGJlMFVH?oc=5"
         },
         {
-          "name": "Ведомости",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMl8wVUhJc2t0Zk1zQ2ZEY0QtcHo5a0FkMDcyVGhaSjlqLVUwY1lfTFBCMTMzc0prRmlLODRPcjM0VGpIVHdRcF9uZk1ibkxybF9JTDdnRVh4SUJtTjl3eFhyYU9QcTR2Z2xkZVpBeVQ1Y1ZnenI3MUNBcXNZZS1FaUVWQXRvcnc?oc=5"
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtTkU3TG1xWThQTlFLUUJYcU5pblE2WWhueFJFU0l0WWpHTWRCMWlMd25UQlUzZkp4QTZlUmZnMFJGaVdWLXJqWUtHSzhtWnJJZ0xOV3hEcXd5TE5aVzQw0gFkQVVfeXFMTTN2UTE5RTRGUjNpQmM4WUd4MGt6dldGM3QtTV90SWxGNVNRbFJXc0o2eVFHTGRURnlrUk9JVzhGVDNzTkVDT05hbG1sZGozdHdQWW1HeXF6X2l5aHVCNkQzZnFscw?oc=5"
         }
       ],
-      "publishedAt": "2026-10-21T17:42:46+00:00"
+      "publishedAt": "2026-10-21T19:56:00+00:00"
     },
     {
       "title": "Зеленский смягчил тон в отношении России, но давление США на Украину только усилилось",
@@ -52,52 +52,28 @@
       "publishedAt": "2026-10-21T03:50:00+00:00"
     },
     {
-      "title": "Польша остановила военную помощь Украине из-за провозглашения года УПА*",
-      "summary": "В подборке публикаций: URA.RU, The Insider, Euronews.com. Подробности и разные версии событий — по ссылкам ниже.",
+      "title": "Венесуэльская нефть может потеснить в Индии российскую",
+      "summary": "В подборке публикаций: ProFinance, Независимая газета, Финансы Mail. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
         {
-          "name": "URA.RU",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kbndlbE9DZFpUMUxDVWkyYnBuS1lZTnhHOUVycGJwRGVRWTVpNVQ5MUxGaVJvR2FJb1VsVENxTUFEOU9yd1lN?oc=5"
+          "name": "ProFinance",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeHRwcWg1X2hmcTROUFpJem42S28xMWZYMGFVdTcwRm1aVTMtZWt6ZFdudlJGUm1xVXZ5Vmh1Q05ZX2F5VE5XZHptRkVQcnFlc3d2dTNqVGROZlk2QUhBbWVYYXk3RWNFbUotSzBLaGVyOGxzNXZhbk9IZ2M5TkxOeHlyZGNHUDlIVGRPdndoVHp2dWlTWmlVRkljYjVlSWpBanZnaGJwTQ?oc=5"
         },
         {
-          "name": "The Insider",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE16NmZCR2NrOXp4cGs1bVlOOXJHNmxQMXJoT19ZdmdKUHhMM29CU1hfTGxrVlZOVUxUT1lQQl9nWnVBRjA?oc=5"
+          "name": "Независимая газета",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0MndmNlpRQ3BFU3ZNbEdINjFUOXc5VDBoVkhnLUxuVk04ZWpBUXJxX3ZVSmtsTncxdUxpNHdwS1A5ZnJodk5CUzJvbHd4b2tWWThJYVpiUkN0WmlnaFhsNDN3?oc=5"
         },
         {
-          "name": "Euronews.com",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLbTdNcmFEbTUzbGI2R0RyQlN0MmJaOGVGWlVoTGJ6dVA5SUF5S0F4MURyOC1hTEdNMklBM0h0NEtZd1IwdWs5c0l1a2hrRDhmSUQ3cm52NkVnUDdQLUduREtGM2RRanNTN202aXY5RGxtZmVldzBMbzItZGxUb2c?oc=5"
+          "name": "Финансы Mail",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3NnT3RweGsteUhmM0RnbFdhcmpUX084WU04RG9tSVhIcDlIOFR4TlNlZjNiUGZpZmZrMW5mXy1rZjNRQTBmd3dTOFo3UU5lXzBCalNtYXRDVXlYbmpKTFBLUUNCZjRVSzRXUGxVdlpURVhLQjl3c25zNW5VQU5KZklyQTBVMkNyZW9kLWk2TEpTNlJxWU1JN0diSWJzSUxNSHRodXZhWFdOd0E?oc=5"
         },
         {
-          "name": "versia.ru",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLUNYd1V3YTJfX2Z5YkQ0aTMzQWJrUWREQlI4bjhKTlpmYXJtWnhaWlMxZ3lETGRDQ0l6Ullvd2hqdkl3S1A5cnZZSUVUV0laakFfM2dPR2xOYkxTejlscDFSdmlxWWlyT083UEtCQy1vSmNod2Jud2R3MUhSb1p6cVBKYjNVZ9IBiwFBVV95cUxQNDhGR3p1eUpaTmtzMWY1dmNhRldPdUtEODd4WU5YYVM0VmtLTUtyaWVadGJ1dG9UdmxFUEs1QXM3M0ZuVjlfSTczWkFXWUMxa3pKRW9iVEY2aklxRjBOcE5wRlFRMDJ0aWs3YjdtTFdoNUpFQ2xCMUE2NFJhLVdNTDNOaXJ1SV9zcVg4?oc=5"
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LSmRCS056NlUzQVhlS0NzMEN5VWxrRE5pRUVrbzJ6SXk2MS1MQm5FYnBPNGRNZ0JLTVRBemZMVmVVbTQyUkEzYWlTeGN1QdIBS0FVX3lxTE1CeHI5S1gwbE9DN3FnV1c5ZmpRcjZkNGVkSTVqNzZ3Tzh6N3NVMkp0UmFWVDdJSzJWeTN2cFhIaXJsWVZaSlJKTnphcw?oc=5"
         }
       ],
-      "publishedAt": "2026-10-21T17:12:00+00:00"
-    },
-    {
-      "title": "FT: Убытки страховщиков от беспорядков во Франции могут достичь 1,2 миллиарда евро",
-      "summary": "В подборке публикаций: БИЗНЕС Online, ВФокусе Mail, BBC. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "БИЗНЕС Online",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2WXBYZkl2ODZKTkVqNkhPbk1LTUZfXzBqRDRydmxLY002TkpMaGt4M3hLaXRab3Vka2w0UTB1am9nT2tNOXlMRHBYLWNKSURHWFotTtIBU0FVX3lxTE9YemphTlFHSnhFQlZuYTJja3hpV09sZFJPX1VtN0VUQ21lbDlLSHNvU1JMSVd2UnZCWU9FeVJJZmRqY04xUlNHeVdrdHllbXNMRmhB?oc=5"
-        },
-        {
-          "name": "ВФокусе Mail",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZy0tSnFLZFM5VTc4aVAzWjFOOFIxWnBmOEI2M09pRnBHeThWc2N0NHZRZ3BGaDF4VWp0VXBZS1E2ekV2R3gxdFN6ZXVrTGZ1SGhtWDAtUmI4Vm03SUthQ2pWd1JSajBtY1dxUVVhLXNVeWFfcnlISEVwRURhOFdkLTVoXzBWWE1zOEJiMHF6VWxXUnRsQl8zY19EWlVkSUxGNXFvMVhtR3kyZVpTOVJhRl92Zw?oc=5"
-        },
-        {
-          "name": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YX0hJUk9JdTJSc2paanBEMWx3cWxqMG1FS2dwRndrZWdsMzByVDNBRkNpWHFYUzRZOGZlT2c2eE02cXJDbjVVZGp6SVpFNGhqb3k4VlA2MnBCNGVDZ09n0gFkQVVfeXFMT096dGsxY3ZCR3FEaDVxNjFpVTZVcWVyd2pJbVY3QzVQOXhINUJQNUMwbFhLWGhBeVpvZ0J5Ym1lY09pd29pcFpmTEpKVnNScVNvU0J1V0hLRl8zdGNFb0RFSG1HQw?oc=5"
-        },
-        {
-          "name": "Радио Свобода",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOUk4QnZLOUFrQW1wLThpdTF1YkYyRm5iU1lWUEl1RWxLU25UVkwwVXZCVjFTSzBNZzhaQ21veGpLWVVrQTBLVUh0RkRmVC1NaDhFb0VmTzF3c0hmazl2RE1QbzRZaHRWdHBwcnJuYm1hQmY3OW40Q1NWVGVXM2JqdkRQUml0NUlOdlQ0SkljSkhDenF2eXZaU1BEVEFObEpYcF9XQkJ3c0dpU29NT0NmcW1R0gG0AUFVX3lxTE0xWFduV0tXTE9MOTQ2QmM5a1BoM2VqRzBIeVJBVUJSTWR3UkpJZnhKRkozalo4ZkxONHBsckc5NGxVQkNGRkZjQnZYR0ZLQWtGa21mVDNrbFJsMUE3RTRSTzNEeVNaVzA3UUltN25UVlJUY3dhUnBhVUhvRjVBcnRfaXNVaUg3MGdIU3ZzNFBSa3hOU1daMFFMbVU3ZldQN3lsa1ZBcXFMcUpRaHZ4SVI0a0gtag?oc=5"
-        }
-      ],
-      "publishedAt": "2026-10-20T20:54:00+00:00"
+      "publishedAt": "2026-10-21T17:24:32+00:00"
     },
     {
       "title": "Это гибридная война — в Италии нашли причину массовых беспорядков",
@@ -122,32 +98,80 @@
         }
       ],
       "publishedAt": "2026-10-21T09:22:00+00:00"
+    },
+    {
+      "title": "Польша остановила военную помощь Украине из-за провозглашения года УПА*",
+      "summary": "В подборке публикаций: URA.RU, The Insider, Euronews.com. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "URA.RU",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kbndlbE9DZFpUMUxDVWkyYnBuS1lZTnhHOUVycGJwRGVRWTVpNVQ5MUxGaVJvR2FJb1VsVENxTUFEOU9yd1lN?oc=5"
+        },
+        {
+          "name": "The Insider",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE16NmZCR2NrOXp4cGs1bVlOOXJHNmxQMXJoT19ZdmdKUHhMM29CU1hfTGxrVlZOVUxUT1lQQl9nWnVBRjA?oc=5"
+        },
+        {
+          "name": "Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLbTdNcmFEbTUzbGI2R0RyQlN0MmJaOGVGWlVoTGJ6dVA5SUF5S0F4MURyOC1hTEdNMklBM0h0NEtZd1IwdWs5c0l1a2hrRDhmSUQ3cm52NkVnUDdQLUduREtGM2RRanNTN202aXY5RGxtZmVldzBMbzItZGxUb2c?oc=5"
+        },
+        {
+          "name": "Європейська правда",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KLVZRWUtqN3hXLURNMGhuaksxaFh0VEU4S0V2U0g0eHR4akRrX0VOQ2pzMThXSHYxU2dxeGlmU2MzUm5kamtWY0M2cmVFWThoRU9Va1JHeWFkSXAwZ0lyeWxzY0VzRXJCR19pQVlac0I?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-21T17:12:00+00:00"
     }
   ],
   "russia": [
     {
-      "title": "Главное из заявлений Ушакова по итогам переговоров Путина и Уиткоффа",
-      "summary": "В подборке публикаций: Ведомости, Forbes.ru, БИЗНЕС Online. Подробности и разные версии событий — по ссылкам ниже.",
+      "title": "«Дело идет к завершению»: как прошла встреча Уиткоффа с Путиным в Петербурге",
+      "summary": "В подборке публикаций: Forbes.ru, Ведомости, Meduza. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
-        {
-          "name": "Ведомости",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNVF3TzlnWVlXcEVMZDBiSmY3ajVnaDZYNlU4M0p2M2haMGdTLUlXTTkzdjYwMEhMR3h5SUpDLUNIc2dlVFcybWVZWmlJS3V2X2o0dHZOMVRXWlBzc2NFTDRQa01tTHBvY3FicTdxTmpwZmgwUnluUEdHMndsSWV0ZDhiSjVjU2hFZTJ0MmV6bVBCVTNOSDVv?oc=5"
-        },
         {
           "name": "Forbes.ru",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLWhCekJocElianU0V21ycVVZRnR1TENxQXRUa3F6T1RTZm9zeHF4Rk1QM0VOMVFFTjQ1eGJqSWQtdmNKdVBfakxJdUxhR2tNblB1d29jMVdrRDBHWk1nUnlYMjk4RldKbnJEUUs3Yzg4R2h3T1pWbVVLV0pMTzdlbVliZ0ctMm5jTWlOLUF3TmVjRnhhT2hlY0RZaDBIcmJ0eVVDbzR0d1hSMTNNQm5z?oc=5"
         },
         {
-          "name": "БИЗНЕС Online",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VZ3F5YnVjZGtHQmJ3amhPaG5aei1LZjBKbTdibHJpNW1kb3g4UE04REM3LUZOQXc0ZHpIanpnRDRKeTc0dTJhWFppLXV0Si1MYUdYbmFB0gFTQVVfeXFMTTMyRjNmVDJkVThHSlBTbFhXVTFJUG5sakN3RnNWWXZaUW1LZlAyTmhzeXJTXzNGQndXN3hfTlk5WHhtY19TeXhFVGpiMGxhSE5tTFk?oc=5"
+          "name": "Ведомости",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQjNmQjlERFF6THB3SjgwdkNxcmxZVTlaSl9ETHZHeWxIZVlUdlBtY2tpZGlzNmlaUkhkaHp1cVZQMEthSWg5dU9KaW10NmVOTzVzSVRJQlpRU0dpQXE4WEEyRkdTbmJDNWRlY1hKRHM5WFB0QkFDcEZEbUJZWVk4dDNlM0FjUS01YWpkSXZrT0hsdklhYUtTMw?oc=5"
         },
         {
           "name": "Meduza",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT0thN0RsWXRxY0ZqeTluUk96bk14UGphcnFxbW43WVp1SVhaZ0swZW1zZ0JEcnVMdHpZUHV4UmN0Ym5ZZHN3dlMyQjZuODlzOTJxV2NwWEktelRqV0xXemI3YWVIa0R4TTNRdVVhSWJCeW43Uy1WNDBDWlhKLU15eXBLRGJoZzdOaVpaTXJXTWMzNlpXa1JrZ0ZzNHM5U1lKUmcxbGtZM3BzbXlnNTJYLV8wN18yVTM1S0dMSkJlZm9SYU9BbUgxeFln0gHPAUFVX3lxTE4wXzVqVS0wY0dxemNySTVRd3pnZmpsM25jcUhPbEFMZzV3SXBxSHpISGpINE9nRlo2MW40U3J3Tl9EUURpNTZDRjYzZnE0U1pjNVo3aExTSnRuX2tERnNtako3QVU2Y1NrRld2Q3FYWk5mdFJqbzZuMkZHdld6RV9ZMS1KM0xEUVZQZ3AzT05hdnRQNi1lLW50UGFRelk1ODNjeVRmck45SS1WaTVqbTdJTlNMLTJRaDlsWng4YmdLczJmc0JWdktVY3M4RDFTNA?oc=5"
+        },
+        {
+          "name": "ВФокусе Mail",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaEtXVjAtc1J0d3dEWnN5REJXakJKVWZIVjFRSmROMEsxMnVUYkNkWGF5VUZCckFTbGE1NGo5NXBxZWJmLXVuaDN4NC1wRW5EUk9IT05vTnA3Ri1BOFlBdDhTN0g1Uk15MFZKWXZRc0xDWW5UWnhOYnNqdzMxWnNhVzVmZEpOSjVIY1UxLWtnc1Q1ejlad09QMVByN0M?oc=5"
         }
       ],
-      "publishedAt": "2026-10-21T14:28:42+00:00"
+      "publishedAt": "2026-10-21T15:04:25+00:00"
+    },
+    {
+      "title": "«Достигнут обнадеживающий прогресс»: Кушнер — об урегулировании конфликта на Украине",
+      "summary": "В подборке публикаций: ФОНТАНКА.ру, Ведомости, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "ФОНТАНКА.ру",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Jb1hISjJJMzMxeV9xMlIzNGpSTWhJeG1lLXR6MmRCRm83ZjhOVlNHZ05BajJEcE05eDQyN3ZjZ2RIYmJ1NzAyaTh4Nk5CeFFJUDNhZ2lmVQ?oc=5"
+        },
+        {
+          "name": "Ведомости",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlVxSmFTSjhaVld0T3BhTnFKVFVIN01ub0lSN2xDLTdNb05HQ3RBMDhIOU1wNGtWM01EdDUwWWt2X2tPVEVJSHhBWm8wUm1GNlRCZ2Raa28xTzNSU2F0U1ZVMldZVXpyYmhvN2RLUmR0UUJyUUotbnA4a0w0cHU1eFY1MTNuWHJuQzVyY3Vfa2dOZVk?oc=5"
+        },
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GSEJacE9GZklnRFVoUEZiOXhzaFI5QndmTFBleUJQWXhDcVFqUTBHSkhTNENldmYyNlB4VFJ3V2N3WXpBaTBjYVpETGQwQdIBS0FVX3lxTFBNUk9FdVVJcUZnT09YUGVyNDlXZy1jS2VNVWlrMkwyMW9CNGEtZmRFdllIMk1wNThxMUhYRGhSXzhHOXpSZ21TV29XSQ?oc=5"
+        },
+        {
+          "name": "dp.ru",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aSGNCOF90NWdVX25tLWFkTF9wUG1lV1RRSl9xWkxnY2dCWThIalR6cElTZW4xckVENklFZWpxT1I2RmpxelNWcndqTTNMZ2lsal9MSl8tRzN2WjZMV3E1cmVfdEhFTEdUVG5obtIBd0FVX3lxTE5SVHc3RVlhX3BDblFmVDJ2WjRSdXJiLUhRalNWUnhCZmdwc2YwTXAxbVJ1OVpNRGxBNTVmNUd3cXhyLWw5bXA3NVRseVlqTG1NYVZ6T2FSaXVVQnhUVjZQeV9WeXRnd0pkUWNkZC1FbkRXT1Y1czFz?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-21T18:33:00+00:00"
     },
     {
       "title": "Номер Любови Толкалиной разгромили бабуины во время отдыха в Африке",
@@ -174,6 +198,30 @@
       "publishedAt": "2026-10-21T10:34:29+00:00"
     },
     {
+      "title": "Названы шансы Европы установить контроль над Арктикой",
+      "summary": "В подборке публикаций: Lenta News, Нефть и капитал, versia.ru. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "Lenta News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcmhVS2k4enlMdHJRT2ZfOEZObWJiTmpBaUZPMmoyQURTd0ZqQzRXcGlUelpzNm1qWGJ4Tl9fQmtTMjAzY2tXSHcwbjlKTnN3SDBaU0drRktzNlhqeU5HMWxBZmJiNnFxOVdybmNrN3MwRnpraWItTW5nSnRNTkVkWlZJeVNjRW5BS2JsLTNZazZuZ9IBlwFBVV95cUxOamdTR050OUtPNWdqbEVSNG54b19jMjdhY01vN0V0WFpUNmNqWnBwSDFMU01MdkN0UUNYbHV0YlRkNFpRN2xUVEJxNVJrVHhZOVhpYzYwb29YMDdTMEtmWU5QbmFPcFlpdEpibkFFZHRyX0RaUm85MHRxS3NrZlB3NnZONXpnSkVMYW9PTXAwd3VxUVVVVVhn?oc=5"
+        },
+        {
+          "name": "Нефть и капитал",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV3FBNGV4NVhhTklYdHJCVXVzdmhOT0xrNVNHM3R2V0JNenhVSlRpMnQxX2VYOXVjdXJSZFcxZU9oTS1iZEQ5SElmSkRyaXZUS0ZlY1FsRmVLUHJzaVViMUlyWEpEdUVabFhrTXp3c0IxbEYxVFZlck1EQjdCb2ItUGlUeDFaSnFrcGJKQWZabl9Lb281a2lKY3BR?oc=5"
+        },
+        {
+          "name": "versia.ru",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TTHhaLUZJZEJ1NDFCTUJDZmFZMGRvZUI4U2o2MVRUajlvRHNlUjhGakxlRDJnYU9wMzlpTXhMTVF2MURkcWNsWldfeUU5Z1AwVHRCTThsUnJBZmV1UXpKWWt0QlVMUUZtNktjR2lNU1Q0TXVQaWg2dENJdTJ5dVXSAYQBQVVfeXFMTmxKemdDRFBfTmFoN1JwaEhKNUhndlJxZ2FPOFZicFVHVEFTOC1pbHdyWWhldVFQVmhjT05MRjBrRWt3b1ZxcHo5QnY5N2UzcnppTmN5YzFGYVFvQ1EzS044Nllvd2xxWGlYdmhZR3dRWERiUVBBQThDWmxtRkRnbGVnN05L?oc=5"
+        },
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuVnRuZnhSYVp1VkpnRmE0R1lnc0tvb2Ixc1NJTjZYNGdvZ0xUemxpdnNyWDZGejRJVC1vX1VXaEdCeUNZVzlRYlVrQmE4UdIBS0FVX3lxTE9IN01RWVF6aG1nTVJJQXBxN1dTS1g2Ty1STDNqNEJmTUlOaTBZVUFKNHdQa0NzN0l0LUpDNFFEY0I1UzBvV2ZrcjFDQQ?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-21T18:55:00+00:00"
+    },
+    {
       "title": "Трамп: США не передали РФ осужденных россиян в обмен на Хаббарда",
       "summary": "В подборке публикаций: Ведомости, Meduza, Настоящее Время. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
@@ -184,7 +232,7 @@
         },
         {
           "name": "Meduza",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYzVhTGlTSXNJOVUzSlIwT25vVDJpV2R5Y1JNOU5rLVh4NlpZSy1WMy1ZNktWNXA0UjJBNXEyb1NGcXNSVHRQZGhIVlVodHdsWUpVWWw5NEJQZFV3dUVSNF9ONDdiOUcwaGFkb2dCOHJPY3dQQjVyLUhiVGx6QXRHNF9TelY3eHdqR29oLXNTMDZjaWFxeUFSTkJJazJoNDFvdXVVSG1zNERuNFkzRUFz0gG0AUFVX3lxTFBLQnYyZ0hDVlo0d0FxNnNMSGtnZnN0MERCajJZUDVuWnR5c3lJNEVFQjZ5UDdGeXcyZXJLbkVyN1NrTFM3MXdsY0hRWkNrQjVSajgyZUhVeFAyX09PdVk5TEEtYkpCeC1rSDh0MmZZZTkwQnMzb2lJTHdEcG9zTlM4VkZ2cXk0WXF6QW5MdDdOb0RsXzNERUFZVTJZa3BQQ1A1LWVka1R5R0VLaE1neVBXeVNOMA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXYzel9HUFJMNldXc2FkNmVrQzl3c2dxZHJITW9hMV9yZVFNRXFlZWRsOWhSMVI3b1hLMUtabmVRWm5wZXVMZ2ZRTC1LSEZjRWg5amhncFdGMThpME1TV2NMQ2xUNDhWZ0poU3lGSHhrbU0tV0VzcHhqMFkwZG9RWdIBhgFBVV95cUxNQjVWWGo4Y0FBamZlc0FMU1VBV0xxVEZ3S1pFeFJQSDhvcGhBckF2MWU3UlBrcDJwalJLakFQT2llQlpCMW5ualoteFY4RkJqalFQMk1rb21QelllSm0zTGZ4MFZTVDUxNlozYmI4aF9UY284cWR2alVyMloyRFpwNk0wSFowQQ?oc=5"
         },
         {
           "name": "Настоящее Время",
@@ -196,54 +244,6 @@
         }
       ],
       "publishedAt": "2026-10-21T11:11:08+00:00"
-    },
-    {
-      "title": "Курс еще одной мировой валюты в России резко упал",
-      "summary": "В подборке публикаций: Lenta News, Банки.ру, Финам. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "Lenta News",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUzFoZkhpek5UOTktdkJVenIyazBCQVB1N0xYcEticFJpSkNyN0FNX0VQLXEza3JkYnN5ampDdjdaN0xXLW1ZTnFYSDhCSVNZZGpmcUdHSnktV05kSTNqb2JPU3R4alZtQ3VCWVpFbVBWZUE0cmg0YUhiT3hJZWN5TXRVYUtGeHpfM2d2LVZ5dHVod9IBlwFBVV95cUxOYUN0TjZEeElpdFFjNVVjaEJ1SEVKU1ZvVWFwbEd2TEtwdXB3dWIzTGRUSGJHUE9yQVh6MUU2NU5jOTZJck1adkpad2N1Z2JRLU9GdEc0bnNaMjZYODNYekFIVDJWaFJMRGRXUHpXTFhNb2JhZWt1a0o2U0RyZFl0aldTcllLTHBocjhJdnAxaXNXWDlvUEtR?oc=5"
-        },
-        {
-          "name": "Банки.ру",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xVm5iOFkzSEFkYXh4b0pDYm1mTzYzd3paLW9MMFF0Znh6TmdLcE0wR183elZPNzNvTGxvZlZad2NVRnlYLW1YSDVJQ2Yyc2tVMFBmVFBQVQ?oc=5"
-        },
-        {
-          "name": "Финам",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa3Z2NXhlMW9ZLTAwcERsWjVWVlQxNnlBVDg1RHZYX2VmUktfb1kwMXdZSDlwS0VqcFRJcFQ0RGtYa01NYTJyVG0tM1BRakUzMW5HbFB5ZmlSRUxsSXBkN1E0di11aU1FUmJVQjRUUGZEMUhRcWYteWhud2FSS1EtYUp1REc5d01leWhEcVhGalZJZlBXWkxsX2ptWXU0MXZXZW9kZ2lraEdEQl9jb2xpQVp5amRuUmRQQVFJSm1hLUU?oc=5"
-        },
-        {
-          "name": "BCS-Express",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR1RhWkN3N2s0c2VLMXltcTZMRmo1NGRIOEZvVUVNVURydm5ocm0yRGZ3VlowMnVGUVlhTDdDMnhWNmRtWEV5elo2clpRckE5M3VhUHN6Q0JXdWp4SmdYaF9BT1ZOdjVDVHhidUJ3R0RpQ19BTWplemlaNHIydGw4cm5oOF9ZLWVfRDdaRHlHdFJvU190YkVheE9waDBtcmxLank4?oc=5"
-        }
-      ],
-      "publishedAt": "2026-10-21T15:37:22+00:00"
-    },
-    {
-      "title": "Путин высказался о встрече с Трампом",
-      "summary": "В подборке публикаций: Lenta News, Интерфакс, Радио Свобода. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "Lenta News",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTSVVxWmdjSVJxS241YzhRU3djQ2RoaURzZVgxY3B2QV9idXlYUmZsVndRZkxTcS1oQVRpczNZckFQc2ZpU0lxdEZYbmY1T1AzamdVSE1MSGw2bVNrbG9DdFVZRUVEM05DMHBIanFOOC1zYXd2RUMyS3NkUWthTEHSAYQBQVVfeXFMT1JJSlBUbG1fRUFwSGZPNWRZb3lldWQwTUc3WTNuZ2kxNTNsTVVGNUFWTXl0MEswR1dGaTJoTmNQVGJORV9lN0FKY21NNTFHcXpSYmMzaHdDUzRYdEdLUGxiRkNDa2dqOHB5ckN5MHNQRjRHX0Q4RTZ2aFYwVVRQbnJlWkVo?oc=5"
-        },
-        {
-          "name": "Интерфакс",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QbzBXVTlCYzdBRDJ0eVdBeUVFRndGYVRyQ18tT2J4YWxlcjRwdkJ5aTZ3aGU5cF8xTnY3WEtpQ2VXb2xUWkpaOEdSSVNkT0XSAUtBVV95cUxQenpBb212eWNVQW9MY1VjSzJPYkpvTE9YYnE4dlM3QzQxOU44MTVTNGJpTXM4c2lqWm5fZmxvWVJQemJOVDBxOEl2SWc?oc=5"
-        },
-        {
-          "name": "Радио Свобода",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEpjbnVqSlZyQ2c4ZFhYN3M0OGFJaXpFdkV5NHBULUZQaGRDZEU2bzFwY0VIMk9JZ3VTUUNrbEZtT1JTRG14VGgyejVQY3BjSk9Ra3VMU1VrUnh6Ty1haUVZdExIbEkwZUZIc3ZHNlE4MzBwdi1iWVdXbmhqUzNldTJub1N6U1R4RzJWVHJJT1R2b0NUcUxBQUtDX2Jxazk1UklGUnZ1Nm8xOER1UDE00gGyAUFVX3lxTE4tSkhzR3gzMzR5dGZ1RGdpcDNTaTRjcDVUQUFfaUQ4cVBkdXo2WEl0Q2VYczBUT2pObDVKN2RBekd4bXdySzlhb3ZhUmdBNU5qS3BqcjlGSFdQSlBUQXYxcG5LWkx3ci1MYWYtM0IyME5FeEZlT2xhX0hlTjRjc2JlV1V5ZkVMOF92QUdxdmRib0k2aGJ1QXZuUE9jUW9oWFlHZUl3Y0c2WmRrTlEwTXBEZVE?oc=5"
-        },
-        {
-          "name": "Ведомости",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmRLVU1xZ3JERU9hZl9hYS1NMEFaUXlsR0tQMHgxaU1ndmdSRlhDcUI3QnN5ZGxwYkgyVnVQeU9COHd5TkhORTdDZTNaalBzdjB1WFhCN1JKdWMxOGFtemNfS1dpcmE0VVJ4cG1pZERDbmlfbE1wbDNLbnJQay1GT25FRGh4eGRweG9n?oc=5"
-        }
-      ],
-      "publishedAt": "2026-10-21T09:44:00+00:00"
     }
   ]
 }
