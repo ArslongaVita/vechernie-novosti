@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-22",
-  "updatedAt": "2026-10-22T20:26:32.310621+00:00",
+  "date": "2026-10-23",
+  "updatedAt": "2026-10-22T21:40:37.088843+00:00",
   "note": "Автоматический выпуск по русскоязычным RSS-лентам Google Новостей: приоритет темам из нескольких изданий и позиции в ленте. Это не рейтинг репостов. Ссылки СМИ открываются через Google Новости.",
   "world": [
     {
@@ -52,8 +52,56 @@
       "publishedAt": "2026-10-22T15:49:22+00:00"
     },
     {
+      "title": "В Тибете произошло мощное землетрясение магнитудой 7",
+      "summary": "В подборке публикаций: ФОНТАНКА.ру, Ведомости, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "ФОНТАНКА.ру",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pdG44UUR2SzluQ2QzeXZNQjZtM2hPQUhVQkMwbXp4YVZkUWptdERaT2ZIZGEwWEQyMURqYWxvSmN2TF9TYzUweW1zNm9od2hzMXBGVjRpVQ?oc=5"
+        },
+        {
+          "name": "Ведомости",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPczAwV1JiQTFCTXJoLXZEckJkTzFnNlU0akJEYm9FOXBIOW5aMjI3RUdMZVhiUUwtZFBJMGdHaXhZZXdtYVlHZ2Nod3dYVGVSOUZqVUUtd2R6UXJHWnptWjRRMnJpR3JRUkJGd2pXazh4NWZobWtFbi1aQlVBTWZMT1FfUlkzZw?oc=5"
+        },
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81MDZhdTVHZ0IxQmhYSTIzSmJNOVlGaURoOWpXNzRXWkNFaFYtT01SeHRLUWlTLXItdXlYbW5xOThzTDgxRm5vMUNBWHBMUdIBS0FVX3lxTE1POGxXWFVvNTlRazF3RXAwbnBYZHhUenZseDZqMld4VHRsN3RGcjM4NkpLZk9TQnhESjdaVHo2ZW1VNEN5TG82VWRmdw?oc=5"
+        },
+        {
+          "name": "ВФокусе Mail",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNencySFZCbWVXLXRaOE44STJELXhlYjA1UnVZcE0xNnJGcXdPR2h5SWh5OC05aVJQcTF1RHdaUGpuS2RWVGZhMzh2T2RwVjZReUFLTWk0OGVXcVB5SDVRbVFHTm5yblVvYnBTWWZ6SzFhQl9HSjRwMUlmWlJkR0FZRDE3REFVV0tqZFY5MkZvSTc0ajg1MkJKRFJmWHBwT1M3am1sT0xOS3BTT2xvNDlF?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-22T18:38:00+00:00"
+    },
+    {
+      "title": "Лидеры Финляндии и Норвегии отчитали Зеленского перед встречей с Уиткоффом: что известно",
+      "summary": "В подборке публикаций: Росбалт, Meduza, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "Росбалт",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObENlUldMaHZDWF9OamZmcDVKV0c0QjhMTjg2WFU1MjVZa2k5ZlJYem9iMVAxMU9WU1VfOE81REV1WWNJa3N1d1p5XzAyZ3RzX2Vxd3JsVHl4WU9vSnpSRVVBckV3YXdmVFhLYXMyWTZjNmZzdFo0eDFSX0V2UVZzbkJPZ2V0dDFtdUdKdTVWR1ZjYXJTS0plMEQzcHVuaTBzeGdLeEdoNGVkVGlQOFFKcFhPVTVpNnNHS2NJeVFpTkNBZw?oc=5"
+        },
+        {
+          "name": "Meduza",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV3cyTVRDcHF0NUdMbHFtZFBheDlRNGpsb2FOQmdBTG5vSDVGcjV0YndxdXg0NlY0Y3hpSllKRWhtRE1wWnlTWjREc3BDeGRWRXNiYmNBdnR6UzJkeW1XMlBFcFQtMmlXMmFybG8zRHd2M0FIYk40OGJPRkFDZ1FfZkFhci04N0hWa1dzMFR0MW1GOFRHVlFhS05BcDLSAaIBQVVfeXFMT2dublI0eHM5MFEtSXF6b2g4SnQ1d1otTllBMk43cm95OEVLSmxqQ0ZiY3YxTnVkM1ZndkpIM3laR1N0eUhtT01UejBxNTQ3Si1Fc2hCR0F1eGtKVzl5eTljRFNxVDhYVXdka1Joam9RcXVrOU53UGZIRGNLRWN5TFQ4TXpJelhSdVJQTEtOTGpkV0VDaTNZdE9yaE53R0x3VUlR?oc=5"
+        },
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Ea25pTXlMN2FYUVdUcnRvTEtRaWlHMnREbzd6eTVBMk9vbTFjQW9xQVRvSkVXeEZlcnQ4ZW4zOHJZMHQyN211OVNrN1o3QdIBS0FVX3lxTFBnTVgwallsd0o3VEctMHFwZjV5YXdaVk8taGl2Qm95MGJuWkE1dndBT09rd1dQZUlVbWxBdmZhcmlCd2pHUVVKNE5Pbw?oc=5"
+        },
+        {
+          "name": "Радио Свобода",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTBvaG54MktRZG4tQXpJUms5TVUxQUxSWDBLaEdPRmJ4X09DMXZZVTdzXzRtamp4YlRSeThiQnc3V0Vxcnl2NDhVNzVTOE5lblBCeVcxQW9NWXVmQnF3WlJuMWVncV9NNXpfMmtfNGdZVFBzbV9QOXBFVXBnVVNSamx5Y3JQNzRZRXFTd0xfd2hmNU5OWW1kOVFQazhUVFdjYlpfTkF0QdIBqgFBVV95cUxQd0VFMUo2bXp6LWxMVUVwcEVJbTdPSnRZdExCdjJHeU9VQmZtb21vSTJCMWxqOVYzMzl1b2QxV0FrS2o4V3M1Z2JOU2Z2ZjZ5UVpkMnJiU2x0VjBiRm1aRTJqZWFlemxDVU15bTRKY0pEYlJFbDVHQlNSNkFHaW11VzNwdnNQRGpJYm5vWVhocGtzY0pVWjFmSXlTNDE5Vy1fSS1Rd1ppUE9XQQ?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-22T16:16:05+00:00"
+    },
+    {
       "title": "Нефть Brent подорожала",
-      "summary": "В подборке публикаций: Газета, Финам, Независимая газета. Подробности и разные версии событий — по ссылкам ниже.",
+      "summary": "В подборке публикаций: Газета, Ведомости, Neftegaz.RU. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
         {
@@ -61,67 +109,19 @@
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iUHRiWnA3eDlkWVgwSkJjdlVwMFVBTFFFSGtTSGdMdjgwYnZ5RFZ2Zms0ckRNc1pQY05UZ2xOaWRQNmZLU2FVaWhEVE0zZU5rdWtBSDU0cVoyMXhxcGlqeVpWbjdLT01wclktRDI3LUZRd9IBd0FVX3lxTE1teUxPeXplRXUtbWRlQThpMS1uUkdDU2RoRWZ2ZTZPMVF1VmlzMktZTU9lNWpRaTU4bXFvYVIzVktaS00tVGFIbTU1QXMybUFYQkJBYWFpVFF2aFh6bEhfM2w4ZThGdVJ3ckthSEFydXNleXhNVGgw?oc=5"
         },
         {
-          "name": "Финам",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUzhBZGFyRWs1cXkyaVMwN2V6ZG9WaXdQd0gyZXoydE5kTWptNlZURmpNY2JtTkQyWU96U2k4SDFnWHZtZ203WlBmMU1lRktCUDVqbzE1cWVNcUhpZUV0eUp4Q25WRGpkSzJub3BvRzNILXhzNTdSTDFvQThfREJxLWFZbmdtaVpFbWh1T0c1dXpfdGE2bUtld1Q5OGRVcVhJ?oc=5"
-        },
-        {
-          "name": "Независимая газета",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNVTlOZG1vRnNXQ1NDc2NxZW1uS014R1BXSHZNcFdKYjJYRzhxT0tPZTRuTWNhNFZHUERHR1g3S1JlM2t0OTkybjNiSEJVUnQ3ZzI4dUd6akJaY09zVGlXTkJwVFhwcGNTaUNpRw?oc=5"
+          "name": "Ведомости",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ004cjhhN1BkUkpLNzdFakQ5NHNkY2xLVVhHODI1LXhqSEZmVVZkQ05IcmlWTmk3Vk5BRHF0YVlpX01waC1qLUlDVE1jVGh3d05reFdOYWdramlhYWhYYWktc0pLV3JrZFE2SUlRVjlBMGtFYWxMbzc2OVdmM1NzWGNuYVA?oc=5"
         },
         {
           "name": "Neftegaz.RU",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTUpqNmpWckkxNkJkYUV5cExrc0ItXy1mOWViYXZYSWZMUnNELWdXeFE3dEhVVDAxNmdLYkEtR0J6amdlUTgtR2hCTmJlWEh2MTkwVHZpci1XWG9RSVdOQ3N1LUJhYlVWcUMwdE02Yjk2LXJPLXc4RlRnM3k0YVFqcHNtMFlBYWZsRFpENGR1T3BkTGdVSjFaTTN1NzhoN0g3VFljbEVMSDBic2cxajA0V0xuc0dMRGhRQm1DX1ZqM0JJSFQ0N0lRYS0wcG02UDJWeG03Zg?oc=5"
+        },
+        {
+          "name": "Независимая газета",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNVTlOZG1vRnNXQ1NDc2NxZW1uS014R1BXSHZNcFdKYjJYRzhxT0tPZTRuTWNhNFZHUERHR1g3S1JlM2t0OTkybjNiSEJVUnQ3ZzI4dUd6akJaY09zVGlXTkJwVFhwcGNTaUNpRw?oc=5"
         }
       ],
       "publishedAt": "2026-10-22T01:17:42+00:00"
-    },
-    {
-      "title": "После беспорядков они пойдут грабить соседей — геостратег о мигрантах в Европе",
-      "summary": "В подборке публикаций: EADaily, Интерфакс, Meduza. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "EADaily",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0traUxnM1NJc2VKQzkyLUxkdVJQd0lJVmRfZlRQVkphWFlYSXUwYWh3M05uYXBKbkljOENpNGg2cmxiMUVvSVNmb0lIdWVOWEZ5WDdMTjEtUjV4azB2NXZHb3dFRU8tV2ZwbW0xRE1TcF96eW9qMnNHaVk3THd2d3VJM0lCNlRMck5BbnpJTDFJQVdGMWZVRDJ4UlF6aUlXbHRVQ2J5SnMya0ZGQ19NeTUxaFFZTXFoLU9V0gG_AUFVX3lxTE11VERZQ2VNeGNOZE1kX09PTXNZTEotOUpGRnZuZ2ZJaGRlM3NYT2kwb2gwMWRTZXl4UnBLSHJOa0Y1Mmp3UFVaNENhVXk0RzFzMWVITVZSaVBLS3lkSEJWVTA5aE1tS255VWFMdm1EQ2trd1MtWlUyNGZJY0FGYmV6d25xbEVyZ2tNaFlTSFItYThKNEM2YktfLV81ZWRjb2RNZzg1Zm9QMy05eURIOGZqSGh3Wkp5a3MxLWUxQXdB?oc=5"
-        },
-        {
-          "name": "Интерфакс",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81M2dMTFY4SjBSTnZBOUFFWnNXWldvYmMwZDFxV0RrdGZOdTNQMTdMZHh3QzNjREZQa3JfajhPODVad3RrNWNGQmVDTUNfZ9IBS0FVX3lxTE9CTDZNSzBZbHlEaFdld3FYOHB5RXdwY0ZPUncxQU5tQk1QNW9zMkpDUFNKUzB2cldfMG5pMFlydW5zU1NQWjVOamF1UQ?oc=5"
-        },
-        {
-          "name": "Meduza",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWkZnU0RKWk5YSmprSkZDcE8ySk8tR2dWZTAtMkhCd1hTRnpCZjE3Y2J3dTNvdGxzSElzTG1iLTJGZWZKR1RqM2VWTzNrN2c5V3htYmt4RnBBNkRrVVN1SjYycENqWENVNWpWTVR0S21CalBsVmdmelBmNFd1MGRuNnZFbk1mUk1RWUpmZTViSGpwbWFCVTlwX1pPaFdMSlpaM1ZHZEhBYldlV3IzcThJSnl5UFlYeHd4LWdOTER4N3ZCOUXSAcgBQVVfeXFMUEE3c19RZ3VTaERNN1FsTk9WVnVYWlBUdjM2S1VqVi1aMGhqajR0dVBFZkdMUnk3dGhOc2dIZVA1ZWIzN3ZpQlVsWXQwM1I2MUc2MVdmMGNHWjdUUEpDS1ctT29CT05fM3lFS2tiT011TVBpSC03Rm9LUTdOalJBU2VLOFo3U0ZlMml5cVhVVld4amdPbGZxZjFnZWdpRGNjLWlmVjFPdHdlWjFkWXEtV0RZRDZUYzdfWkRYWHFrNE9aSi1vXzk3bjQ?oc=5"
-        },
-        {
-          "name": "DW.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUHFaamFDMUszbWNFb3k1RjlLeVdJX1VzVVNGQk90bk44SE9sWFpoQ1hKVXN6aHJNcmJoWEpmSGx4Y1cyZUlUMzItVnJYYXY3clpYd20yM0ZQUEUyUTBpc1NQYmxGRGoySUlONXlvZ3BJNkxhdURieXlKekZ3RnZVODBIU2tGVGJxVWVMbWxKd2ppT2pKalZUM21lQS10QlBZNXhUdGJJM1lHbnc4aFBUSEhXenpYWlZBR1dFaTRrVEZ2dmY4M1dQcTl3?oc=5"
-        }
-      ],
-      "publishedAt": "2026-10-22T18:23:00+00:00"
-    },
-    {
-      "title": "В Тибете произошло мощное землетрясение",
-      "summary": "В подборке публикаций: Погода Mail, Интерфакс, BFM.ru. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "Погода Mail",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91ZTBVTTE3YmRZNzdvazAzd25yRElNa3RLUG9wblBXLVNoOUJVc25Vcl9UZXhEeTBjOS1PeEdvUkdhMDV4czhYemxZTS1rQQ?oc=5"
-        },
-        {
-          "name": "Интерфакс",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81MDZhdTVHZ0IxQmhYSTIzSmJNOVlGaURoOWpXNzRXWkNFaFYtT01SeHRLUWlTLXItdXlYbW5xOThzTDgxRm5vMUNBWHBMUdIBS0FVX3lxTE1POGxXWFVvNTlRazF3RXAwbnBYZHhUenZseDZqMld4VHRsN3RGcjM4NkpLZk9TQnhESjdaVHo2ZW1VNEN5TG82VWRmdw?oc=5"
-        },
-        {
-          "name": "BFM.ru",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9BN0lvakNMdnF5QXhVUVRQR0swQXhocnliWjJUODl4bzNESk5BTkh0dGNtcmFUZnRvUkgzRWo3cVNiRVFN0gFKQVVfeXFMTXhrZHV2N016TllUeGxLbDhrTUl0VHNmd2t3bnNxVlcxZkhDNDhBRGlDdEwyQUNJeTFpVEFXX3lqZm81TktqdnliaWc?oc=5"
-        },
-        {
-          "name": "ФОНТАНКА.ру",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pdG44UUR2SzluQ2QzeXZNQjZtM2hPQUhVQkMwbXp4YVZkUWptdERaT2ZIZGEwWEQyMURqYWxvSmN2TF9TYzUweW1zNm9od2hzMXBGVjRpVQ?oc=5"
-        }
-      ],
-      "publishedAt": "2026-10-22T14:57:36+00:00"
     }
   ],
   "russia": [
@@ -143,11 +143,35 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KUmhLeUJuTDhDSnphMk4wZkJHZDJQYzMtcjNpZXE5cE91M2NjU1c3aGppbEhsa0tQMG15RlNUNHZGUDUtZzU0aDNla2hBRnPSAUtBVV95cUxOR09obWNvbDU2TmdaNTZrMm1sY2dUcE9KeDhzOGZNTjFqNGxHX1NzYlU3dGdRcS10T1RQeFo4cDdRNFFSYXBwaExhY2s?oc=5"
         },
         {
-          "name": "Президент России",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUdUo2WkJJSzN3R2NFd0tSOFhnQmIzVXZWR3VITkRWLUYyaVVCbDA0NzJEdm1hajB5QkV1OVZpXzUzN2FranRubEh6OFFPVkliS2RVdjZSVXIyb1RGdE0tWkMwd0JQWmpfSzJB?oc=5"
+          "name": "Новости Владивостока на VL.ru",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VTW13THJGN0h6R2ZoNS12S1dYWFFxbnMtZHlwVThyMkpVNElpWG8xU0Jsd0llbmFBcjlJdEx6YkU5NFFwVkN2SVhjR0d5RWJPSUVnZWVsNEQ?oc=5"
         }
       ],
       "publishedAt": "2026-10-22T15:46:04+00:00"
+    },
+    {
+      "title": "Решение ЦБ по ключевой ставке: что будет с вкладами, кредитами и рублем",
+      "summary": "В подборке публикаций: Новые Известия, Росбалт, Банки.ру. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "Новые Известия",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0h4TTV3endmcDQ1a0RsQWNVTHZrY1N0NzlxUjc5eFltUHlDejdfQVNaY1FUaGR1ZEZNTHNtRk5ZNlF6U1hLc0w4OUZBX1JFRFNHa1RjTG5jd2dJZldIeVNoX2JHTVdTMmZQbHI3cGI4bHNPUFJtQVdBcEJrbVdUeFFuNEtvZkVCQVlZaDJlMUdqSm5nYW9tUVhIUzlzYkx5cU1GQTdiRE40cnh3OVVrSjBIZk42dw?oc=5"
+        },
+        {
+          "name": "Росбалт",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnNWUTEzcmNGbEZBQzBPREVxTzg5Ykp1dTB4WGlPaTdZYktjNFBUOHhobVpBQ21FamRUUUNHemlraHJPaGthWk1fTTRLWU1MZXoxbVF2dGRNcUM3ZzI5aGdvQldfVk9wUW1XXzdPM1hsRnNjZHNLQV9YVnphY19LekY5eTBOeEhRQmt6bEJOTy0tSkd1dzhz?oc=5"
+        },
+        {
+          "name": "Банки.ру",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TSE81aVFjWFI0amRxTF9nSHZ1SURFTXdFMkg0R004dFJjREpQRkdRT3RTOUV0QUk0R09faUVtcFJyUm94MmJaM1FZVEpOMXo2Zk5pTFk5cjY0V3M?oc=5"
+        },
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51UnpIelVUZ1huVkYtSDRSS3NkWE9rcVo2S2o1SnJzQWpuaEVpclVvck05bnBWQm1WZUNXU0plTUJhQlNmd2prZzA1bzhUbmdIWUHSAUtBVV95cUxQN0hTX1FkV0x0Zm9HblRtWm52OWlOYkVUOTV3Y3kwb2huLWpoalVLRTNDdzVMcjFpcTRCNTRsMUF0cnZhXzV6a2phLUU?oc=5"
+        }
+      ],
+      "publishedAt": "2026-10-22T11:42:00+00:00"
     },
     {
       "title": "Союз театральных деятелей переименуют",
@@ -164,62 +188,38 @@
         },
         {
           "name": "Президент России",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NdGE3Y21BS1VMd3U4UXUxN0hZSVRiTWhQSVNHMy0xbnpQNlBOeU5fX2h6WFZCNTBUQUxCNklIUGdlRThXTk5xMnZPWDVmMHdlQnV1QkNsOTRUU1J3VWhEVWpKWk5RWVR0YnRN?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XUXM1WG43VHZxOWhqTXpNcXI3eFRKNnlUd3hJeTR0OEtoNzVDb1lNTUhmYU1UOWRReXZVOXZCQjdkaFY4N2U2VE55Tnp1NXRKbWowd3FzS08?oc=5"
         },
         {
           "name": "БИЗНЕС Online",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5Mi1id0w5RXBIY243NnRLYXVzSkhVWGNwT04ta2YyX3dtM2hjRHRfa3lQWk5QMXpjc1pZUVotYnJOX3lKZXZpajRMZ3dPUnpGTlFpRtIBU0FVX3lxTE9MbUNIckxfVHZzR0pNTi14V2dOc0dHX3o1YllTczhTcnNNYVNmSm5GSGk4QjRVVXFGTUh4TUNMVDJxVHg3dkxGODIyeDl5OF9uZFFn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QeFJ2V2FwQm1XcE9OTUhSOXFTV0NCd0ItZ1ZsaTVrVHJqZnozOERFREFoZjcxWjNnUGZoUkU5NkF0bERUeFB6SjhxN3FiWDRLSWfSAVNBVV95cUxPTG1DSHJMX1R2c0dKTU4teFdnTnNHR196NWJZU3M4U3JzTWFTZkpuRkhpOEI0VVVxRk1IeE1DTFQycVR4N3ZMRjgyMng5eThfbmRRZw?oc=5"
         }
       ],
       "publishedAt": "2026-10-22T15:37:00+00:00"
     },
     {
-      "title": "Путин утвердил кадровые изменения в правительстве",
-      "summary": "В подборке публикаций: Ведомости, Интерфакс, Государственная Дума. Подробности и разные версии событий — по ссылкам ниже.",
+      "title": "Путин: Россия и Украина могут договориться",
+      "summary": "В подборке публикаций: EADaily, Росбалт, Meduza. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
         {
-          "name": "Ведомости",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUklMSkdFbEkzRFNETEVKM3pkdC1GMTdsMVY4UXp6TmZjS0pzbnZ3YjZPbUZzdFhicll4SjFJejdNc0tHZFpCNkVwNHV1ZGExcGt6N2FLa0NoVWRTdnRtckMyQXVwV2YyMDlRWjhQdWdPcGVQa3ZWdFUtZW9nZXNQRjRR?oc=5"
+          "name": "EADaily",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3MtNmVrU0hIb01qbU4tSlBfX1R2U3J4U2VKMjEzRTUxejdBWTl3c0pLTTNfWERhbEJMMTNjLWZVTmlmd1ZJdDRfazJyOTVXT0U3UlpObW9QazdsVHNla0FtWDNVaGIzbEhLbno1YXdGUXNvWmIyWDNxTWFwajlITkpqQnMzcXViWERPWURB0gGSAUFVX3lxTE43UUdVN1lvZGlNMmNpaHc1WmQ1d1RGa2VJSXRQVTQ5aWp0LVFFUHhuX015NXVzYVkxbWxLYVRvTWREMlNzX3FESGMyZzhEcHJ0WTNqTnlnaEZGdEhYV3JWY3FRbFlZN0x2cDBSY3ZrQTcwaDg3bnFkTjd1NnJSb3dBR19WNDg2cXpfVGRJTHVZS213?oc=5"
         },
         {
-          "name": "Интерфакс",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mSVV0TWR3Q3pMRTI5Vl81eHQwT0JRd2NfbUNlWVJGNENFbk44b0lkSjYzYWNqbU5HVTN1Yzl3TXQ0Z2MyWVkyVXRhZk9NLVHSAUtBVV95cUxNb244cDlCa0FreVpXU1h6Yk4xbmFCOGN4dk1Jb3BIa1p6SVNNVjNELVRxbC01WnBYVWRRRFJTVDBybHI4NDZnbnc4cFE?oc=5"
+          "name": "Росбалт",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVkwVVFucW1yQXdTZ2R2cEdnd2UydjU3WmtRSWpPTk5ONGUtbTdGbDBheDhXQlliZzJxTm42U05xTUYtcU55amhBWDRnRXB0eHM2Ujl0elVOczY5aHppWmFxRWdGVDBsTk9tOXR0d1hvdEFsdFZ1U0I1ZWZDS19PbzB5Y25SNlJsZHQxcVFzVDhsclAzOEhTS2JISlFWend5dXVna0liYWYyWXM2ZDFwbG5EY3ZHejA?oc=5"
         },
         {
-          "name": "Государственная Дума",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0zNUlWazRhazZqRGdVWmI0XzBTVEZNZC1yc3dUT1lyMURkT1VxTUtQci1uNzBjZE5hV1dSc0I4UTk2VEFP?oc=5"
+          "name": "Meduza",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yQmljR3BwbnhOWFJvcUlPSnVmcF83UFdpNmh4Xy1ibkxJei1fZW5kaTN6S09sdnRsb0pxWktBR0JyWVVHOGhzVGg4YjJlWjV4bF85cdIBWkFVX3lxTE1qTVBGVHhWNUVyb2JVSkVOY0JKOWJ4NmQ1eThCS0tjOElSYXNETXRWenVjMzJ6OTJFZmtzdm9LeTFzcmF2LXlDV3NmVWpKc1Y5alY5ak1HQlBoQQ?oc=5"
         },
         {
-          "name": "Правительство России",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1OczJkMTlob3Q4dWZWaDBJTi1KZmFaTDNVT0ppVGlET0FoajJNMW51VXFlLUVZMGJKY3ZlaUVZR1MtQVktNDV3?oc=5"
+          "name": "Русская служба The Moscow Times",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQazRJSndpOXIzcThIY1ZWVk5qV2QyS2wxNWtvaXc2YnJnRHg5S0JibmlOVkw2WGdPUDdaa2RYQWVTdzVFQkM3cWh2d1Z2Tjg1Mk9KQzNmdVpLeVJkMXVKVzVkaURneGNNWFpabm5oT1lVWmpwNTRHX3kwQmx5Vk5IUUtUSHBFc2tKVUxEMFJrMExZZ3ZfUVJLVlZKbG1PX3doR0VRRFNOMzE1RjhrWUxSd1h2MDNnUzk3bHNlVWgta1l4LXZ4RF9uLU56dkI0TmJIb0lkR3EzTQ?oc=5"
         }
       ],
-      "publishedAt": "2026-10-22T07:44:48+00:00"
-    },
-    {
-      "title": "Правительство увеличит максимальный срок больничного для ухода за ребенком",
-      "summary": "В подборке публикаций: 66.RU, ВФокусе Mail, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "66.RU",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdHhIb3p4NHB1Mnc1Sm0xWGlxZlJHRnJGUkxqc1ZtQVZqcFhEUWJOODBwSEJtWFVqdXRWRFd1ZjR0SjVEVGVFYlB2Wm1KNklhWjA2ZkhSQVZaQ0lTcmJ1LXZVRHVsMGxMTW50d1VEMkRBc3U4Z2pLclljeDlfS21Ud1hlSnRZckZXOE0xUlBFTzBjV1ZMai02RGhSZGxFdktZVTRRemFXbw?oc=5"
-        },
-        {
-          "name": "ВФокусе Mail",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZDdKZkxIaHVhNUh5VDJOVVlxQTRva2xNT01JVTdCbEJWU2tzbXBqUnEtOHNETXc5a0tUaHhkT3MzY0Y2dXZXdHE2bkdYRkE2azlxZDd3Q3VfREZ2UnE1NjRqUzZ3d0VfSzVnS0NtMDJpdjNsNXEtR3JuWE5aMl8zUGtsZlFmTnJjMTc0aUlSZ2hYXzAyYXoxWi1aUTBaSFc3MUg2UHR5LU1iSnpTYXFqUC1vWWNYMlMyYWNKZ2I4NnM1T3c5ODNaMThn?oc=5"
-        },
-        {
-          "name": "Интерфакс",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nRGJjRmh5U1puaW1CS2c1ZEcySV9ROUNnUktEZnM1QkFIenBqQU5oZGZ5ZnJSM0V3aURfTVJRWU5iX1FfTnhHc3JLOFllbjg?oc=5"
-        },
-        {
-          "name": "Эксперт",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM0ZKQWZlMFhLcWRzWUlZVXk4bC1pMl8wTlZROHBtNXRNLTVjNjAwNHQxMjdlVTQ5dndlNUFqcVlJT1hhbDZkRmxobHY4bUFwLVVmaVdSeTVBOEVyUEFwcnZxNTh3Wm5TQzRvVVhHdENGU2tYSkJYa0IweFVLQTBaZW0tYWtOYzhwTFJJSWdOMkJXYnFhdGpBSGhR?oc=5"
-        }
-      ],
-      "publishedAt": "2026-10-22T13:37:44+00:00"
+      "publishedAt": "2026-10-22T18:47:00+00:00"
     },
     {
       "title": "Олег Кожемяко необычным способом решил отметить назначение на должность полпреда",
