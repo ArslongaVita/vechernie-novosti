@@ -9,7 +9,7 @@ NOW=dt.datetime.now(UTC)
 STOP=set('который которые после перед также этого сегодня сообщил сообщила сообщает заявил заявила россии россия российский российские года стало будет новости'.split())
 def fetch(url):
     req=urllib.request.Request(url,headers={'User-Agent':'VecherNews/1.0 (public RSS reader)'})
-    with urllib.request.urlopen(req,timeout=25) as response:
+    with urllib.request.build_opener(urllib.request.ProxyHandler({})).open(req,timeout=25) as response:
         return response.read(3000000).decode('utf-8')
 def words(text):
     return {w[:7] for w in re.findall(r'[а-яёa-z0-9]+',text.lower()) if len(w)>3 and w not in STOP}
@@ -45,7 +45,7 @@ def telegram(channel):
         date=dt.datetime.fromisoformat(stamp[1]).astimezone(UTC)
         if not NOW-dt.timedelta(hours=24)<=date<=NOW:continue
         text=html.unescape(re.sub('<[^>]+>',' ',body[1]))
-        posts.append({'text':text,'name':channel+' · Telegram','url':'https://t.me/'+link[1]})
+        posts.append({'text':text,'name':channel+' · Telegram','url':'https://t.me/'+link[1],'publishedAt':date.isoformat()})
     return posts
 def select(items,posts,excluded):
     groups=[]
@@ -54,7 +54,7 @@ def select(items,posts,excluded):
         group=next((g for g in groups if similar(g[0]['title'],item['title'])),None)
         if group is None:groups.append([item])
         else:group.append(item)
-    groups.sort(key=lambda g:(-len({s['name'] for i in g for s in i['related']}|{i['publisher'] for i in g}),min(i['rank'] for i in g)))
+    groups.sort(key=lambda g:(-int(any(telegram_match(i['title'],p['text']) for i in g for p in posts)),-len({s['name'] for i in g for s in i['related']}|{i['publisher'] for i in g}),min(i['rank'] for i in g)))
     picked=[];publisher_counts={}
     for group in groups:
         lead=group[0];publisher=lead['publisher']
@@ -69,27 +69,47 @@ def select(items,posts,excluded):
             # Telegram only supplements an independently found RSS story.
             # Require a strong match in a short post; never promote a rumor by itself.
             first=post['text'][:350]
-            if similar(lead['title'],first):sources.insert(1,{'name':post['name'],'url':post['url']})
+            if telegram_match(lead['title'], first):sources.insert(0,{'name':post['name'],'url':post['url']})
         names=', '.join(s['name'] for s in sources[:3])
         picked.append({'title':lead['title'],'summary':'В подборке публикаций: '+names+'. Подробности и разные версии событий — по ссылкам ниже.','category':'В фокусе','sources':sources[:4],'publishedAt':lead['date']})
         publisher_counts[publisher]=publisher_counts.get(publisher,0)+1
         if len(picked)==5:break
     if len(picked)!=5:raise RuntimeError('Not enough fresh, distinct stories from diverse publishers; old issue retained')
     return picked
+def telegram_match(title, text):
+    a,b=words(title),words(text)
+    return len(a & b)>=3 and len(a & b)/max(1,len(a))>=.5
+
+def valid(issue):
+    return isinstance(issue,dict) and all(len(issue.get(k,[]))==5 for k in ('world','russia'))
+
 def main():
-    path=Path(__file__).with_name('issue.json')
+    folder=Path(__file__).parent
+    path=folder/'issue.json'
+    bundle_path=folder/'editions.json'
     moscow=NOW.astimezone(dt.timezone(dt.timedelta(hours=3)))
-    if path.exists():
-        try:
-            current=json.loads(path.read_text(encoding='utf-8-sig'))
-            published=dt.datetime.fromisoformat(current['updatedAt']).astimezone(moscow.tzinfo)
-            if current.get('date')==moscow.date().isoformat() and published.date()==moscow.date() and published.hour>=20:
-                print('Today evening issue already published; keeping it unchanged')
-                return
-        except (ValueError,KeyError,TypeError):pass
+    editions=[]
+    if bundle_path.exists():
+        editions=json.loads(bundle_path.read_text(encoding='utf-8-sig'))['editions']
+    elif path.exists():
+        old=json.loads(path.read_text(encoding='utf-8-sig'))
+        if valid(old):
+            old['releaseAt']=old['updatedAt']
+            stamp=dt.datetime.fromisoformat(old['updatedAt']).astimezone(dt.timezone(dt.timedelta(hours=3))).astimezone(moscow.tzinfo)
+            if stamp.hour<20:old['date']=(stamp.date()-dt.timedelta(days=1)).isoformat()
+            stamp=dt.datetime.fromisoformat(old['updatedAt']).astimezone(moscow.tzinfo)
+            if stamp.hour<20:old['date']=(stamp.date()-dt.timedelta(days=1)).isoformat()
+            editions=[old]
+    # Prepare during the day; the page releases the prepared edition at 20:00.
+    # After release freeze that issue, while recovering a missing issue on late runs.
+    day=moscow.date()
+    today=next((x for x in editions if x['date']==day.isoformat() and x.get('prepared')),None)
+    if moscow.hour>=20 and today:
+        day+=dt.timedelta(days=1)
+    release=dt.datetime.combine(day,dt.time(20),tzinfo=moscow.tzinfo)
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
         jobs={key:pool.submit(feed,key) for key in ['world','russia']}
-        telegram_jobs={name:pool.submit(telegram,name) for name in ['rbc_news','kommersant']}
+        telegram_jobs={name:pool.submit(telegram,name) for name in ['rbc_news','kommersant','tass_agency']}
         sections={key:job.result() for key,job in jobs.items()}
         posts=[];errors=[]
         for name,job in telegram_jobs.items():
@@ -97,12 +117,29 @@ def main():
             except Exception:errors.append(name)
     world=select(sections['world'],posts,[])
     russia=select(sections['russia'],posts,[n['title'] for n in world])
-    note='Автоматический выпуск по русскоязычным RSS-лентам Google Новостей: приоритет темам из нескольких изданий и позиции в ленте. Это не рейтинг репостов. Ссылки СМИ открываются через Google Новости.'
-    if errors:note+=' Telegram: часть публичных каналов недоступна; используются доступные источники.'
-    elif not posts:note+=' В доступных Telegram-каналах свежие посты не найдены.'
-    issue={'date':NOW.astimezone(dt.timezone(dt.timedelta(hours=3))).date().isoformat(),'updatedAt':NOW.isoformat(),'note':note,'world':world,'russia':russia}
-    # Write only after both categories pass validation.
-    path=Path(__file__).with_name('issue.json');tmp=path.with_suffix('.tmp')
-    tmp.write_text(json.dumps(issue,ensure_ascii=False,indent=2)+'\n',encoding='utf-8');tmp.replace(path)
-    print(json.dumps({'date':issue['date'],'world':5,'russia':5,'telegramPostsChecked':len(posts),'telegramUnavailable':errors},ensure_ascii=False))
+    posts.sort(key=lambda x:x['publishedAt'],reverse=True)
+    telegram_items=[]
+    for post in posts:
+        if len(telegram_items)>=6:break
+        if sum(x['name']==post['name'] for x in telegram_items)>=2:continue
+        title=' '.join(post['text'].split()[:18]).strip()
+        telegram_items.append({k:post[k] for k in ('name','url','publishedAt')}|{'title':title+'…'})
+    note='Автоматическая подборка русскоязычных СМИ. Telegram отмечен прямыми ссылками; свежие посты каналов доступны ниже. Рейтинг отражает освещение темы, а не число репостов.'
+    if errors:note+=' Не удалось проверить: '+', '.join(errors)+'.'
+    issue={'date':day.isoformat(),'releaseAt':release.isoformat(),'updatedAt':NOW.isoformat(),'prepared':True,'note':note,'world':world,'russia':russia,'telegram':telegram_items,'telegramStatus':{'checked':len(posts),'unavailable':errors}}
+    editions=[x for x in editions if x['date']!=issue['date']]+[issue]
+    editions=sorted(editions,key=lambda x:x.get('releaseAt',x['updatedAt']))[-5:]
+    bundle={'editions':editions}
+    def atomic(file,data):
+        tmp=file.with_suffix('.tmp');tmp.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8');tmp.replace(file)
+    atomic(bundle_path,bundle)
+    released=[x for x in editions if dt.datetime.fromisoformat(x.get('releaseAt',x['updatedAt']))<=NOW]
+    if released:atomic(path,released[-1])
+    # Embedded last-good editions make the initial page independent of a JSON request.
+    page=folder/'index.html'
+    page_text=page.read_text(encoding='utf-8-sig')
+    embedded=json.dumps(bundle,ensure_ascii=False).replace('<',r'<')
+    page_text=re.sub(r'(<script id="embedded-editions" type="application/json">).*?(</script>)',lambda m:m[1]+embedded+m[2],page_text,flags=re.S)
+    page.write_text(page_text,encoding='utf-8')
+    print(json.dumps({'preparedFor':day.isoformat(),'releaseAt':release.isoformat(),'telegramPostsChecked':len(posts),'telegramVisible':len(telegram_items),'telegramUnavailable':errors},ensure_ascii=False))
 if __name__=='__main__':main()
