@@ -1128,6 +1128,299 @@
         "checked": 55,
         "unavailable": []
       }
+    },
+    {
+      "date": "2026-10-25",
+      "releaseAt": "2026-10-25T20:00:00+03:00",
+      "updatedAt": "2026-10-24T18:09:50.460784+00:00",
+      "prepared": true,
+      "note": "Автоматическая подборка русскоязычных СМИ. Telegram отмечен прямыми ссылками; свежие посты каналов доступны ниже. Рейтинг отражает освещение темы, а не число репостов.",
+      "world": [
+        {
+          "title": "CNN: США хаотично эвакуируют дипломатов с Ближнего Востока",
+          "summary": "В подборке публикаций: rbc_news · Telegram, ВФокусе Mail, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
+          "category": "В фокусе",
+          "sources": [
+            {
+              "name": "rbc_news · Telegram",
+              "url": "https://t.me/rbc_news/159330"
+            },
+            {
+              "name": "ВФокусе Mail",
+              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbloyR2dOb1llT3QzQ2d2N1l3S2NWN0JsSDFNN256M21hYWk0RWVNMnFKc2NTeTlYVlVvOXVEU3dZcmZYNEkzZHYyWFVWN21IR2hrSFhrUEdoejFNUFh1anluZUNGRTJ5ekFyc0piYUxjVUVaOWxseWpRYXpGMjNiZjVxZDBCd2FNOWxBWFdxZGJ2aEZJOHZmNEVOT1VfbUNHZXc?oc=5"
+            },
+            {
+              "name": "Интерфакс",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KMktWbktROXRJaF9DQ2FaNXpZWVZyS09EYzlwZmVMYlpyclJ1SWpMS3E2SXZhMDZGeHNZN2owNndmcElxcERYUDVXbTBzd9IBS0FVX3lxTE82VGFhdXlFRzJQZ25YWXVLeHYtdkdJckk5M2poTjFOSDVnVm9Vd2M1RV83UjN5bXBmZFdhc2dETVRSZExHWXRTTzBydw?oc=5"
+            },
+            {
+              "name": "The Insider",
+              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5JTnlwREQyRjJHVklkQ3otdUYxMDY4ajZjbXU4R25uWUs4aV9iWUNOYXNETXdmMzh3YTFDT3pONnJJNHc?oc=5"
+            }
+          ],
+          "publishedAt": "2026-10-24T08:51:53+00:00"
+        },
+        {
+          "title": "В Европе проходят новые массовые протесты – во Франции задержали 135 человек",
+          "summary": "В подборке публикаций: БИЗНЕС Online, Meduza, RTVI. Подробности и разные версии событий — по ссылкам ниже.",
+          "category": "В фокусе",
+          "sources": [
+            {
+              "name": "БИЗНЕС Online",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsbUxEeURzNGN1QWpiT2p5MEZPMHF2M2J4T21NWVJSMFlGMmxDejdRSG9DbzZ0ZXVMWUFGZ003dXZSZ0kxV2MtQkwwYkpGa3Z3SFMyeNIBU0FVX3lxTE93ZzNoY2xtYktjWHpHdGFoOE0yOGs3WjlxSTdXSGc2RGtrUjl4NnhPTWxyLWFrUXpXSEQwY3M5LUtkY3dqZEEtOXk1VE9ON0tGVkVz?oc=5"
+            },
+            {
+              "name": "Meduza",
+              "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTkF1SjBUb0tpMTlvRy1sM0doRDZIM21XMTdRRXJqdVVFRlR3OWNESDNUQ2ItQ2o5dXJPYm9lSHFabFRZZDZncjJROVlCMlBCXzZRZkYxM3J0LUdDd3NkSnp6TmZIZ1pxN2ZRWHMzZEV2VGtjTDZKeWM4dlJjVHB0a0YwWjRLR2NzVF9HMGZ0VGFIQTU4c1VDWWE1d3MxRk5kZldCSDRrZ3V0NDJyMTkzRWNueEFSbnkzck8ycWNIU0NPMjY1SWtRZDRVLWt2WVEybXc1ZDNocGlkYXVUTkUwaEZGUDZIRzBLLURGT0swYUNMRWdNQUpvd0NXRURaekh0b3RUWmFfOWxRdEHSAZACQVVfeXFMTk8zd2J5eUYxLVJmRExhS3R6aGZ5aXpULUlpYVdPejR0TzB1amVsLVpreFJDNzVJVzBhQnBad2FCSjdGM2hDWHpJbkhFYjBMMXBkTVA1NXhYekR1c256eXlIRnJxcmpRdk1IQ3RybFRmeTZOeng1d0xvTFJTVGpvVzRyY3doTENCOHJla0RSa1JoVElMT2RoWGpOUHZUd0Q0ZDFmLS03OURyVlRhWDE4TVljVV9TbHpkc0w0dkh1ZEx1cG1DLXp3aVp0NmdETGJ6YlVDWUhEblJRWEV4NGJsSGI3bkNUaDJwVGpYUmNtS1NyejdmM3VOYTQ2aWhCVy13T2ZHUHJTdjJiZV9YamtSYS0?oc=5"
+            },
+            {
+              "name": "RTVI",
+              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZHotTFZJdUljLWQ0MEdIc01meEJtbURzcnAwQjNhbEJPZjN2N24wLVdacnRvN3lTVlNBQ1F6NHItbG5nbDV3NENRbVhUbjRSdDZsOTd0YUZmQ1piSmdVZ3JWMG1LeXhOeVI5QmxGakdQM1ZFdktKa2lMNWU0WmNzYmRvbE9xLUxuNUlZaHR3bWE?oc=5"
+            },
+            {
+              "name": "BBC",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zZkprRkprbGhoel9nd3BMUkVLTk1zNTFBYmhtVXAyOXZ3ekhOaE5GSUhrRWZrWXhZeDNWMlVxSVZWemp6R3ZjdGNFQVVxVlB0VWxoMHM1UnZhWmJKQXdB0gFkQVVfeXFMTXZpdlMtNWdpamF4NjJKUmNEZkc5Nkx5M3k3Q0pQUnVzQ1lOY3Z4RkZNYWM4UW1CeWlicXVwSjRCbVpYazBJVmZFQTU1dWY0b0wyUDZINlFQOXhpbTN2VU1Fdms5cA?oc=5"
+            }
+          ],
+          "publishedAt": "2026-10-24T15:13:00+00:00"
+        },
+        {
+          "title": "Власти Баварии хотят реанимировать сгоревшее «Орлиное гнездо» Гитлера",
+          "summary": "В подборке публикаций: EADaily, Meduza, Радио Свобода. Подробности и разные версии событий — по ссылкам ниже.",
+          "category": "В фокусе",
+          "sources": [
+            {
+              "name": "EADaily",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSlZrT2ZHNTd5bUlxNld3SzBXR1ZZRGZfc1BZUWxrRjBpMTcxRTNyYnJkRGtncWdmVndQVkRCdk5ZRFIxTE5VV21pTm5YdGtHZUtkLXVyVFhickJQdFQxdlBfN1M1NC1ZUC1YNXk5RFg4bXo3QWNYaThhQlpFdC1wdXpRT3NEYWY2ZGMtNDNiZkFaRnYxdnk0cE94YzczRjI3MzVSUmtzOFVRcE5jckFNLdIBtAFBVV95cUxPc3F4X1liTEY4NVlMTlRCSVFKa0lNRUszRzdZTF9TcEFVRjRIS0VOcHlHcC1kRnQ5eU9ELWJzM2xaREtNT2xBbDNUaVpuRFBYYmhpMG43RGtDRUdqeVR2alNHSGRyWFdqNjQySzZ2RXQxMkg5YUFCeXB4bWtzSTBNa2Y1OXdEYVNCbmNISDkwVTFGak9ROGNYLUlMTlE3NFNlZG1Dc0M2QW45SVp2TjJpVWNPZGU?oc=5"
+            },
+            {
+              "name": "Meduza",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVjJFVjdQYWRRSUJlLUxTYUU4RXU4STA2NFFsajg2SWJlSEJ0SHAtektnMWZ1SmRVUDRQZERhVkFrV2xIMHBCYXFJd3pKOEtuVEdPOXowZ0JLcjY3Wmp2LXZUVE5YbVEyTTlMUVpwblJXMEcxakNNZVByVU5LTkpoQnZ0azVxZk51cFR2T3liRTByckc2ZWlJUzRGV2lJQ3JrdlJEUDhMWkQyeDFHSW5oZXJNUXJ6MU81YkpJRGFBTFRwU1UwX0U4eHV5anB6NHNfWThqaWlR0gHbAUFVX3lxTE9ENmtIdUdheEtyYWtXYmZSemV6c3NjeFFPLUp1Q1VCNlJkT2p0MzhzVHd3eTZGcm40SU1CTXlWOVRVZXJVdXRyakJhM2taMHVMYVBUN3JuR2xNZXJ5VWJNWlhKZEwyVWxLTHcteGNZamdsTnVVbV90UWVobXh5ZlYwWnRxOGhzeTU2UjJsQktiV3hzaWtjaWtZVmZUYXcxOFVkbVhKbUVUcUdxakY1N2U2RDhTeFVDQlV6dDNoNE9vamwxcHVPZS13SGV3NThVQmM3ckdRWTZCZWplQQ?oc=5"
+            },
+            {
+              "name": "Радио Свобода",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmZJY3U2emdsZ3h6ZktjdmcxTUw3R1FyRzlIb0lVd2lYRGE5YnFhNlo0eExHV2RGd0xNUXQtVGZJZHNVRVQxRTJhV2pPaDNSV1F0YmUtUVpVTzZLbzBlZ1lGbE1ORGZBemphTlB0R0NCOEUzQjFVcmRyUUtSSnNsMGt0WGJPb1dTZjQ1emJtYUFWTmJvYzZJd0o3dmJsVVJGTWRaSdIBpwFBVV95cUxQS2luV0x4RUljQjljbERLVHVpZ1VBY2lWbUw5RVlEaDZqNkdMT204eXliY19PeGIyd2N1TnZBSzNic0lTTWZ6djhJLUU3aEhia0NmM2lXdzR4YnVoUmF2WFNVemdfRU02ZVJhcUJiYzRKWl9JUXVFVTFpLWNMRV9GeXZ3WDlhemNvSTNlNGJWQXpWblBTR0pLSFd1aUpSZmU4N1UwVTYxaw?oc=5"
+            },
+            {
+              "name": "ВФокусе Mail",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUnlrNHpJRU1FbGZMNEFOVUxaeG1UR1Q0TF9RMkNibzU5eExEeDVfQ3JWS2NxODFhYmhmTlpkaE9JTm1jMzdidFozOXIyOVJkZjVHQ1gtQzF1eU9MMk5FcFM5YmVmYzVoc3dEOERrakgtTXVKaXNQY3JiSXl5QUI3RWZIMjlld3lrWDZYSF9DdVZZWW5naUpWM0JzQ25CdEVQbS1GZA?oc=5"
+            }
+          ],
+          "publishedAt": "2026-10-24T12:18:00+00:00"
+        },
+        {
+          "title": "Украина восстановила скорость Starlink и ударила по важным объектам РФ",
+          "summary": "В подборке публикаций: Euronews.com, Meduza, RTVI. Подробности и разные версии событий — по ссылкам ниже.",
+          "category": "В фокусе",
+          "sources": [
+            {
+              "name": "Euronews.com",
+              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRm0tZ3pmZDBPVHhFTTVZUnlPLV9lX1IzMmd1d0ZKa0I3UngzTWFXdTlTWjNyQnlMLV92ZXBsZUs4VWtXMldPQmpwR1ktS2xSYzJ5aHY5MlVyTkxzcVpvZERJLW9aVkQxVzIycC1WZXFXMWV5eWd3SEpPN1NDb2lkV2JLa291eE05R3g5MTFoZG5MN2xaaXU0cjVxdkNydw?oc=5"
+            },
+            {
+              "name": "Meduza",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ha3VqZkx3dVd4LU5xU3ZaVk5Vc1FCR3R1QndCblp2b19jN0dySUNSZ05JNHAwbi1ZUXozcmJKWXlnNUM2Q2RNclZVSXBySFpQejBSVNIBWkFVX3lxTE9TekNGLS1KS3JPM2djenlFQjVQa0VveDFvSFd4LTk5NDdxd2NYUXNMdGpURkJucktfS2c1VWs5aThmUWpNZ0c5YVl2T1VuQnVoSWZKUC1BaWlJQQ?oc=5"
+            },
+            {
+              "name": "RTVI",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRRldtbkd0RHNRLUU4LWpORnE1bWRIWjUyTTFXZE8yeGlDM2lKdUtUYy1LTWJYM25DY3pGRm1TMnJHTW0yYW8xUEE1Sk1XYk9TOWIxTzhlUGl4Q0c0cjI5QjA3SHF1RlFieTNVNkJEMEMyVkx5N3VxNA?oc=5"
+            },
+            {
+              "name": "БИЗНЕС Online",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0waUs5Zi1zYS1mQkdkOTVwbmN1Sk1IbDNmRm9hdjBTZXE3d2oyZEJWVG1xZXlVWXBqM1YtSlVhOUpjc2hxQnktQzR6djFrdHEyckpoQtIBU0FVX3lxTE9rOGhnall4b1Jaa1hkVF80Z20zX1NfbHJqSGdLQnNIbUVvMEJhcks1Q05wUVZqaV9HR0N4dnVmcUJyZFRwYlczWlFRcGcxdUNENEdR?oc=5"
+            }
+          ],
+          "publishedAt": "2026-10-24T10:28:16+00:00"
+        },
+        {
+          "title": "Макрон заявил о переломном моменте для Франции",
+          "summary": "В подборке публикаций: Lenta News, BBC, BFM.ru. Подробности и разные версии событий — по ссылкам ниже.",
+          "category": "В фокусе",
+          "sources": [
+            {
+              "name": "Lenta News",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTjRNcHgwbWxYRUNqNjBxbzNOYlYzcUhzNnU1VE5tenZFbVduVUE1S3pnZXBRZzFyMWZSQklEM1ZkRVFPeHdVaEplUklxdXc0UVNYaEM5ZGtnLXN0ZW1GMGNmVDBXMzQtczhRNmpJRklJZEFDa1dwdVZRc3hoZzVITm1yQVFjbTN1TlNsWjlR0gGTAUFVX3lxTE9hVjd2b2hXbWRHVGgxcXRvZDhCRVgyWl9VdnptTW9IR2hKbDRIaGtsM3RxTVlkdmNPdmtHOURVX0hyZTNGR0pmcnJBMlZNR3VPWFoxLURHbHNjejJGZF8tellvRFlzUU1xd1kzV1dmYXI4aHFGanRYcG9YYzBvbUN5OEZxNjh3SWcySXlyVHNYUkN0SQ?oc=5"
+            },
+            {
+              "name": "BBC",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ucElIeDVtNWVFSmFwVmQzY2h3OTRlSDktRVhTdkVCZWtrVmNLaDh1Wk5WbmVmMU1MS053OGwwM2lrb1RudjRka0hxVHlxV003S2EwckZqUnJjMzRaOXFB0gFkQVVfeXFMTmZudS13RGswcUNacjNQeTE4c3Q3NUhYbl9lU0QyS1hLMmFWZDRmMWFOd2x2RUgzR2hpeTNTWDdkakxTTXpLbGV3RjZNU2c5WEdVcGhWVkU5YVRwWTlhU19oRGFUbA?oc=5"
+            },
+            {
+              "name": "BFM.ru",
+              "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBrQjRMQlRVYTBvMncxNXA3ZDJCN3JGZ0VORTFjNmVWTjhwR1ZCRlZKMmJwMnVic0YwQl9YaXZpZFpGcnAy0gFKQVVfeXFMUElva0N4c0xVcXFPT3JmOG55UTBqdXhzTmJReHBoakd5X0VXTlJJdjdUSVR3TWhzTFdBdWxVSjNFSldGaW83NHI1eHc?oc=5"
+            },
+            {
+              "name": "Интерфакс",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11dUNYSEFqbW5VUUViMm9HSmdXd0xYS2o5X011QUx6RUI4TzhMbFVJVlFmckVkXzdld1JST1ptSldBT1M1bTlwZUtXVThJZ9IBS0FVX3lxTFByY0U1Qjh5THZUU2dSRDFzaUNZal9MRkdCSHdlMlRGYlRsRmR6VTJFbF9ybUNCYjlyUmxCVkhSQ0gtTVRlSzd5Um1Lcw?oc=5"
+            }
+          ],
+          "publishedAt": "2026-10-23T21:40:05+00:00"
+        }
+      ],
+      "russia": [
+        {
+          "title": "За сутки в Рязанской области произошло шесть пожаров — Новости за 24.10.2026",
+          "summary": "В подборке публикаций: RZN.info, 62ИНФО, РИА «7 новостей». Подробности и разные версии событий — по ссылкам ниже.",
+          "category": "В фокусе",
+          "sources": [
+            {
+              "name": "RZN.info",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjFWbXRaVHhlc2xFdUk5bDBicHEtdTB5TzVFWk5yNzFYWjVnclBSLUQ3d1kxUmhYQmMyV0VTb2Vzb0pucU9aZ2JZeTNZZS1Ca25nb3ZPRTJlbXdNaEM0WUNBODJRcF9mNlotcTBFSy1ENWhsRmh0VXF3Y0pPbGpPMTBRMi1sdmVGaXdob2ZFeVp6ZzBYMjMzUTBuRG1kcVR0eU9NSXlEVQ?oc=5"
+            },
+            {
+              "name": "62ИНФО",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSDRDaHRCeldVc2lCRnlPaDZnVU5sTDdFaXF4em1nSkRZYXEyei1Dd2d6QzBac1gwR0E3VHlCYzJuU3YtNU8wSGZlRGRnMzJELVYyaXRBN0VNeXZiSmQ0SS1xbDR4TGJyMzRTU1RlNjYwc1ctSFdxOVZZV0o4ZU0xLVJhbVlMZ0tVUGFiQUF3N0VFaFVKaUVTQi1jdVg?oc=5"
+            },
+            {
+              "name": "РИА «7 новостей»",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSVdUb0VjQWFQRmoyc0oyZzFVNjlqdUlZNjZrekRWRDZHOUg4d1kyZUMyZU41QUJESU5tYklDMDh0SXUtcjJ0Wm51ZW56R3NzLTV1X2NjaE5YcU53aV9KQ3V3OVV0b3RyandHbndWTFA3SnYzSV95UG1qT2dfQTZ6R3p4RExGOFNGZkVGMmJhaFA0TE9SVFBTYTZRM0U1Qjdxd0I2dUpnRmpRY21kQUg5T1BiNHpkU2loOTRxSXJR?oc=5"
+            },
+            {
+              "name": "Рязанские Новости",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WQXlMbDI2eDJRdEtvc21hbWpsdGZ3bGZYcVU2NnlmT2h4ajZVaUtOQ2hON0dxMUwzYW1DMmsyZk9TbHJ1MEdyZjhYalJ5Rk1o?oc=5"
+            }
+          ],
+          "publishedAt": "2026-10-24T08:55:28+00:00"
+        },
+        {
+          "title": "Украинские БПЛА достигли северного промышленного узла Омска",
+          "summary": "В подборке публикаций: rbc_news · Telegram, Интерфакс, Meduza. Подробности и разные версии событий — по ссылкам ниже.",
+          "category": "В фокусе",
+          "sources": [
+            {
+              "name": "rbc_news · Telegram",
+              "url": "https://t.me/rbc_news/159342"
+            },
+            {
+              "name": "Интерфакс",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iX3FTdnZ0UXp6cVUxUEFpSHVRXzFIeHQ2endOYU5kdjI5Z0Y3LS1yRWlmbWcyLW9EV3NxekJhUm1kd2JHT0tWV2stdGl3c0nSAUtBVV95cUxPSkdyVnJ0LWozb3RHeHRpejFhbFVWY0JHV2NiTG5sUGpSdHpJVUtWN2Y2MTQtTHJwY3NIdHlWVC1BNVFienk4ZEROWFk?oc=5"
+            },
+            {
+              "name": "Meduza",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcmMzNHlESzBFemxnYk1VTXBZam9iTGZscHRmZWtJT1hPLTRONlFMRFFWaDRnakdBNDJ4cXc2dXBHc0s1SWttRy1FOGdzcjh6YVctOVI3Qk5WVVFMS3lrOVhKc3VvcWcwN1RyRmNkT1BvbmROcHBXUWplRWlRemZxb3RVMEktNmp6Q1BNVllQb0o4RnBSa0pZbjQ0QXJpblpndWp1alFCdFhpZTNLdVVJU3lHUmg2NXByVkI0eFFsc21sLU1ZTnczajBqU2xuZWlBVlFR0gHYAUFVX3lxTE5XbVlwNDNaczNOejZ6X1dYYjNzQTRPRVZfejNMcjJLbTg4SHVlWWxhQjV4amI4TnhaS0ZBWHBraDRoMGFCMG9xLW12MHlrNjB1d0JIU1p1TGJoeTFBM3V6ZE81VG9uYnBWV3JpYVphbEowMlV3RHJqQ3h4SWFxNEl3X2pmdDI5c3dYajUxeE9tOXFuNVBGWl9Wc0hsdC12cTdUZHJzeFlXXzV0VV83Z29od0JpUjFOa2Jia3EyZkt6Z09MbEhqcVUyc1dQUDlzd25tRklTeks4Zg?oc=5"
+            },
+            {
+              "name": "CNews.ru",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jVmNKR1p0WDhUbnZRUUUwenJXcm1IckFPUEN4b3hzZE0wLVppaUJyZTVYSkJqRkgyNDNxbnpNemFUVWdGU1EyTHdpaE9scnZVS3FuTkJPQzQzTzdhNG1NSnZHdUNrVl9XcGlUMXN6dUZHWVZQZEtTVFhB?oc=5"
+            }
+          ],
+          "publishedAt": "2026-10-24T13:58:00+00:00"
+        },
+        {
+          "title": "После атаки орловского завода пять человек находятся в реанимации",
+          "summary": "В подборке публикаций: Newsorel, Интерфакс, Росбалт. Подробности и разные версии событий — по ссылкам ниже.",
+          "category": "В фокусе",
+          "sources": [
+            {
+              "name": "Newsorel",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CazdOaHUzODUyTFlLSnIxWk0zeE9OSGlZNTBHS0pDdm1TNTZTNmJsWG1BX1hjMm9nckFtdnFMdlozNGJ1M3lwQTZyTHFEUQ?oc=5"
+            },
+            {
+              "name": "Интерфакс",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkT0prYzgtajNaTWZDcXhFa2xWNng5Q1JnRWQ1S1JGTWZIeWpGUDUwQ0c2OUlaQlpjSVFZdVMwSGRGV3lzall2SVJtcnRhcDjSAUtBVV95cUxOY1hDUVV0dzA1OXNFMDhhVDBaVlBZOVVoa3l5N285SkRvdjZ6bTVHNmxSeUJLbDlORkxxX0w4WWphS0FOMmNpb3NQMEU?oc=5"
+            },
+            {
+              "name": "Росбалт",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNFkwZC1sTWlZYm4xVkdSZHROTnhPQmdZRlM2NmM0U21yb0lZYldtMElxRHNjSU9DZlRDZGlSeE5zTzR6MFhYWEFzS0hCd0lxNDhJdFhhVjZwdjhabkI3SlB6dXNKbjgwUTBvRmVQdVpMMDRRNXVIQ0JDWEw3aHhzMjlzdUNxbm9sbnVET09sMGhIR0gzZjNXVFlHSDlvcHRQVTdvUmw0VWk?oc=5"
+            },
+            {
+              "name": "Радио Свобода",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDB0LVF4TVRsckxZbk05Y2VLaC1YME5mN21vUVdrQnZHajljckRnWTc3YjBWeGdsaWJDMDc2aGlVOEJQNEV5SFpROV9HNWZFQlVvbkRIVEtBNDZOdWwyb3dzaV9hcmk0R2s3TmRHMGFQdWdiRlJadGViUl9tVnZpdXV4TnZnNjlwVWdnd042R21ISUxMalHSAZgBQVVfeXFMTUZlbXdaZGVmTnlJNk9iU09HTmtaZm5MYWlLUjdFelVQTC1RNVZTcVZFTFhKRVlHNUI4SEV3dmdQeVdfSEZaMUFOUXZjNzF6LVduM0lXcHFhYzU3eXpRYmJBcVVjaDlQREVfengxdEljM25scWRlTG5qNDRCVEZzcC1QVTg2SWZJTHV5NVQ2N0E4aEJaN0dpdHU?oc=5"
+            }
+          ],
+          "publishedAt": "2026-10-24T06:57:09+00:00"
+        },
+        {
+          "title": "Минэнерго: обесточена часть Крыма, Херсонской и Запорожской областей, ДНР и ЛНР",
+          "summary": "В подборке публикаций: Ведомости, Meduza, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
+          "category": "В фокусе",
+          "sources": [
+            {
+              "name": "Ведомости",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb21NMVNyQUJIQ3dHSlYtNUg1Q2p5QlVpT1FmX19IaTM4T09EdkIwbmE5LXlUbGhPVmhLNzUyam5pbGt4LXh5TnMwVjIxM2tFMUlEZXJkbmVjUnhSUVRXUHhaTXduYkpvc2FaZGhGc3cyWFk4Yy1heG1qSHQxRDk3dw?oc=5"
+            },
+            {
+              "name": "Meduza",
+              "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTHo1cUlaOFFWUS16UXFvMWxqeUtVMzFXRzRNR1ZQU0hENTRTNzNPejdXYmJoZDJUQzVHZENJSXNoSklZT2ZSLXg3eFBoWHRWT1BfVlRILUJYcGw3QTVFR2FNQUtuN3FfbzhMNUpHdEtOdV90cUV6SXRIWnZ3aDA2VTlkM3BqQmxOMXRzUVNuZVRCRjY2S2I5dFVJbEo3dGhvM2dINHlsbENnM1AxaFpCY1NXbkJoTkVPbGRPenNiQ1IzelpDMDVTTWRQczNwbzZhV3QzVmlHYkpzclRNcXV2VEdhQmbSAeoBQVVfeXFMT0l4QWZNVElPU2ZpX01lYjY4cmFra3VlT3dJdkRzV3JNLU9SLS1XQ0JzWFQ0M2RxZ0hLNVg3Q3J6MDUzRXQ2bG5XZ2tsWEpYU1VUbmdfUHNSZ0VZTWdKT1A2ZE9aZ3E4TW9qLUh4U1BTSFZnMEtxQWZhOEVXaVMzcV85ZmNUcVVOVElqZkZYUmRYTjJKY0FuUjlGZDMyc3JkM2dkMnh5ZHMxSmtBNHFZU0xzZG82SHExTkpaMEVJYUR6UzR3X2w5UTl0ekNxekR0UXJGWFNVUDlBVWRQbGVSZUFSM3JLN3RNWWpn?oc=5"
+            },
+            {
+              "name": "Интерфакс",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jZlJBempEckRmUi1nVHMzRG8xTDhPVG85TENRSzhJeER4cHlkdUJFZGpHWU1BdHg4andkcFBkRmZGVFFLZTNIdkpoZENqSDjSAUtBVV95cUxPOXQxeVdBTHFpcXh5dzRKRU5SeTBqZ0xLSGZFeTRlQzlhRmMtUFZMbnRBdXpFVkowekpaYTZkcm53RzlPMlZ6OWRldlU?oc=5"
+            },
+            {
+              "name": "Финансы Mail",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcy01cTdSdE5rZnpqQ3NXam5iam94Nk12bU91T0dTMzZZbVE3UVZqclRKRGp6WFJ5cmdFU2YxaEVVTDZ4UVFrMFpCVTlmSFJWSEhGZGc4eEx4UHVLR2otc09oZkVBSlBpRFd0b0JJWWVaaFBFQVZJOF9LUzhCYXRIdUFxZENXT01qeHdEbVJWNDU5eVdzRmIxeTM1MA?oc=5"
+            }
+          ],
+          "publishedAt": "2026-10-24T12:43:18+00:00"
+        },
+        {
+          "title": "Сотни домов остались без света после атаки на российский город",
+          "summary": "В подборке публикаций: Lenta News, Интерфакс, Радио Свобода. Подробности и разные версии событий — по ссылкам ниже.",
+          "category": "В фокусе",
+          "sources": [
+            {
+              "name": "Lenta News",
+              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQWN0N0U5c2otZ0RpU1R2LTByS2R2Vzl4WjJLWWVnZDRLdXlEVE03ZDZtMHQ1aDR1dWxqNEhOcnVMTnEyM2F0VVk4RExNaWs2T1pSR3RsbGs2RnJzY3BNWjRiU0szVGZDUktiR1poYkQ1enQ0TkpCeUZQSW1Qa3ViWkNZWTJNbG9pNjd6Smp3T04yU2hrWEk5UWtBYzFOUdIBowFBVV95cUxQdkdZZ2hTWXNNclZjd1R6eHZTX2JOYXF5ZC1jTktpSDE2ZC1yTGNNZEF4aC00MV94aW1DVjJlT2pTckhGUXNMal9TR0JMOXlJbDZ0U3BscDVfT01NcUJ5UjJ6b2Jucy0xZ1lZcTNmajVrbFJQekxCNmVjQzUwVkgyN1RSdDk5blM2OUVrSnc3V3BoeE9XUFA2WE00YnhURGxaSVBB?oc=5"
+            },
+            {
+              "name": "Интерфакс",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlLTdUMjExeUdNY2dqMEtla2htbFY1SjN1OGFmanpjWnpMZ18xU2k3U0lMcXdvd0g5bDVhWVd1V0hvNWl4aGJGLWxpV1N3UDjSAUtBVV95cUxOYjhoQkxWbzMtd3gtU2w5NlNJVzdGbzNLRlRxWEtVYXhxMkZrZXRxZ2hJVUc4SFdFLXhwRzRXNXV2Q2o2MjZCNThXQ1k?oc=5"
+            },
+            {
+              "name": "Радио Свобода",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR00yM3J4NTAxNEhrdHkzY3ZvdmZwLXhkRmg3ZDQwSnVkdWVFdFFtaktza2s5RmN0aU9PVXYtSUpTMTVCdlAxSDFvbUtSRVVGUWNxbTIwbjZYWkd3d09SS0YxTGwyVmhFTF9wVVA5QW5nMWUtSTJCTXVfa2pyeWtwbGpTNUJCV19Kenhla3VVdHdxM3VDR1hTdlNPdHI1RDlGcDlKNDR2bkxLTEFFSENnLVR2TmRyckV1dHVJQlVJZ05SYVV3X21DUdIBywFBVV95cUxQQkVrTUFMQ1JDZTRHalpnc0wxSWFMb1lKNjdzWlEwbWlLTmJidno1S2ZkaGl4ZzlQMnpDZ1hPS09mOGVPQjEtRjltTzU0Z3psdzhjanFpemVBMFR1YS1wMXpNcHZ5Ti1ST2xxXzNSNGREcWhSTGhXV05vTy1DblN6U3lMRTFVUHh5X3luU1IyWXVOMHc2aXhyeTVnazkzekRzMDZrTzZ3ZFhSekEwVTRoc29qb1I1ZTlrQU5iRmF4MTE2elAwUi1GUUF1Zw?oc=5"
+            },
+            {
+              "name": "Ведомости Юг",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vcGdsOHVGSkV6MENNclllRjZCdWZVSEpOZWQ5emZhTTA1TTJjdTZyWVhPd0RIQjU2SFZHdEQ1cTgwUHlYOTdBblhVaEhHZ3hLN01pZGVQYkFEX3ZyaXNuZFVMOUVHVHI0Y1p5V0ZYWUFKV1k?oc=5"
+            }
+          ],
+          "publishedAt": "2026-10-24T07:14:00+00:00"
+        }
+      ],
+      "telegram": [
+        {
+          "name": "tass_agency · Telegram",
+          "url": "https://t.me/tass_agency/402169",
+          "publishedAt": "2026-10-24T17:58:35+00:00",
+          "title": "Задержанным по делу о пожаре в бывшем чайном домике Гитлера оказался 33-летний житель Берлина, пишет Bild со ссылкой…"
+        },
+        {
+          "name": "rbc_news · Telegram",
+          "url": "https://t.me/rbc_news/159349",
+          "publishedAt": "2026-10-24T17:56:36+00:00",
+          "title": "Концерт Максима Галкина (признан Минюстом России иноагентом) в Стамбуле отменили в связи с поддержкой им Израиля, пишет газета…"
+        },
+        {
+          "name": "tass_agency · Telegram",
+          "url": "https://t.me/tass_agency/402168",
+          "publishedAt": "2026-10-24T17:46:36+00:00",
+          "title": "США в последние дни выводят часть военных с баз на Ближнем Востоке, сообщил телеканал NBC News со ссылкой…"
+        },
+        {
+          "name": "kommersant · Telegram",
+          "url": "https://t.me/kommersant/117932",
+          "publishedAt": "2026-10-24T17:34:42+00:00",
+          "title": "Средства ПВО за день уничтожили 125 беспилотников ВСУ над регионами РФ и Черным морем, сообщило Минобороны. ✔ Подписывайтесь…"
+        },
+        {
+          "name": "rbc_news · Telegram",
+          "url": "https://t.me/rbc_news/159348",
+          "publishedAt": "2026-10-24T17:14:20+00:00",
+          "title": "◻️ ◻️ ◻️ Продолжаем готовить вместе с профессионалами. На этой неделе шеф Дмитрий Лебедев показывает, как приготовить шоколадный…"
+        },
+        {
+          "name": "kommersant · Telegram",
+          "url": "https://t.me/kommersant/117931",
+          "publishedAt": "2026-10-24T16:40:45+00:00",
+          "title": "Американские посольства на Ближнем Востоке выпустили новые рекомендации для сограждан, которые намереваются посетить регион или живут там. Правила…"
+        }
+      ],
+      "telegramStatus": {
+        "checked": 57,
+        "unavailable": []
+      }
     }
   ]
 }
