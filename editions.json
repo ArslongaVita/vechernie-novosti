@@ -1167,159 +1167,127 @@
     {
       "date": "2026-10-31",
       "releaseAt": "2026-10-31T20:00:00+03:00",
-      "updatedAt": "2026-10-31T00:48:03.404853+00:00",
+      "updatedAt": "2026-10-31T10:56:08.411776+00:00",
       "prepared": true,
       "note": "Автоматическая подборка русскоязычных СМИ. Telegram отмечен прямыми ссылками; свежие посты каналов доступны ниже. Рейтинг отражает освещение темы, а не число репостов.",
       "world": [
         {
-          "title": "Президент Польши обвинил премьер-министра Дональда Туска в попытке переворота. Что происходит",
-          "summary": "В подборке публикаций: ФОНТАНКА.ру, Meduza, Радио Свобода. Подробности и разные версии событий — по ссылкам ниже.",
-          "category": "В фокусе",
-          "sources": [
-            {
-              "name": "ФОНТАНКА.ру",
-              "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wZXZodzdyMXB1c01QWDFnaFdSMXVERjBsTVJlWDhTNXhyNHBSRHByOWR4UXRPUXFjRUNoaXdNVkFBcWtPd3JNMG9IMjVFY3JXSUtTdjNpSQ?oc=5"
-            },
-            {
-              "name": "Meduza",
-              "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTldHb2dNQ0llTzBtU1czak5OUThYZkFVelhkSUZNaXppanhOQ3psMzB6cDlwUnpWdURmdDVkN0FCV1MxUXN1OVlnTTAwa1JxZVVzaG1vVmlTMmU3bXlWMFgyMG1DMmlqVWV6bURKYzhWZDdpSFVkOHBVOWktMHhHeWJoLU5fUW9XUkc3Wk4xSVhSTDNGZzJCdGpPdEZVYVhEVmhrMWhuUjRKRU1obi1nSWpaT1ZvVlhWUU9KRHluSDdlMFNCTm5KM01JeVBZZnBKOWY0RkZqZmNyRGJuQVFlOF9pekZiajFzRFp1Rjhn0gHzAUFVX3lxTE5aSGl0ckxSRFdIcC1JVUpJUEJVamVHRXgzRUg5ZGNHbTJCajIxcWJySzl5ZnRCNXotSE1vQUllbXBSZmpYQkRBU0NJTWJTNDB6a3lfUE5nd2N5amdCVTczVU5jdWhYU2lUdFBtM0VGcEZxcTAyeXd1d0tSYTVuaHVkVnJDTFJmalB3WUlvSHRrMElpZzZDT1l5MWdJU2UyVHlIbFB2b0ZnUWdydnhaSlBITkZIVnJUM0dDUzVOMmc3dW9HQlBhdWNoMXBwejFZQVpXRmhfNm1QYWxkTnQzQUo4RENvd3dMRVQ4YS00V0R6TV9tVQ?oc=5"
-            },
-            {
-              "name": "Радио Свобода",
-              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaWF0aFBZM09yUk5GU2hmdUhiSDhvc2VnRm9LRC1VUkI5bGtFdDJGdHlvUUNLQWdyVy1ZaVlMSG5BUWVOOFlQU1hwQ1pXQW5ZMjNSU0U5S09ZS25OaWhMOTIyb2tMMHF3RmM0ak5DLU5sUlZ6NVNQamNqVDhHeHNLZy1GdXgtNGJuME4zUW5LUC1tVXIwSGZSaUVMdkpnX2xQd2NXb0ZndUJRZTNjTFpF0gGyAUFVX3lxTFBCUUY3b1FVN05acG5VVzdwODYzWVk5T1NEWjBUbEdPVEx6UEd0bXh5Yzh2NGhpRkRrQmdUZjZvSUk2UV9OSF9UQ1FDWHoyZW1kWWE1YVl2ankyMTVGRUNUZEdYamhPU2lJbDFMN3RRXzctSHk0ekRTOUd4RUpVOUJ6MjFwU3B1NU82YTl2OVA2QmpILWZSOTNHMGNtbEgzUHNmMVNuaEswUk9semRMYkFXa3c?oc=5"
-            },
-            {
-              "name": "The Insider",
-              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9OYnpxV19nSmJLMTBDS2tvclVqb21TTjVjcW1NcnRDYkpybnl5dVdmSzFlTGE5alpVb0VkUF9SQldkdVE?oc=5"
-            }
-          ],
-          "publishedAt": "2026-10-30T20:21:00+00:00"
-        },
-        {
-          "title": "Токаев предложил России присоединиться к Организации тюркских государств",
-          "summary": "В подборке публикаций: kommersant · Telegram, БИЗНЕС Online, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
+          "title": "Судебный кризис и попытка госпереворота: что известно о ситуации в Польше",
+          "summary": "В подборке публикаций: kommersant · Telegram, kommersant · Telegram, kommersant · Telegram. Подробности и разные версии событий — по ссылкам ниже.",
           "category": "В фокусе",
           "sources": [
             {
               "name": "kommersant · Telegram",
-              "url": "https://t.me/kommersant/118446"
+              "url": "https://t.me/kommersant/118461"
             },
-            {
-              "name": "БИЗНЕС Online",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0ydVNONUVPbmgtUDlaMVFQWGQ1ZHhwMTlpSkJGSnFhM2ZpVllPWEpyNVh2cC1zU0pjSlNwQ2pKMnlTbjAyYnZXOEVaS1RWbmRpeUs4OdIBU0FVX3lxTE9YWkRnMHJTMjhxd0J3ZFllc2pFZlBIbWNacFpFWHppckFCWmZfTVY2YVl3RnFTeklSX2ZqeUlCOC05cnBZTzRUdHdLWW9KdWVkRXlR?oc=5"
-            },
-            {
-              "name": "Интерфакс",
-              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xLVhYOXpRYTYzeGZEbERiTFdJekVEb1M4Njl6eDJkWURXekg0Z2dHS0gtaXI2YnB0NlRKZWRwSE13U3lvQjllbnVSbFcxUdIBS0FVX3lxTE1RV0xMbXV1cGhnaHZHbENMMFlTSUk1Q3JVMmNDbzBIb1Z6cmh2RHJrMllQcHF1aDJMbzlfVkpGVjZraEV1VHhpay0xZw?oc=5"
-            },
-            {
-              "name": "ВФокусе Mail",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDQyRjdMenZnTVJrWHhyUVFJQ3lEaE5PaFlmcUpWd21QUG4yY2ppNFM4WElfY1BiOG5qeEFEeHVoUmdMaW1BcjZQVUd2a1Z3aFNCX1BlQVFLU3BDY3JfbUt0X3ZxbEttby12YmNuRmNvTzVURzJRQ1FFVlFQbFFqeVVxQktpbzNOMldfTmVfYXVQV1pzaklXc2NjcXNuUWVjUzlwX3N0WWYtRUhmWUJ3SnFvQ3Ridw?oc=5"
-            }
-          ],
-          "publishedAt": "2026-10-30T09:44:00+00:00"
-        },
-        {
-          "title": "Минфин США продлил операционную лицензию NIS до 11 декабря",
-          "summary": "В подборке публикаций: kommersant · Telegram, Финам, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
-          "category": "В фокусе",
-          "sources": [
             {
               "name": "kommersant · Telegram",
-              "url": "https://t.me/kommersant/118437"
+              "url": "https://t.me/kommersant/118459"
             },
             {
-              "name": "Финам",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHNYTFA1eXpPcGZabTd3Ym50bGdSVGlkdlBwZkJBRUlkdEpnSldiOHZjU09EOEVpVzE0VDJYMVV0UWppVjJRUjVyaEx1MHJQRXBGd09OX0ZZZFVIcWM5dWN2VmRhSmNaTXJuZmx6ZXlZRHdfbklDbGhTUEZQNElJZHA2a1VaN0FPNEZXMWxqX21NMzkyRmdyQmdmT0NKTUl1YUdkbk9qZ2s2WmlDTzRKM1Nld2hUeElZYmc?oc=5"
-            },
-            {
-              "name": "Интерфакс",
-              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKc09UeWlCZ2doNHJPN2cyeVFvVnhKQU9uV0V6S0ozVG1laWRuWWl5UGdJYkhZNHBXR1ZxcndXTWNhNERFRzJNTWdmcGhId9IBS0FVX3lxTE9sMzBwUXZLMFViM0NjQ210Nldweml2WENFNG1YbGFFSkZZQmdFdTdVQ2tqR0dJRGhxeHF0TU5YY3RDR2RqcmlfQkpKVQ?oc=5"
-            },
-            {
-              "name": "Русская служба The Moscow Times",
-              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1ZFMC1sVUdxU05XRUFWc1lUMWdnbWUtb2pwV21IYVhXM1c2alBFM3BPb1VsX3VrR0xVeW4zYUc3dFQ3dVhRYUdWdUduTDExVDB0TnU5UlhDWWhSRkdFM2RreTFud181SnlXT1hwT241Vm15c0paWEdZN2NUU3lBSERESVhMY3N2a28zZ2FhcmJTNVF1anp0UFFQZEVEX05UZWxjc3U1SWZ3dXM?oc=5"
-            }
-          ],
-          "publishedAt": "2026-10-30T18:35:00+00:00"
-        },
-        {
-          "title": "США решили вооружить Украину ракетами Patriot на миллиарды долларов",
-          "summary": "В подборке публикаций: URA.RU, Meduza, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
-          "category": "В фокусе",
-          "sources": [
-            {
-              "name": "URA.RU",
-              "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1EQkkzY3MyaTRmLXlWX3Q5bHA2Ukl6Y2RUYmpxcGtyTUlVYWwyTlh0ay1USDZwOWItUVQtMWd5aDRqUU9DT0NJ?oc=5"
-            },
-            {
-              "name": "Meduza",
-              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ1ZHY2ZaWDFSeS02YzFvTmkxSnhhY182N0RWZURINmVZNUZjTFJTMXR5M0pGWnl4amhXWW52Q3lPWWdVSGxaWnpYQ0VoUV9jSjcyc296SFF6a2hZQXhyeUk3TDlSck1WSHRaLWVodGF3aTVDaDNzWmVLQWxZU2NIUVBGVEtYaHViLVpTcGNqZGZ3WXhhd1ZmdE0wSjfSAaIBQVVfeXFMUGxiZWJZbDRteVJwalNDQS1YZXFKVlM1S0ZKcVVsMGNsQk11R1JnQWllMTE3WVltakdVVFN3WVJtalhwVjJfS2k4WVRKcUg3eVFTWWpkSW9XR1N5Q3hmRW91S3lmUWFkWWpfT21Ed19obC1QQjZ5YjB0WnVMLW51LXVoZUJiT0dtQXUyN1l3dnU5eGItYXYtZDh0UmsweVJrT3Zn?oc=5"
-            },
-            {
-              "name": "Интерфакс",
-              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9neHM5NE1NRVBsWFRuVkZ2Q09zUkJYVExKQ1VwS1A0aGV4dTNpOUZRQjFYNHJfSkQyTnhxajlqeTZxQ3N1WTZiT1VuSE5zd9IBS0FVX3lxTFB5ZllOVTY1dWN5X0dXM3dneTh5S0N3RHVoYVRPY0dEbWJrOGlJemR0WFpfS2llVlVIUktnMWVmcENVNXNreF9ZWWhucw?oc=5"
-            },
-            {
-              "name": "BBC",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wTXROdDd6eDZTYTJOREtteGxfMnhhUHZUSHdtcmNXY0ptWnJjaV9FYVhpbmZnSTRya1QzVGdSVE9rX0ZRTF83TU9UWFNfbHpHTGFDSFNxbWlpYWhhQnZWYnlsNTM?oc=5"
-            }
-          ],
-          "publishedAt": "2026-10-30T19:23:00+00:00"
-        },
-        {
-          "title": "Трамп отказался признать лидера Бразилии после поражения",
-          "summary": "В подборке публикаций: Lenta News, ВФокусе Mail, Ведомости. Подробности и разные версии событий — по ссылкам ниже.",
-          "category": "В фокусе",
-          "sources": [
-            {
-              "name": "Lenta News",
-              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMDBlQUZKYzdlYnRiZUt4MUt6d2dGYmRhVXNXZ05wUTBwTmgyOW1laTZGVnRBUVlXS2xsSW9DZng3Q3d5OE9xdG9oT1d3TEU0MmZqcG5yRm1QMlJ3MGgwOWl4WFVIT0dRYUNMS0FmaEphSWEwZGJpcVlPeVJUSFRkSGRuYTdic0VkLTJYQ0MtXzVFNFFPV0laZkhB0gGfAUFVX3lxTE1tX0VJWlZrNElOaVh3VXVSbEF0RW9lSm9fNk80OVhXNXlDOU1HdWZMUldqV3NiOVpWY01vMW1GREtTU2VSaHZQcDNiWElXZThycGZGbFRTbGpBWTRCZWt4SG9IS0E4YkZCYVRGWDhmcWNIVjRSR09RVzlJOXU2UEhITzNXbHdWZ0tsRmhCTlNWMExQNkFaSmdWWVE0SHNWYw?oc=5"
-            },
-            {
-              "name": "ВФокусе Mail",
-              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmdtWnN5UXM0d2paY3FPakY5NU40VUo3Vi1UNGJhTlpfOFVOVnlrMExxazVubnR3S2Z5UFA3enpvMGZIcEJKQUZ6UFZ1a3RsMm90anpVdEw0azlMU2NDUkFrTkFqSDlqR3U5RG9NNFM0OTFaTUpUb2tTNmNDTzFsUXp2U2xaUnNBUjhyZ2NQX3I0Wno5U1dMTFlsbEg2eF9nOGV0ZE4xZU5Dc1loM0phN0ZPX2Y?oc=5"
+              "name": "kommersant · Telegram",
+              "url": "https://t.me/kommersant/118450"
             },
             {
               "name": "Ведомости",
-              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVd2d2ktODdjQk5hTjJiSzB5Skk3emRyTmU0WTh6aVhnS3AtLTktOFc2ZXp0TmtiQVJsUjNRUzF6dFNwR1VmM3pXNjdGS19WVXBPTy15UmNhdHpTZ0xOclhBejdlWE9rX0h6dUI1NU9zQXBiWExvbVBiMXp2U21GcVZENXJJVWJLdDJrd0NwWDlmYVUzT190cnNLbktIdkRhSzJlVg?oc=5"
-            },
-            {
-              "name": "BBC",
-              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84SVNGVDJUVGl1OE5QYzlSS3JodEV5dmhOUldmeTNOeF96dGtyXzdBM19PV2VsRU55UU5QaUVYbzM3NjBfY1ptQkw2UnVQUXNrelc0aFdYYlR2TEg0UUpv0gFkQVVfeXFMT29HM1FxaDNraWgtY3R4aVFlbF92VzZ2UnJob1VHRFEzeEIzOFJnRVpIRl9ybmE3R0FXbUwxZmlyelhEc3hiS3hMVlZybm1fcTBaaFhJUGVyYzBUYlNaUk1HV2Qtaw?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZTB2MkE0cFAySWFrV3pkQlVKTnI0RmJJSl84YndpNDdJTEF5enhvOFVOTktPWFZyUGhNcnM0T2pCWHQyTWVsQThQTTBfd0toRnJqOVZIa28zUUJxV0Zxc3drTks5TnpkWHFsbWR6cmJiVTFmM0FtTWNURGlKMUg1SFhtSWdObUQ3SlQzVldrR0hXSHZYQVJ5RVhYVjc?oc=5"
             }
           ],
-          "publishedAt": "2026-10-30T20:24:00+00:00"
-        }
-      ],
-      "russia": [
+          "publishedAt": "2026-10-31T09:24:00+00:00"
+        },
         {
-          "title": "Лавров заявил, что Зеленский может приехать в Москву для переговоров",
-          "summary": "В подборке публикаций: tass_agency · Telegram, Интерфакс, Национальная Служба Новостей. Подробности и разные версии событий — по ссылкам ниже.",
+          "title": "Посол США заявил о бессмысленности возобновления войны против Ирана",
+          "summary": "В подборке публикаций: ВФокусе Mail, Интерфакс, Ведомости. Подробности и разные версии событий — по ссылкам ниже.",
+          "category": "В фокусе",
+          "sources": [
+            {
+              "name": "ВФокусе Mail",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcG56OW5UX04wUjE0VXE5dWhXaTBUYUV5TW84dmhKSnZLVXVTcHNEODA4cW5QOEtXOWZ5SDd4MTBPOWcxNnVZa2E1UmphQ2FkZlZCcW40NGR0UU1iZHlSNS1QaWlhbGI1enZlZ0s1NGQwd1lldWtXZUlIcktZOUtCMmYxTG1rVUlhZDlmQWZLQy1Hei1oUlJiSEhRa1d0bkswWkZoYlV6UDBTMXJSVVlzdWstZw?oc=5"
+            },
+            {
+              "name": "Интерфакс",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kN0gxenZWVmY2eEJsSV8tTW8zbXV1dVpSVzF0akttcUVPTXRWQ3RiU202WnR5ZHNYbjc2ODhZT3AzWHVoTEMyZGhGbWh6Z9IBS0FVX3lxTE9yOE1sVHhsRmgwZnlHZU14ZG5jd29WQndmaHRXU1ZLcThqUF9XbTBIRHVhOUhpUzlVaHctOFUwWG4yR19IYU9OS0xtaw?oc=5"
+            },
+            {
+              "name": "Ведомости",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdkdsTXFKRi1FSzVrNGs3bURzR0JZcHNEOW8xZ1R4Unh2dXpoUkZUeVpZWGRHVHh5b0hmeW0zc3MzWFZqZzBSc2Q0a19wakZ0a2l3dldtbUUyWk5tWGpkYVM1TlRtWGZ2c19VOGw2NUI3TWFiT0pTdkRNUVpkcWdqQUZOd3NEM1hpREJEQVZRS2RjU1RiLTF2WEx2bGREb25PdlZvaGNScw?oc=5"
+            },
+            {
+              "name": "Meduza",
+              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPblR3UFlxY3Q3TzdZVEVoNWU1bUJKbm5UQWk3bFpwcURjdHplYV9semRzR2pmLXp4RVFSUEt1dnAwTnNmblROcUt3S3BHU2hEYzRwOHN3NzlGVURyNnpQbm9YYloya3lWS1owTER6Wk9qRjNZYVRsbUprUlZvMzdwNkp4eFlxSUFRbUFjdUNyQlNOQTdHS2taazFFX1EzYVFENGhoMUxNbndCSmxma3Nzc2R1MDdGejBldGtLR2l2MXFSRnI3cm53TWdvT2xXdEV4QnRfYWdxN1FwdFFwY0VNNtIB5gFBVV95cUxQeFd0cUNUUzNWMFhxd2p5d01tV3VGNUpmT0lTMjRya2xyRVZLcnRiZWdJQ3JUZjVsZlFsUnV6dkR0NmI3VnJBWWw2Zk9xMVJEUDNXNG9FQmxUYmJWbnNkQUNwdnpUaWM3c01JVUU5ZHpJQ2lkWXlNNC1UV0xiRTUta1dHbnlsWVdxeTdYbS0yWTdLR0xSdWVHU21CTVJNQmdqWGwxZC1UYmwwZ1VsdXdkRmxZN1JEamJpSUtXNUFmajlER3B5MGlNYTA2aElYdS12dy1jdHQyek9EVWpOSUZ2TDdxSklZZw?oc=5"
+            }
+          ],
+          "publishedAt": "2026-10-30T11:25:34+00:00"
+        },
+        {
+          "title": "Госдеп одобрил возможную продажу Украине ракет для систем Patriot",
+          "summary": "В подборке публикаций: tass_agency · Telegram, kommersant · Telegram, rbc_news · Telegram. Подробности и разные версии событий — по ссылкам ниже.",
           "category": "В фокусе",
           "sources": [
             {
               "name": "tass_agency · Telegram",
-              "url": "https://t.me/tass_agency/403283"
+              "url": "https://t.me/tass_agency/403346"
+            },
+            {
+              "name": "kommersant · Telegram",
+              "url": "https://t.me/kommersant/118459"
+            },
+            {
+              "name": "rbc_news · Telegram",
+              "url": "https://t.me/rbc_news/159766"
             },
             {
               "name": "Интерфакс",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wcnY1MTJiQkdyS2plelRENzNqdER1eThtczA5SXo1VjZjdU1HZ1JORi1YcHpGMXRRNUN1T3kyQ1dBX2ZtU20yQzB3Y0xwb3PSAUtBVV95cUxONEdoQkdqMnF0RG1rbVo2LVV3QzV5UkZ0LVFnejR2alE4dGpTSnpDNXlFdXNTZWNPaEp1TDhMTjhYb2EzMnk3c1A2b00?oc=5"
-            },
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iYi1QVzI0MG5CenIxTElTNk9MZjFGSlIyTG5NNEZBS3FOSThXT3Z3TWN5MWxYMDZscENONXU3cnduYWpiYTYxWVgyM3NIZ9IBS0FVX3lxTE90WnJRNVpnSndURXNkbjFOUEhnNXliSTE4dkJvSjRIRk5jMEQ5T214MDBNb3lBT01lczNqWUUzbS1OaXZ6SHIzc2tPbw?oc=5"
+            }
+          ],
+          "publishedAt": "2026-10-30T23:12:00+00:00"
+        },
+        {
+          "title": "В Калифорнии произошла стрельба в торговом центре",
+          "summary": "В подборке публикаций: tass_agency · Telegram, ВФокусе Mail. Подробности и разные версии событий — по ссылкам ниже.",
+          "category": "В фокусе",
+          "sources": [
             {
-              "name": "Национальная Служба Новостей",
-              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeTVsMTBlWlN4NHdEb3hNWHZXV21KdXlycXU3R2RyQjVsb1JVa0NmRFVnSm04bXV6VjM5aUtldWVNdUhXQ0Z1bVN1NDJtMi1aVExoOVJYUzUyWG1yNENkU2R1enh1U1M4bkZPSU4wdHNmUDlyaEVsYzlKNEotWUw0MlJsYVI1WmZLV3BrdHBDZmJ3dTJoelJtd2lR0gGfAUFVX3lxTE5iUUxoZVBKUUFlVkhrQU1EUjF1WEIzNllTaE51ZnFsc1dCeGtpeXppazAtcmNTNV96RjdOV3owOFptclNqa255MmtEbDJVa05ZMUhwWXE4dWRacmNYdzdFTGhabHVYNnhXX042Z2dNNE0yR3pTcW5rQXMyWHZ6cTlsUmhWVDRNdmY3UWxCV21DUEkzdm1Hd05BRUxSdG5sNA?oc=5"
+              "name": "tass_agency · Telegram",
+              "url": "https://t.me/tass_agency/403343"
             },
             {
               "name": "ВФокусе Mail",
-              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUnZPdU9OWDgxYmdxdms5SzN3eEIzNlVObUM2alZvbDA2NlFScG9ZaVl2cW9sb3JrZERUa2VjeHFRT19IWjladnVfTGlMMTQxQ3VYaTNIUmpreThfYUU5SWhQQTNVWmFZWmw4cFVCanVCY05oanAxU0dQM1RQMDBCM0QycVlKeEdBeThaUFFEYk1aWGctWTlvT2VLaVdoTmFUQkQ3ZDJLYnBSbE5ON0JlUkktZ0RIb2htQlpRdmpwMGFuZUtkOFVTUHdFLXNVd2gyTy1rcVJaSQ?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGZ6UEIyY3dJenh5SW1Ib01MM0Y4WXhSNG9ET0tFZFd6b2JhbVE3bWdtSFJpN1JpRHlWYlVlSlhocWF0ZThYcUxCYzBQaUdoVzh1ZkQ3U1ZRLW1SWlc1VmtBd054RnFXWHBLQkFWNDI2TThKXzJjT2VkSzlQd2RFdURqbzUyZ3VpdVRxaHV5eER4UQ?oc=5"
             }
           ],
-          "publishedAt": "2026-10-30T21:10:00+00:00"
+          "publishedAt": "2026-10-31T07:18:52+00:00"
         },
         {
-          "title": "Лантратова сообщила, что гуманитарная миссия в Алешках завершена",
-          "summary": "В подборке публикаций: rbc_news · Telegram, Интерфакс, Meduza. Подробности и разные версии событий — по ссылкам ниже.",
+          "title": "Канада присоединилась к программе ЕС по ремилитаризации",
+          "summary": "В подборке публикаций: Lenta News, Meduza, BFM.ru. Подробности и разные версии событий — по ссылкам ниже.",
+          "category": "В фокусе",
+          "sources": [
+            {
+              "name": "Lenta News",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZHJGRmlEcjlwSkhBZnYxb1dLellOTkNqb3F1UjhManVpX1FSVHNBZzA2SmhSbnNaMVcwUkJIcTZfMzhRUGRlSDNOVFp4SzFZNndMUFBEX00yYTMyb0NlcVlXOEh6ZmF6SnV5Y05XVG1saUJVdDMwMmRfb1VSLU9jekdlUlR3enB5QUx2XzdUbnV6WUEwTGfSAZsBQVVfeXFMTUlHUnhIS0QxMVpEaEFCdWYzeDJPNjJ2eE83cXFHMWJSOWRMaGk0OHpBTy15RVI3YUF2VWs5MUhDc180ZnJwM3BMLXpkSWpSTE9yMXpqZ24xbE5IeFYyT3hBRFpSanNyc0pUVS1xaTdYd1ZsYmRGOUk3N1lWY1dZMHVacTlrU1dhdDhlMG1xYTZ0cG5wU1U2bUpyV3M?oc=5"
+            },
+            {
+              "name": "Meduza",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT0o1YmhRUEdrbDdQVkpuY24tazlpLXY2bDZOSEdub3QzQ2tVZTZLQWtpdG5mbmJVYW1WRHYtRWFjSHRyMC1xTnB2RXBoS01vUWVZRjZYa1ZZLXJ4ZXc1dV9aVDdoVlUtQWxtQWtUSl9vTkxuLWR6aktSOEQxWTM1SXlNMXF4TUF1SU9WR25ObUZiZ01kQWtQT0RPOG9fcE9kM3ZvMXpYYnpmRmYzLWhrdG50bEN6eVJZY0xHN21SNDU1MTlLbXVDZFhaWFhna2NX0gHWAUFVX3lxTE5EUFRUWEo3M0hrRm5hVkZ6SDhJeTRscEhsMHBrblBBRzJ6VnhzMHFXUUhxcHZrdEt1Y1VWTjUwM1dtVm9UcnhERnRfNW52RmR0TDhpUmN4MUJoaFNYcVFNeEI1Nk9aS3Y1eUxDSnJqTXdrTjBPazZ1OEk1ZFlVeUxCaG9oWnZNaTVVeVVHLUg4RHBOaTJwX0lHNXAyaGxyTjZvYi00TEtUYW1mTDRwVVJMbDJETkZGbnhlNkZvNDZOaWVlc3FNc2lMVkt3LUJMeE5KMTZxdmc?oc=5"
+            },
+            {
+              "name": "BFM.ru",
+              "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9YeS1yZ0lEcGFPRHBXWkViVzdRLWpuVXBGenYzVGtEWi12NVhCeElwaVlKOG9ZMTlONGxRSWMwTDQtclAz0gFKQVVfeXFMT0pJS0drVnhnc181RloybGQzUDFoU0MtSzlmdkxYSHI5dW92eDQ5bTZwZ1dlWW1MZDVVWHZoWGZGMGF5T2J1T29vTmc?oc=5"
+            },
+            {
+              "name": "Интерфакс",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xa1g2TUpaSTJGSjBjUnZCeGtGOFhwTDFWMVNKaHVGZThla1dDME5rclpHeXlzSndoSXFNQjFRUnlIVkROd2ptWWFqRGNaQdIBS0FVX3lxTE9mdE0yd2pQSUJZRkdETl9mN0ttZVAtdjlUYUtwX2FiN2wwc18tSG5xblB1OWlydmdrSTRnaEhWVkRNS055LTYwazk5TQ?oc=5"
+            }
+          ],
+          "publishedAt": "2026-10-30T17:50:00+00:00"
+        }
+      ],
+      "russia": [
+        {
+          "title": "Фото. Гуманитарная миссия в Алешках: как прошла эвакуация местных жителей",
+          "summary": "В подборке публикаций: rbc_news · Telegram, Ведомости, Meduza. Подробности и разные версии событий — по ссылкам ниже.",
           "category": "В фокусе",
           "sources": [
             {
@@ -1327,121 +1295,157 @@
               "url": "https://t.me/rbc_news/159766"
             },
             {
-              "name": "Интерфакс",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qVUNwaGQ1NlpvajhNRjNmNnVRRXQ0TVJRQWhhQmZFV1J0eGVKcklSeUM5UW4wVGlIOHo1QVlkMjktZk1PWmg1NmdtRUVkRnPSAUtBVV95cUxORTNOUVFaajF1NWVjZmtTX3FkR1F2OEJpZUNmVERSSzI1OENfYWtiM3MtbTBQUm1xM2FHRFZBX0U2aWFMZlVUZHFycVk?oc=5"
-            },
-            {
-              "name": "Meduza",
-              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVXRWeGZvcHZFRUNjbmR5OUJzaTRQRmhha2tfSUJzdGRyajdPeC1Gd0oxYThwZG1rQUl4V0UwekdvaGhKWmhKQzliNWFyQ0R1T2c1bFdiZzZYUjNkZGFOSU1aZzltSVBtMFduRE1DRFpDZGtrSGZINXdrYWQ0TFMwc2FxQWZsNUNrOVF1WE01b1kwbWpTSld6MC1sTUtnbHQ2eE9ocVp4NmZMNjDSAbABQVVfeXFMTnJOYVVZbGFpc3ZkX21vem1lUjFQY25nV2hnSDhNajZfajAwdXNhV3o0djQzX0JqcmdnUjJxSWNBM1MtNTU2SWtGcFRYNVNreXRmYy1pUElCSEhPejR1ZWktR3dzbE1uUFpVUEtpbWg5RHA4Y1hVVlF3ZDJMTkNkSFM2TFE2NHR4bGVQS2E3OVpNQWw0SUQwbVdHZFNDTFVaNENENGVfd21sLUJBeGhZSG4?oc=5"
-            },
-            {
-              "name": "Forbes.ru",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SNTdhNndEX21iVjdnTlUyUmt3em5BQ2pwVEJfczVGaEZqUkFUbXJERDdKZmZNT2RBWFliUlhCTFhTMW9QTnRKNGJMck1ZMWlyOVpMYUVwcFlTaEM2ZlhnVUFVVWtqdndwWHVpV0gtZ0wzenAwUDk0c2VB?oc=5"
-            }
-          ],
-          "publishedAt": "2026-10-30T16:39:00+00:00"
-        },
-        {
-          "title": "Мишустин утвердил новое распределение обязанностей между вице-премьерами",
-          "summary": "В подборке публикаций: Ведомости. Подробности и разные версии событий — по ссылкам ниже.",
-          "category": "В фокусе",
-          "sources": [
-            {
               "name": "Ведомости",
-              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbDRneDAwN0FXN2J5MlIyWnpySjRjX3ZqSnp2YXp2YWxRci05aU84MEc5bzE4TnZMSk5paG1ydHFNd1RUOTNxeWpIeVVwRzhVZk9sallLdDZwRUl0NktoTERXLVlzRHpJT3pMTmlyUVk3WHRldUZaLUZxdGxNcXloemQ4QV9ZTnB1dVlGTTUxbGo5c3F0?oc=5"
-            }
-          ],
-          "publishedAt": "2026-10-30T15:15:21+00:00"
-        },
-        {
-          "title": "Захарова напомнила Сикорскому, что он занимает чужое кресло на саммите G20",
-          "summary": "В подборке публикаций: URA.RU, Meduza, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
-          "category": "В фокусе",
-          "sources": [
-            {
-              "name": "URA.RU",
-              "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4tYWtQQmtxQ2tCdnR5MXFYZTNqRlNRbkRtY1l1VlRENlpIZDBQajF0ZkxpSVdUZ1ZnVUx1amlfTjRfbkNkMkc0?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYTJBY3RPa05sOHB2MEQ5MUs0cVJNbUt0blk5X29aOEF4X1M0bUt3eVpraXFKVHNqZWRLckV1Ri05S2hUajJrdDkxd0NLaDNQTWlXajlBZkJXV1UyaHI1NUpLS3dZMkswcFhSdE5uQTZJUHZBOWwwbG1xT0ZWX25EWVdNbHFweVBGVHBZZ2J0Mjh3QV8tankxTl9B?oc=5"
             },
             {
               "name": "Meduza",
-              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTGhqQWgyOGFab0lQSkY4YjlQMWpsMnNPNWFFdnIxUG1DZ2ZrblowVFBwMTBRUVhJRVBZd0hoWG1wMUtJWGhVNXdZb09CckVVVk15d3FVZUd1ZE5HSnd4QVl0ZUJYWGIzYTdCS2dkbGQxUGRZSjZ4MFlWVjN2aFNRZVBlaVppVG5ucWN1a3M0ejNuVFhVUFdEYjZMRkJXZGIzbTg3aUhTUFlQaEREd3JVYklzS1psNEwtN1FBd2RDdnNUX25KU3Q2dmxRMm90aGNqb1hYWlNNRUZUSlhKNklUNtIB5gFBVV95cUxNWS1kdGdJTXk4TzNyaW1HaWtSZktBQ0VZVkVSWEFFR055dklwRmZ0UWFJbnpld1JUY1F4T0VEQnNGckJKeS1DYWxaRkhpc2Nta0t5VWhmOXVXQm8xMW1UQ2ktQW9QS19BWUZrNW5xSnlOZlNSdjFxVlBYOV85Q1BCTjJxZlZkTGlzdGRrWFhYMEtCdjQ5cXFLTU1DVHIzZWlBOVZiM1BUOWNfa09CT1dGaDV3c3psT3Z3WjRyT0d1YWd3bnc3cVhNa09UQzZXcUNkdE1oQlhtblIwcmgxVVZSWWhuTklOZw?oc=5"
-            },
-            {
-              "name": "Интерфакс",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MRkRycjIwRHl0U29fUk1UdXhIMFpkYncycXV5MkRFSzlwMHZXaklHbmUzbGkzcUZ0OXZPT2FtUGNOTTVTOEdYRVN3YmxkSkXSAUtBVV95cUxPaUFfTHQ0dkp6T1RKX21rMll0UEhQYU1hMXpDUUkwa3lvamw4cHl6aHJ0ZlB0Z3d5RlJ1YmdyaDJGMlV6b0k4ZjhkZWc?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTnpRMmhkZW1Od0lnUTUyZ0hsNDFKX0FPN2ZabHFNU3VmZjlDQm1leFpVTmF4dE9WdXpiajhNOUR4ZHdDRXhxMXExMTZvbE52SEE3c1VwOGRCNkY0Z1UyQ3dGTjluT29VaW5PemZfQkdldmVRelVDZkkxZmNLZTBLZk5pclIyVDJwVUtnZ1RPVVM4NF8yTVJKYkF1R08wRndfT1pwZFpNVjlrV0NLdUxadlJ30gG3AUFVX3lxTE5ZYVVuUXF4UzlCSG5HdWQtVzhCcW42WDZVNnBPN0M4WUgxamhmclZWZ0FmUXN2dmgtaVVsQXItaml4MmxMZ0FBb2NOWVplOGNCUUlJc3UycTVSRnNCdzJ1YjEyeDl4dG1FNjFJc1lYRTVhTkMzSjNqdWdOVG9HTkE2TEdCanJETDE1NG90WmdwakVfTjdZY096czlFdUFkNkNyVnF4T096cEE0eE9xVVZYeFI1WVJjOA?oc=5"
             },
             {
               "name": "Радио Свобода",
-              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcUh4eXBLc01CRWwwMjVTX29iNXFtYUt5b0lvbVJCemtJYjdTS3RTWk1BSXVQa1ZOUDkwZlBWTXA2T3BjS0N0R2FnU3NZUTFmdGxqUHhHNldtVzZLSm9tSlBsa2EzSV9uU1ROdV85T1VRSUxoLVlCTHNPZk9kaEVNWXNmaTBXZjI4QVc0MlowUElWRkMwYUlnVkFDdHpZWmVNbGpIYVhKemwzLTDSAa4BQVVfeXFMTkUzT2pJc2tsbnRjemlGeE5FZmRveWNxWktobXRTZDdQbG51R01WZFZrU2FrUzVPZ21hdkptNE9hbjJlNEozYThkZ3IxbEJCdW5Pa1dSdE1mS3FmdkpDaFBKZERpYTVSSTB3a1FvNWdYZVVfa0tBSzE2M0piakw5VUYwdzVLUlhYVXpETFgxUy1OTmtrQ0hfN0VuSk9rNnExOEJKWTJHWHBJckgzOGNB?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd3E1Z3dHR1NrekwyaDMtSFA2dWFyRm5rMG51bmNxWHdvelU2SGUwNW9aR1YxZzdHUElZZ2RIdE5SWHBTcWVlYy15SjRNYTM4X2ItSGVoWTZEd0ZDLVM3ZXdDUXF6a2wwU3BIX0gtSnVuYzlYNzJvaDBURDQxQV9zWm5HUVpqZUN1NjhOSS0zeHdwNUU0NTRlN1luSG9ZMmRZNFVLNVh1d2NuZUtfSXfSAbABQVVfeXFMUER6clM3QUNOWU01TU1MYTQ3Ujdtajg1MGN3Vkg5MkZzM3Q0WHFJdjQ1enQyYnpCZXJzdHJzYnVxTEVRUVNZbWxlME5wODNHajBCeW9MNGxoYmpBYXdQNWVVT01BZEJjdHRSSThRNzlpNm8tc2pWZ0RiSVJaWTdzdVFESWxudUdnU0VxSmF1ZEFxNGZOWE9YbHFiVVZ1UXU1c0l6bWh6V0VidkY3Z1pzV3k?oc=5"
             }
           ],
-          "publishedAt": "2026-10-30T15:41:00+00:00"
+          "publishedAt": "2026-10-30T20:05:39+00:00"
         },
         {
-          "title": "Ушаков назвал дату новых переговоров по Украине",
-          "summary": "В подборке публикаций: URA.RU, Ведомости, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
+          "title": "Песков рассказал «Ведомостям» о взаимодействии Лантратовой и Лубинца",
+          "summary": "В подборке публикаций: tass_agency · Telegram, tass_agency · Telegram, Ведомости. Подробности и разные версии событий — по ссылкам ниже.",
           "category": "В фокусе",
           "sources": [
             {
-              "name": "URA.RU",
-              "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8wOVlsWmF4Z3lLaGNveXlsTlVDY1NVX3JxV09OUnB2d3dhTm9PTndsSGc5V2JRWnBhSHJFVWF4UzhfSjBGMTlJ?oc=5"
+              "name": "tass_agency · Telegram",
+              "url": "https://t.me/tass_agency/403336"
+            },
+            {
+              "name": "tass_agency · Telegram",
+              "url": "https://t.me/tass_agency/403335"
             },
             {
               "name": "Ведомости",
-              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ3BaaFV4bzlYZFFiTWZaTnRKYTRYS0t6UDJteE9JbXVzT2tBYjIxWUlUZmxhVUJ4bjJwSGVRSVRFSDJmQ1dtMmRROGRDM2xTdjJrMXJieUo5dWpKYVN1REdVakg5SUZiQ3hwOWs2b2lTMTJwaXljOW9TQ2V1aGtoNFRxZ1VsRDNkeEFr?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWVsaTJHcTQwUHIwM2c1YWJUanpQY3hPUlh5aF9pbDBfbTdlVXBTWUJTS19rSTZ4SVdETjNYX2tQcV9RWWsxanhKQ05lMlp4UkRMVF92WkdwRVpmcU1vVmxsYmM2a0htS3BLcUFhVnFBZlR4SzRlQUlhRnIzVXNHTkt1T2JCN3dHWVg5bVFNYTlNTG95?oc=5"
+            },
+            {
+              "name": "ВФокусе Mail",
+              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRDl5czJBbzFPX09TcUhRRWdOLXVGZVJraWZMN2ZZRTNRTmF5bTNfX1drSEdKem5BXzl4clhLUHRTSnMzZUNOM0cwNlFzd2xpUm9jUndRRVhqZDNPdTZCMmRrc0pjekF2WTVqd2NEd3pxX2xnNTlJN0dHMUxPZmJvd0RJakYzLTJIMUthVnVwN3U0dw?oc=5"
+            }
+          ],
+          "publishedAt": "2026-10-31T05:06:42+00:00"
+        },
+        {
+          "title": "Арестованы командир Ленинградской военно-морской базы и глава инженерной службы Минобороны",
+          "summary": "В подборке публикаций: kommersant · Telegram, ФОНТАНКА.ру, Новые Известия. Подробности и разные версии событий — по ссылкам ниже.",
+          "category": "В фокусе",
+          "sources": [
+            {
+              "name": "kommersant · Telegram",
+              "url": "https://t.me/kommersant/118466"
+            },
+            {
+              "name": "ФОНТАНКА.ру",
+              "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ibEFQSHJHNnd6SDdQMThlOVluTzBhQlJFYWZ4Tkdma2xkYUxZSmdLTDZjN1k4Qkk1dTVxcHp2UVJiTEgzVzNzbzBvUENfRklCaENuZm9sWQ?oc=5"
+            },
+            {
+              "name": "Новые Известия",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR3kteGZtMU43SU9SZUMzYWhtVkJuTjhyU1NLdFpHSUFSWGtiSXUwRFdBWFJ2cmU2NXdYVlpyMXFlSXVySUplTVFvVDVWVGxsajJkaTBQWUhMaHBIcWxuM1JLaFJtcGxjV0ZQTHBtTG81ekNhRW9FS3hxeDFyVVEzaElxM2ZBS3pSYkZKSFBNcGZ3YWJVTGJGWVdURzJtY0RxaUpKWkNSbDUwQjM5ZFowR0x1QlU?oc=5"
+            },
+            {
+              "name": "Korrespondent.net",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1ZPRHlNOVFQSk44cVBHbXNhSDdxSzBFdmltb2pxeWU3OWNMS0s2SzFMcjJDY2M4ZmZEMUJxSUpIMnRjWmx6dGZYMEozbmN6TWg3ajZNbDBUbDJSY2I2dkluZTlrMmNVWWVYSldsR1dDa3o3bUhjYzQwb2pJWlhkb01CT3B0Tk9OUnBZNEJR0gGCAUFVX3lxTE0zNmhuWUttV0hBbHJXYU5qUnphNkRweFM5QjA4Qmc3N00wcE1lYXFyaFpKdHJGemJFSUpxWEM0MEVFUmNpZ1Q3YzYzNmFKLVJBWFdOb1lpYjhoUjBUQlE1WGkwQUZqSmhhSS16d0ZsczFhbEtkbGk5clBDSE5NQW4zMlE?oc=5"
+            }
+          ],
+          "publishedAt": "2026-10-30T20:10:36+00:00"
+        },
+        {
+          "title": "Российские военные за ночь сбили 433 БПЛА ВСУ над регионами РФ",
+          "summary": "В подборке публикаций: kommersant · Telegram, URA.RU, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
+          "category": "В фокусе",
+          "sources": [
+            {
+              "name": "kommersant · Telegram",
+              "url": "https://t.me/kommersant/118462"
+            },
+            {
+              "name": "URA.RU",
+              "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBvU19uMmdDei1Nak5NN3pzLXNIdE1tLUlQU2NEOEhxSE9UOGVGS1ZhdG0yQXRfQXI2NFZ6UC12bEJaMlZiUGJn?oc=5"
             },
             {
               "name": "Интерфакс",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJTVVrNHlia3VHMGJJdmZiX0F1aEI5RkxuZkdUbkhCT2hEWWp1aDI3VXN6eUdsbUNYMUhiM0ZKMG50X0FmaENueFZGREs2SHfSAUtBVV95cUxQbkg0OUVGcFdkOFRXVDFDY1NSM1VUSmhYQTBaUlNxZElZSTFGY0hjTFZuT3ZJZFptWGt0U0NOdTRCeXAwcDB2YkZ3Y3c?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0dFJhcjYxQ0lCQU5UMWt1aGhxbTlVZGJLYXRYcXpLdmJ0dXdPbXhIYkhKejJSWGtiX3F4ZDdzeXNQVXRHaWJVVVEzalc2cXfSAUtBVV95cUxQUkxfcWRkME9rVWUtSzBRaUVlY1NSUjBvOUlIVjRRdmZJeVJvUGZKN2F2dmkzVVBubHZjMnVrSGtzd2IwWnA0UDBSUkU?oc=5"
             },
             {
-              "name": "Эксперт",
-              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeVhmTUxSVjVFS194YlB0OGFJLXAzQm9yaEZIelNSZkJ3V0NvdjNITWdFQnk1eGlSeGp5THM2VW9udXFxd3hwQVNQQWpScUpvVWxSSEh6SGQ0MUVSMHFhSjBxSHpGYk5waU9KTUNBRTY5YlAyaGxGUm10X2tvZnVMRXl0NGxYa1B0c1Blc1dGMU5FSTM2QkxjcGhKd0lfYnFFdWg2c2ZvWjY5UQ?oc=5"
+              "name": "Ведомости",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uWmhZWWoycU05RDNuQXZHZkg2dlczX0VoWkZZUkhrTlFndmpvUVBvR0xRY0hlVlBiUkFkeE1jUzlmSEFuM3VkYmV2RzdjSHpHdzQyX2FHVmdIZFdZakI0UzBjMXFhVGNqMzdCSGlrLVNncHQ2RlE?oc=5"
             }
           ],
-          "publishedAt": "2026-10-30T16:22:00+00:00"
+          "publishedAt": "2026-10-31T05:52:00+00:00"
+        },
+        {
+          "title": "Лавров сделал заявление о переговорах с Украиной в Абу-Даби",
+          "summary": "В подборке публикаций: tass_agency · Telegram, URA.RU, DW.com. Подробности и разные версии событий — по ссылкам ниже.",
+          "category": "В фокусе",
+          "sources": [
+            {
+              "name": "tass_agency · Telegram",
+              "url": "https://t.me/tass_agency/403328"
+            },
+            {
+              "name": "URA.RU",
+              "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MVmNqTWxkWTh3bkEza095UEkzbzVRS05pbWVaVFlqZHBlMWxBd3ctMXhWeXkySVNSRW9kNFJHaV9SZjhEWXRJ?oc=5"
+            },
+            {
+              "name": "DW.com",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX0lLdjBSODF5ZzBlOS1XT0lNUFlQbTV3Ul9lSDRWU0psZE1XaG5YbGI1cVZRRTdFLVJuVUxJRDVXZC1Ja3JkNWdxT0tEcHl5OFN3cHpTRWp0R0ZEOTBKalJZMEZKLUx2eU9YWlFHUkZGSGZHeWZSUElvVm44TUpHRGpvYkFVdFVCODlNMGtnSmNxd1YxaUxvUHNpQ0FQalpBYkoxNXVzdjdlejhqaGRhZ2lQVGNGRlhjblBUMFpVdUTSAcABQVVfeXFMTTZ2T1FsMXR4QzE4MERENFBUdjVwRTFyLURtaUJleG9tUTR6SzZWY3F0R2VvaURTN3RQMkd3MUtzVkRWbUFNVFhiUGZCTTVFWUpMaTF2YkJhVmU0WjJrRHg5bUhLX2dESjBLTGt4eU5nS0V5MzlfVUZzTl8xYlN6TEJsTWRvdlpwTWFNczU5YmNRZkI4c05ERU9MU0lndS1HdUNLdzhYZklWSmNFVUJKN0ROTnpKYjAyYzcyUGZKdWVk?oc=5"
+            },
+            {
+              "name": "Интерфакс",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SYTNZcWhfTjZwV1RVOXotUlB6RFpIeUR2X3ZfTWx5dmdSZGdBeFlMdmdRZXNTaWNuUUtJb2Y5enA2WWlMSFVmVVJSM0lYUWPSAUtBVV95cUxQVnpSalRlaDBCbnhJUXlkT0ZrTnA1RG04S0o3ZGlsektuRDF5OVZ4anp6a3pLNzFkWTYydDktTmp6cG5CVFp3UFMya2M?oc=5"
+            }
+          ],
+          "publishedAt": "2026-10-30T21:31:00+00:00"
         }
       ],
       "telegram": [
         {
           "name": "tass_agency · Telegram",
-          "url": "https://t.me/tass_agency/403302",
-          "publishedAt": "2026-10-31T00:42:01+00:00",
-          "title": "Вспышек \"мышиной лихорадки\" в России с начала 2026 года не зафиксировано, сообщает Роспотребнадзор. Эпидситуация стабильная и контролируемая, заболеваемость…"
+          "url": "https://t.me/tass_agency/403346",
+          "publishedAt": "2026-10-31T10:51:58+00:00",
+          "title": "Госдепартамент решил одобрить продажу Украине 500 ракет ЗРК Patriot на $2,1 млрд. ✔ Подпишись на ТАСС в \"Максе\"…"
+        },
+        {
+          "name": "kommersant · Telegram",
+          "url": "https://t.me/kommersant/118468",
+          "publishedAt": "2026-10-31T10:46:34+00:00",
+          "title": "Латвия внесла журналистку Ксению Собчак и ее мужа, режиссера Константина Богомолова, в список нежелательных для страны лиц. Им…"
+        },
+        {
+          "name": "rbc_news · Telegram",
+          "url": "https://t.me/rbc_news/159784",
+          "publishedAt": "2026-10-31T10:35:29+00:00",
+          "title": "Земля проходит через «возмущенную область космического пространства», сообщила пресс-служба солнечной лаборатории Института космических исследований (ИКИ) РАН. «Регистрируется рост…"
+        },
+        {
+          "name": "kommersant · Telegram",
+          "url": "https://t.me/kommersant/118466",
+          "publishedAt": "2026-10-31T10:19:23+00:00",
+          "title": "Командира Ленинградской военно-морской базы Балтийского флота Алексея Суглобова и начальника морской инженерной службы учреждения Минобороны Алексея Ионова арестовали…"
         },
         {
           "name": "tass_agency · Telegram",
-          "url": "https://t.me/tass_agency/403301",
-          "publishedAt": "2026-10-31T00:29:01+00:00",
-          "title": "Россия ведет с Африкой переговоры о совместных разработках вакцин, сообщил ТАСС глава Минздрава РФ Мурашко.…"
-        },
-        {
-          "name": "kommersant · Telegram",
-          "url": "https://t.me/kommersant/118448",
-          "publishedAt": "2026-10-31T00:17:20+00:00",
-          "title": "У здания Конституционного трибунала Польши, которое оцепили полицейские, собрались протестующие вместе с отстраненным вице-председателем трибунала Богданом Свенчковским, передает…"
-        },
-        {
-          "name": "kommersant · Telegram",
-          "url": "https://t.me/kommersant/118447",
-          "publishedAt": "2026-10-30T23:05:38+00:00",
-          "title": "Многие сторонники немедленного введения санкций против России теперь звонят Дональду Трампу с извинениями, заявил президент США. Господин Трамп…"
+          "url": "https://t.me/tass_agency/403345",
+          "publishedAt": "2026-10-31T10:08:58+00:00",
+          "title": "⚖️ Имущество членов семьи экс-председателя Краснодарского краевого суда Чернова почти на 900 млн рублей обращено в доход РФ,…"
         },
         {
           "name": "rbc_news · Telegram",
-          "url": "https://t.me/rbc_news/159768",
-          "publishedAt": "2026-10-30T20:56:56+00:00",
-          "title": "Посол Польши в Китае Якуб Кумох подал заявление об отставке после отстранения от должности председателя Конституционного трибунала Польши…"
-        },
-        {
-          "name": "rbc_news · Telegram",
-          "url": "https://t.me/rbc_news/159767",
-          "publishedAt": "2026-10-30T20:29:54+00:00",
-          "title": "На полях совещания глав МИД G20 в Атланте у министра иностранных дел России произошел «неплохой короткий разговор» с…"
+          "url": "https://t.me/rbc_news/159783",
+          "publishedAt": "2026-10-31T10:05:36+00:00",
+          "title": "Зима может прийти в Москву в середине ноября , когда среднесуточная температура воздуха приблизится к нулю или станет…"
         }
       ],
       "telegramStatus": {
-        "checked": 52,
+        "checked": 49,
         "unavailable": []
       }
     }
