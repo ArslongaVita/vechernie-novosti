@@ -1,293 +1,293 @@
 {
-  "date": "2026-11-17",
-  "releaseAt": "2026-11-17T20:00:00+03:00",
-  "updatedAt": "2026-11-17T14:24:31.950670+00:00",
+  "date": "2026-11-18",
+  "releaseAt": "2026-11-18T20:00:00+03:00",
+  "updatedAt": "2026-11-18T13:58:23.804373+00:00",
   "prepared": true,
   "note": "Автоматическая подборка русскоязычных СМИ. Telegram отмечен прямыми ссылками; свежие посты каналов доступны ниже. Рейтинг отражает освещение темы, а не число репостов.",
   "world": [
     {
-      "title": "У берегов Болгарии затонул газовоз GAS HUSKY",
-      "summary": "В подборке публикаций: tass_agency · Telegram, URA.RU, Радио Свобода. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "tass_agency · Telegram",
-          "url": "https://t.me/tass_agency/406159"
-        },
-        {
-          "name": "URA.RU",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBtX2RSemt4LTRvcnBZczF6cWhnX05YbjVxNS1heUJoLVNzOXFRUEtMYkxXNjdXS1lBWVpfa2txNjN1Z0hGbV9F?oc=5"
-        },
-        {
-          "name": "Радио Свобода",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcWc4LXBuMndCYmZTcXNCVzc4TzZPbGZQdlliV285T1NIVEMxbHgyTGZhZVU3NlNTMHdMNmc3SmNHZ2Q4V3NLS0NLalk0RkktdUI5YXBmUjVMQ0IyUDlYeEwzb3BaOHI2Q3R1VGFZSXJIRDMySkZLYmdBTTFwa2FNWExwRE1aaUpoc3B1TmxjSnlJYlhQ0gGXAUFVX3lxTE42eDhEZGVEdVdDcVlhT25TQ3drR2VURTZhTkVpRjE4VTJJLTg3cnU3Mjl4ZHN5MnJfXzVzWGRuRFd6QW02WGVoSlZ5ZDVDOUtFTk1RVlBMb2JrWjVBcWwtTVVGbkxFeDJrckhfNW9FeE9Jd2RWSHZCY05tSTg0MmtGejM1ZGRzU0Zicm5OVWxoVFRBUTB6U1k?oc=5"
-        },
-        {
-          "name": "Сноб",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QUExtVE02MmlTeWRJZWhOdlBBejQyLWUyaG1MQUI2bnRZeS1VdzBVZUQxVEtrSnhXVmt1Qnk3OHpQRklmcHl5OGpTWjcxemY2NjlKOFh3M20wblhZZDloSkxfYTFqZGpXSENRQlE5cGc0eDF4Y1dvTzVHMzg1cVHSAUJBVV95cUxNbmtmZGlFQ3dPQ2VJSmlyMmVHaWxFUnE3N1k5Ti1wRHFNNnBiU0JTTW4zUm1jand4NjV2TkhSTTN4YlE?oc=5"
-        }
-      ],
-      "publishedAt": "2026-11-17T10:02:00+00:00"
-    },
-    {
-      "title": "The Economist представил обложку-ребус на 2027-й с Трампом, ИИ и похожим на Кремль зданием",
-      "summary": "В подборке публикаций: rbc_news · Telegram, БИЗНЕС Online — Новости Казани, ВФокусе Mail. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "rbc_news · Telegram",
-          "url": "https://t.me/rbc_news/160855"
-        },
-        {
-          "name": "БИЗНЕС Online — Новости Казани",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xTnVvUy01b1RuZDJuOGpQRmdMLXNQVGhtWWpyWjIwWnl3cTRaSFV0TWVad25CNm9GUDhRRnNFVTR1QWlXVUo3SFdYcm1DZmo1TWNRYdIBU0FVX3lxTE5nUE5kak9KMmYzOEpqdlBTS25GRHRpTk9TSURCSHBGY056eHNmUDZjc2cybFlCZ0xYeGdqMTcybkk0b2JUeEJTR3E4NjUtaXI1Ylpj?oc=5"
-        },
-        {
-          "name": "ВФокусе Mail",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZGROMnBZbnBqTk9nb0Y4cEpCWG5uanEwTGE0Ml9hMUlaU0pXVm1NTkZnUWJrSEdjYml4X2x5alpPV3ZZWWRJU2ZWVlNZWlV5RlVXbWoyblFNREFUdURWWWVtZ0VVSGtxVEw5ZmM3NVdWUFdjTGVnTS1PbjNXbXdwMXpJcHltUVFocXIwYkFCckFRQWxUaWtFVHRmQ04zcVVfRmVPUnNrQ0ZUZw?oc=5"
-        },
-        {
-          "name": "BFM.ru",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5nWjVzWWluTVJOU1F5dGtrX1ZvbWhrS1RVWWJCUHhPdDJHS01FazJBOF9IZjhSMmVvc19NeXVBZmRTZHhQ0gFKQVVfeXFMT2JEaERxcWxhdVlOUEs3ZF9jcExvbVp2U19DTTgtTkxBa1h6TF80T2RMWkFyUUpVRzZGTUdjanlOWWVHNGtLRXhuS0E?oc=5"
-        }
-      ],
-      "publishedAt": "2026-11-17T07:37:00+00:00"
-    },
-    {
-      "title": "Кирилл Дмитриев прибыл на саммит АТЭС в Шэньчжэне: цели форума, участники, даты",
-      "summary": "В подборке публикаций: Финансы Mail, RTVI, BFM.ru. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "Финансы Mail",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWW8wZlM2N2MxbVdVU1FNVFBzVjRjWGxta1RfZ2tTTHJTNzV0cnN4UE9raWViZEc4YTRYaWM5TTE3X3R2ajZ2TmdyUFY3RWFONVJ6RF93bWItRlJ3UWR6VEdwQ0t5RGN1MHlmazFnSndEU3BWX2dkRWQxMnF1SThsWWdCLTZoV1FzWFM1aHh1N1YxZkM5bng3VVpxaGM0aV9OX2YwLTNFY245TG9BT3VRTW53?oc=5"
-        },
-        {
-          "name": "RTVI",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WRmhhM1VDZnJhYmNFMGtsbGZ2SEMxLXdZOG1LQ2o3bTBfbkpMZGpMZXRSSEx0VTZwVkJ3Tm1pejBnWE9pcE01UzYtTXpveWkzY2RwSmRSc205LXdpNjYwYVVkVFNlUlhuMXhaNGpxSFV4M2Q1?oc=5"
-        },
-        {
-          "name": "BFM.ru",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBIbl9yWTlwRGF6My1rRHdSRkpPbXFjbDNVS3poMFZ6UFJxRTZla2xWakstazZNMzV5bFhFZmFhMld3MHBt0gFKQVVfeXFMTUZGT1lJemY5RzEydVZyMnk3R25JUllaM0FmeEUwTFZjX3JMZ28yN0FTMi0wYzFVRWlFUXlMdE5vRTd0OTZxczB4Tnc?oc=5"
-        },
-        {
-          "name": "Вестник Кавказа",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wdVdSZUh5eUxYMTBNcGtrdnV6RmpxSlo3N0tOeDRSWmVEaFVfbnY5U09Ca3ZyYm5kVmFSUVJkWkJEaUVILVBnOFp3QVJfTnVfTUdtaFBkOGNQSnNGSFExYmszdlJValFsM1R3bHhCNlRRTFpF0gFKQVVfeXFMUFVDRjVKcVJFYzF0WGxVRml3eDNpaWpiZWwzTWVmQ25MRWtwMUUzNFBPLVVDRllQbW05UlM3V3R0b0E2R2JDR3U1RUE?oc=5"
-        }
-      ],
-      "publishedAt": "2026-11-17T07:13:25+00:00"
-    },
-    {
-      "title": "Вэнс сделал заявление об участии в президентских выборах",
-      "summary": "В подборке публикаций: Lenta News, BBC, Независимая газета. Подробности и разные версии событий — по ссылкам ниже.",
+      "title": "Фон дер Ляйен сделала признание об изъятии активов России",
+      "summary": "В подборке публикаций: Lenta News, ВФокусе Mail, Ведомости. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
         {
           "name": "Lenta News",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS3loRVpJanBfNmRoV0lfVlJiSUo0X19wV2xKQl8xV0xNM1d1Q3FwTkpXcUVuNXl4UlAyUU1rZ1lQT1pQQ3N2RndLSmFoME1IaFBFcndGVWktWEJUS05OaU4ycEpUNFcyRUZOOHZ3WjVXRW9jQTVndV9IaWFWV1RnOFlUMmxSOTBwZDZWSndKN0N5OGdXYnJnVE1B0gGfAUFVX3lxTE1aV0hHcW03R0NJQzI1VjdSQ0FKT1VlWlVkcTJCQ1c5X29ablNsUUktX1BtZmZJamJHMG5pMzdXUjFvU1lKNFdITTZmVFFCeUNTMVYtREtLY1M1djRCQ3ZVWjBmMVJtNVBqdDYyTnFnR25idEZ6d3lpak0xTkw3MEtzelBRVmdoM1NITVktRnBjQkotMWthSUNLRWI1WnBXOA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWtpWDBSMVBUR0o2UmR2SUpnS0RRTi10Q2JRYUI4NUhJcGFSbVNoQ05Vd3E3VnJzRHhuXzU0QVNCOVdPblQ5dHRrcGt2OE41azV4dzlUOVZWUm1YMWhfeVlUUlBfbkd6UkRzYms5M2FjTm5JNGkybXZSZW1MVHQ5MkYwZHFWcEJiU1dsZmR3Vi04VzBPWXhuNzE3TdIBoAFBVV95cUxOTm90Q25idmtJX3hfTk9kbk9TcS1DMUNFNEdTUjhBZFoyZktwb3lwR0NpZ2QyXzdjbnFnME9GMmt3OS04a3hmQndMTFU5NmtrSzBhTUJMb1d4bTNJRGxHazZ6TGFRZFRBcmh0N3paV0l2clNZRHM3YzVyMzNjWjR5UjF5NllhdVdCbXBhNXJBSkljVVVpSHl2a1F3SmJtSUJ2?oc=5"
         },
         {
-          "name": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoTTVrYW83SkpfS0ZDenZneGpkeEdfUnh3QTZJMktLeW4yWkJUQTVmaHZvMkRmVkRjdkJGMVhEazhySW9Yanc1cHVKLUFwVFhfcXFQODg1d1U4NUdUR0FB0gFkQVVfeXFMT29YMldrVVRCZGlyUXhRaWVNSnVFR3VIWkJsWHB2Xy1DMWZnYUswTHpIdVlmcUlwa0ZHNTFkejBjM1RQVUdMQUdnUDJQOVRWRGhRbWY0WnhzQjhRTHlqQzB3UFozRQ?oc=5"
+          "name": "ВФокусе Mail",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQVNJVlBkT0JVYWYzWlFHbld3MjNEc21aMXZhWEY4eTlNdUFpMnllNmpSc3hSbDUtbVdfMmh6OFRCYjhucXNudnFyTFJ2amdXTUYzT185QXRqQlB1ZzlpVjFRRno3SDVpTWlRZzN5LUFmQWJhZHhwTFJZS21jZ3JRU0k1WHJFNVpCMUhIMm13OW9Lb0R3RGh3RTlFUEpBVWs?oc=5"
         },
         {
-          "name": "Независимая газета",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNTWxRTC1OVkl0Q1I1OTRBUWFYV1pDeWhiSndEZ1hxb2tlUDhDWFVjVWRVMm5CajU0THZwNzdWNGROYXpvLS0zZTliSHVxR3JDTXE1aEswZ29pWUwycWFz?oc=5"
+          "name": "Ведомости",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZlNDMmpNZGlOZHAzRE0zVGRJME1uV1lzTHdncVZvTkRjYTJQOUoyYlNLcGNEell0ZjBxSktQd014NV9Pb2hhT3dnUmhqUmJfeF9TV0pjRVFqLUcxX1VVaUFTNXJkV2pwbGQ4ZEdsSXY5akFQVS1YT21na3lhSnlHTmZpN2NBTkpBeXFXSGJXNWxNRkVp?oc=5"
         },
         {
-          "name": "Эксперт",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlYWNMeW9NMlJKRGI5TVFDZk0xWGI4SnVENVRIRmFjT3BhTWdKWTZaSlZUbTk2OXVnMkh4a1dhR0Fuc0dfUi1uWV9sdjZBdjZHeFZCNmVUVU05NjRnYzdNT25wd2dWNnFiY3IzTVBlUk53dTNaSmZQMHltX2VpMkU?oc=5"
+          "name": "Радио Свобода",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTXhldVQwOHd4cHdKUEl4cExUOTRvX3VST0g1RllUYUJpWkdidnB0Y0FMRG0zdmVCSEc3XzNXZEJsR1NvZENDSnhidlNXbkVwQlA0S1QwbjJKeU01MktwcnQwdjZFT1RsazFrY2NBbF9HbC1LeUstd2UwNmFGd1ZUSm1LbTZ1Yk5WQ2s5cWc2LXNnb3lubHFndnZLOGtiUC1tdUUxMmY5bmo4aDJ40gGvAUFVX3lxTFBFdWxYYnJjWnZFYkN0QnYtVlVhcGtDNUdSWEhERVBvT052aEo3d3RoX0pxeHV5c1dkRkRPS3YwbExwSmV2SjdzMS1VeFJWWXpoWFc2cUhSdnFqbmFGZUVlVDdZYTJDTG9uTTZxdUMyblJhQWJuVEFkZE5oTXp6R2tiWldwY2lIN0hmWTFBaWpNcDMxZENhVVpXQjloR0VwYmlaUjVaUU8zOXpyenB4aW8?oc=5"
         }
       ],
-      "publishedAt": "2026-11-17T02:21:16+00:00"
+      "publishedAt": "2026-11-18T12:22:09+00:00"
     },
     {
-      "title": "Папа римский получил по лицу",
-      "summary": "В подборке публикаций: EADaily, Ведомости, RTVI. Подробности и разные версии событий — по ссылкам ниже.",
+      "title": "ADNOC сообщила о 11 раненых при атаке на танкер в Ормузском проливе",
+      "summary": "В подборке публикаций: ГИПОРТ, Neftegaz.RU, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "ГИПОРТ",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWptcUwxMWE1Q2g5WmtLdlc2dlRwRXpsUzlfY0ZiTHVtdnJ2TkFscGR3RkZENDY3ZjFYZ1ZNMFBZSnNtaXR5NUNjMS16cGVaUGlwWHlXN2daeWo3VGRtcEhwcXUxUzNxSFVRNUc0MkkwRDFYSlQ3dGozekkzXzJmVFB2MU5oOWQzckdaZEpleS1fbU1qbDFIWGpsLUdYNkxOTjRjZGY1OTV3dw?oc=5"
+        },
+        {
+          "name": "Neftegaz.RU",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY0FFeDBjcjl4WUtfX2xCVHJwTmRjbXRtdzdFWTdOTVZJZkczbnRoOW54Z2l0QUN5VFB1NzN3dzBNQVo5X1BBa3gwcEczb2tqa1ZEblZPeEtCYmd3SFZ6cjNLeGF1Yk1yQVpRUGhFS25UeklpS2lQcm04NFJKem5kTEl1Q05pM1VqVkluZU44X3h5ZXRpOTkzOWRHT3ZVbnN1THVFNGEzRmVjZTFlZndzN19nQUJocDdCaVNYSWFiMEdsWnZHeG03NVJMSlc2Zm5xRGg4bTNZdzRfUQ?oc=5"
+        },
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BV3ZRTE1nUVJSNDExeDV2YTgyUGR3YmNlY2J0d01Lb09haFNMZHF0Umg5Q0VuS0syc2h2eF95ekhpYmFlTTVmYmZjZFo2QdIBS0FVX3lxTFBKWFkzRHJGQmRSRkVvSy15WjMtUXEyN1JOMjFnTUw0UlhxR0gzRHR2bTJ5WXRLNzlpYjBmbXdiU3NQb3JmNl9iQWhLOA?oc=5"
+        },
+        {
+          "name": "Вестник Кавказа",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRnB2Z09XdHZtdTlyNk1faHRVbWxSTWgxRzNWaGMxcGlteDJQQlgzeWhJMzVTS2FXMEhScVNpUmJZb3YxSTZmMWF1cnN6Qm01dldFSmVnam1ZRnNuVERRRk15d0N1TTIyblhwMWxzalJJSDN5SVROTmFJS2xTbFpVZm44Y25mS3Fyb2hTUllHajJFV2VSeDJab09sWHo0UVN0eDdfZktUQjhzQVJf0gFKQVVfeXFMTU1ybXVkOTFmOXdoTy1nVkU4UzJjbXdyZ3RZbXBndmp3c2FhSXFzeGJERXZjc3lwUHpELUNjY3FZbGdrcWlYcTZPd3c?oc=5"
+        }
+      ],
+      "publishedAt": "2026-11-18T07:32:45+00:00"
+    },
+    {
+      "title": "«Это безответственно»: Стубб раскритиковал Европу за отказ от диалога с Россией",
+      "summary": "В подборке публикаций: Военное дело, ВФокусе Mail, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "Военное дело",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2RrUE1hdjNIcXVfRjVmOVZfWmNoY0NESWFYcG11M3o3RjVGbjFncHJwWGlsQmM5SzZ0Q2NsT1oweXBOUXRnSFpNQXhTUDZkcnNKckQzWjZGcld3OXg4VE1nMlFSaHpraHU5aHoyT0h5YkpjT3RqLVRsbkQ3dmYwcE1EYWZXMXNveTROS1FwWllNbklMUjNHWkd6LXFPYkhWUzhxQXBUTE5tTXRaajJfcU1qTTE?oc=5"
+        },
+        {
+          "name": "ВФокусе Mail",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTgwbnNBVEIyckc4MnZMTGl4STN4YXZCSjIxNkNUcTVuR3YwYU1ZRGRhTHpyT0tLZERjRndweU9HSGJGaktjcnZkbS1aVldhUV80bEdmbXdjaTZDd3RYZkNZSkowWFV0eVVERWRLSTFxTVFBSlI5YmJ6X3Zqb2U4ZTVEbmVwOVV4Z01XejlyLXVONU9UM1dDNU1hVGhiTjg?oc=5"
+        },
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91b3lzNXdwZmJHRU01T2p3aHhmeHUtNDUta0FqRTEzOVlBdldianotSHRyLVpxSmpBd1ZReEVLVUticjlSZng4Tk5jRTR3Z9IBS0FVX3lxTE56cE85UkEzR0ZReXRudnZ3aGI3Yng5eUltbzZwTHU2TkU0RTRGUVJpNjZiZ05ieTZqMXRWZjMzNlktWFQwNXdhMTdxUQ?oc=5"
+        },
+        {
+          "name": "BFM.ru",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1GNFNiNXBCT29XZmdaS0NsaG56ZUhnX2lkb1pGenh5VEFRa25MSEtTN3p5Rkp2YWwxOGZJY0h3TFBLcWkt0gFKQVVfeXFMTklKbnVaVDBhSzJPRGhpaElPejRPSC1Ca3V0RS1HQmZOZWlaT3hlS01oSU1TenE0a2YxMFpZMXJEQmVNckwwRzU4bVE?oc=5"
+        }
+      ],
+      "publishedAt": "2026-11-18T01:37:01+00:00"
+    },
+    {
+      "title": "США ударили по Ирану после атаки на Бахрейн: Трамп пригрозил Тегерану из-за «грязной бомбы",
+      "summary": "В подборке публикаций: RTVI, Интерфакс, Euronews.com. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "RTVI",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMGltQUhEeG9Dd0diaTVmMnR5cjBveWh5eHVIUWNOYTFjQ1FiczFFZjhNRmtoZTVNN0dweHlkRFVtNVI0a2RkLWZLSmFmRFo5ZkxBcUsyQWgyeTdFY1E5LTVSUXFoQzJRVkNrR1E2SFFGSkYtRG1kTzhFcnY0eW1LWnJJaGVzU3NS?oc=5"
+        },
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPWG9rME5UZHhzSW9SNk5QTTk5V2Z2LWsxcFRuczFoWHA1cUw3QXhlX0pDTDdZZVNOQmoySG9hNEM2a3ZjMHVSUVR2VFVKQdIBS0FVX3lxTE1INXh6NDZZelFveTJtMHZGUHJZLWVnTXNfLUhUS1hhelpycHgya21WMjYwQjhUbVhsX215MkwxT3dDbHY2Q2czNzQ4QQ?oc=5"
+        },
+        {
+          "name": "Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU0hCb3Y2WUQzbGZ1Z0tPb25PSzJvZWl2V1VIbHA0ekZfVmM3UWQ5Sjl5R1RIR1FZXzJ0OE53d3lSX0ZQZmR5UlkwVkV0QXgtRFdVRVNhNVRWTFNRVTlQcThUZjVkaE5xN3Y5YWFBUHF3RkZib2pWUTZpR0FSZmxfSGxVX3BsU2NUOUQzT2VXbm5tU0dzLTdxeUsySEdXX1RYcUJzb2JYdU9QdU9sVHFKNGhybEw?oc=5"
+        },
+        {
+          "name": "Вестник Кавказа",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tZW5NeUpYV185RWhFbFVFRi1CaXdmUXV4bmhoRXVzM1BMOUdTaldGanVmQnRRaDdxNDd6OXZVUEZJNWVRVnVFRlhwMnJPc2JXamN4Z0FJY1h6UG5STVNUUFFyd002d0pRZmtKZnVWLURzVWx0SmVBTVdZUdIBSkFVX3lxTE1Kd3puMU1ZbkRjaU5jWjZZenVnM0lGYmxjcHFtYlNhSXBucXVuTUZhZW1jOFBRN2tkbWo0eWZQXzd4QURuX3dIRGRB?oc=5"
+        }
+      ],
+      "publishedAt": "2026-11-18T06:32:43+00:00"
+    },
+    {
+      "title": "Удар по Киеву в обмен на иммунитет Трампа: в Конгрессе США готовят закон",
+      "summary": "В подборке публикаций: EADaily, ВФокусе Mail, Ведомости. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
         {
           "name": "EADaily",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LcGstZXI4SkpsN1V5aV8yMjNlcHlQYlNhcUp0VmJlSXpIOUdPTUxfUS1CaWhHNDVXenBHYW9jTWxTUFpQc2c3bHpZaTlCY1otbXFyd3BrN1dVRElpckNZYjA4X0FlX1R0XzNrajNNLTB2RE53MG5z0gF7QVVfeXFMT19VeGdUQTNUTDRyRTI5aGxVcnNvTzN0ck43Sll1RVF4R1NQQmpPdzdXUmdycnZFZjBCRlpXVXduSml1TWlDOVJURHI4NE5ibjJGdDBOeF9veEFJaWlqSGJIem12Y0xyMDZLdXVZdEp6T21MZXg4T1FITDdJ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMlBwVU5kR3ZkSzA2TW44QjRRRzdVOFdYOXR6alZpZTZNY195WEw0X2lfZ3RFSUtuNE5UVEx0SngxRmZ2Sk1XQzRKbWxIdTFaZWt0TGQwdnFINmhNWndIWkZWRG1taWxJZlBRUTBBblMzMjJBeEl4bW1YbjR2OWMxOE5BMDFuMElDY1FBYVVKY2xFZGwwaTdLblN1OTdCR0ItTDNTekxKWlRKVWhOcDZXLUt30gG2AUFVX3lxTE5iaThpN1JZQ0lGQ0RROXhhTl84b1BBb2pzYXA0cDkxejBxcXJoa09jRGdCc2E3TjdtYnNuQ3prcFUwMF9PZUx0NHNZNTdlODYzQUozamRZNjllWl9ybUNNTjNYSERHLW12X3o3N1VFYUNpYnZhX3BEYW1udEhiSWtWS3RrWEtjZFM4dG5jcWJ4NGRHcEZldXRUbEdsbkczbEtQaXNLTkhONHV5ZjdKRmFPVGQzTm93?oc=5"
+        },
+        {
+          "name": "ВФокусе Mail",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVklOS3NuS1ZVOW1RaFQ2MjM4ZmI3Qk54YWJKeWVaTjlQTTRUTGJTS3dLS2oxTjhpWmdqaUNvcW8xWlJRbnZxUE11Z254OXJVTWNPOGRDR0ZqZzd2R1pYNmpfOTgzc05ZVjduVkhiSDNON210Q0dhV3Q1UjVBMHVGc3pjQ2JfSjNTRWZZUzFB?oc=5"
         },
         {
           "name": "Ведомости",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGVVY2hFMkhOSnNiM29ydlByQWloUXBYMXBIR2k3SUdGcGZuUjlHU2ZTSkpMMjR4eGtCR19DRnE1eTJJRlBHN2RpWUtpa0ZjdmRVMkFra3hSamlUcElGM1JUWnJsRVo5bkQxcGdqQkdDb1plb1pESUJQWGpwWXlIZjVCbmdHbkdTVXQ0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWHJka0tIcEU5N01Fc1ViOVRRSHNLZzRmeDhZQjhnZGxVdk1YU1FoUHBZczRqUVhKckhuRjVIUzRPcnlGY3B4VFlsbDRmM1RoNl9FellYa0JMODNQem1kaWJUWW1NN3d0alplckVhTHZpbEZhS2NnQnZoX2lNVFRIdmE5SG1KNEpqSFVwcnpINjRsc0kyMkFEZGRuSkt2UzRMd1pSZVpoM185RDA?oc=5"
         },
         {
-          "name": "RTVI",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUENzb0I4ZjZXZVB5VV96MEJRa29zOUFiRUxhbzF1bENESTQ3WTRoZHBXa1h4UmFRaEJ0WHhDSm8wRE9LVjBkb241bU9NSzRZNUVTZ0JIMjNlY0RaZkE3X2wxTUxIZndaNUFteTM1T29pd2h1TWliSkJ4TVRUcHRQWg?oc=5"
-        },
-        {
-          "name": "URA.RU",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZVE9LaDVPdTNLRUJTX3NiN1JpNlViSWY3cGlmRkFmQktyMzhrcXMzVG9vZllScVFCcEZXaVJWVUdta1luRHJ3?oc=5"
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NX21uNG96ZWFmb0p3d0E3SklENkVmV2VHNVZuNVpxVGpRQ2QtMkRiN0FVZ2FES1JwSGRmZXo2ZEZBeHhHNXpmZEVlbnlEUdIBS0FVX3lxTE1zdDA5MTNERWl5NXpnYWxFbzhtZnFhRHUxX1NBRFVnRjk5bllXT29NZUhoa3lsU1paU19nZFFCMFFzQ180ZDJScXJlZw?oc=5"
         }
       ],
-      "publishedAt": "2026-11-17T03:30:00+00:00"
+      "publishedAt": "2026-11-18T09:45:00+00:00"
     }
   ],
   "russia": [
     {
-      "title": "Пользователи сообщили о сбое в работе хостинг-провайдера",
-      "summary": "В подборке публикаций: VC.ru, RTVI, newizv.ru. Подробности и разные версии событий — по ссылкам ниже.",
+      "title": "Путин, Трамп и Си встретились перед приемом для гостей саммита АТЭС",
+      "summary": "В подборке публикаций: kommersant · Telegram, rbc_news · Telegram, rbc_news · Telegram. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
         {
-          "name": "VC.ru",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iMFBsM0syZWg5YzJ4Njc4QUJ0NXd6TmdwZXphSXljSTRidGJqT1c5Wl8yRHhSZURINkI4aHpib3E3UXNmYURScUdReHQ1c29zQlladFpWRkMzanZSbTZkRExLYXQ2TmlTdEJNeWFjZkVKTnlfMzRZM2lyOA?oc=5"
+          "name": "kommersant · Telegram",
+          "url": "https://t.me/kommersant/119830"
         },
-        {
-          "name": "RTVI",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdklCVmdiYVotMFVzNGlMWlpHOTVmSWZXMWZubE9PSl82bWRSbUxtSHlYTDA3dzA5WGxPZUliSjZoZ01PVXBEdDVPUHpjVzlvWFVURVJUZjVvU1Jzb2FIU1VhbGVaaWJlZGptbnlYQnhDbTlTLVRZb0t6M0F0TFpIb1Bta0h1elhNVW0tOHZMNmF0Yjl6b182NA?oc=5"
-        },
-        {
-          "name": "newizv.ru",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT01RQk9USWhEdldaTnR1RDgxa1VlOGZhSHdMRlpKelhUbk5NUnZjVkNxai1zQ3NQZkRKaFRGWWpVTUlsT0o1MU5sZWFMbVd3enlMVlJkRXB6SHJXd1RwaE9relJMS2xlQ3Z2d1dlcVc2M3BXN0lZdW8wNzMzR2NsaGgySXlaajZIcXVPSkpQblEwMmNKVE1HWk9NOTN1X3JvTV9NeDBWRDBCMVRYTUQwVmRwSEdudEQ3S3Q1dQ?oc=5"
-        },
-        {
-          "name": "Собака.ru — Журнал о людях в Петербурге",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84OU00MDYyeGxlNjVhNnVwbEJCMGZLQUVMdnhRR2MzbDFBU3B6aUo5OV9SY19nLS1ITFM4ek1CLU9pWmdndGlPYzBGWmY?oc=5"
-        }
-      ],
-      "publishedAt": "2026-11-17T11:11:25+00:00"
-    },
-    {
-      "title": "Чего ждут иностранные СМИ от саммита лидеров России, Китая и США",
-      "summary": "В подборке публикаций: Ведомости, ВФокусе Mail, Forbes.ru. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "Ведомости",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRFJndzBjc1J2S1FSSDRVeE1yRU9hM1RXZnFPdkR3aERDbzJmQ1BpQVhXdmF3RXJDUGltSGVVVzllYmNaaVFLbTByaUQxWkdDT3NrRnpyT0NvVGc2aUxONXZRcUZTbGN0OFdFQ0lhdlZEVnBxSmQ1cWVzWGlEb1hoaTB1ZjRaR1VXOHk4Vg?oc=5"
-        },
-        {
-          "name": "ВФокусе Mail",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjc5WlFpNVdvYmkyYVF5MEJxYXRiUXU3NkEyOHJDQlJ1bzBkMm82Z1praG9tOUxzUWJKSk1ObE4xQ3JSeXU0VFM0a2Z1ZTVlQzlZbjNOc0NnckRCZGhsdjEwOFo2UHBkOExydzl4akNTby1DZnNpMzd4Zmt1X3RESzhqdE9QNGszT1pRcURJY1I1RDlVRzc1Tm9ybnZxRTlIRURQSHowQlhaZw?oc=5"
-        },
-        {
-          "name": "Forbes.ru",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRzl1cFM5SElCdFUzbm9YYmlRU19ndGRhMUFqcm9fX2NZNU1MSmdpQ3NXVUFtWDhHZVRuMGRrQ1BKU20wcEtieU5LTk5lTkRjVEZ6WG1MSU1TbXQzNWZmNy1QZU91Nm12amZueURQcTVzbU4yLWYycnMtWDdhOWZIanZHN3ZnVm15NGFXTVBSRzdJRmJieVYwb2VoZ1dZejVVcEswdjI5MEdESlJyS0xrd1UtdDJ4WFBSbFE?oc=5"
-        },
-        {
-          "name": "RTVI",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUHRNUVBhSzRwRVk0eVlNeEVvZlpUZnRsSDZuOWJxd2dJMTkwUm9yb1c3TUpXNUluNzhnMDNITU8xckZoSlQxWHEzVktrWUt3NzNwTlFZclduR0lBOG44N3Vodk9MWEVNa1RjRi0wR092OVRmOTJJa1VmVU91VkR4RHJCYTZwTW0wTGNSczNndVAwLU1WRlNoRQ?oc=5"
-        }
-      ],
-      "publishedAt": "2026-11-17T06:12:18+00:00"
-    },
-    {
-      "title": "Крым подвергся атаке со стороны ВСУ, есть жертвы",
-      "summary": "В подборке публикаций: rbc_news · Telegram, URA.RU, Ведомости. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
         {
           "name": "rbc_news · Telegram",
-          "url": "https://t.me/rbc_news/160860"
+          "url": "https://t.me/rbc_news/160937"
         },
         {
-          "name": "URA.RU",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5LZjRBYzluTHNBOVdQbnJLcVFwX1V0al9MRjQtSUlEcmplUHNpVGFGZVJ5UHVZUFlnUEtqMUFia2ZmRFhYYnJn?oc=5"
+          "name": "rbc_news · Telegram",
+          "url": "https://t.me/rbc_news/160929"
         },
+        {
+          "name": "rbc_news · Telegram",
+          "url": "https://t.me/rbc_news/160927"
+        }
+      ],
+      "publishedAt": "2026-11-18T11:36:16+00:00"
+    },
+    {
+      "title": "Высота снежного покрова во Владивостоке местами достигает 15 сантиметров – Новости Владивостока на VL.ru",
+      "summary": "В подборке публикаций: kommersant · Telegram, Новости Владивостока на VL.ru, Интерфакс. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "kommersant · Telegram",
+          "url": "https://t.me/kommersant/119823"
+        },
+        {
+          "name": "Новости Владивостока на VL.ru",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBraTRGT0pfU2N2VVUxX19lbmZ6WXROY3RldFdBLUJVR05vNElWM1ZGa2QxNHZfVThoSWtuN3l0OWstMGtTVzhoYUNYTG9QU1hxbDc2TDI3RjU?oc=5"
+        },
+        {
+          "name": "Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QbWI2VHpKUURxb2k1alctUmtpdVdobm85RVI3NGljYU82MzZHbTNPaVp6SXZ4ZzF6Y195V0Z6QlNDQUpuR2EyenFHRWlwdmfSAUtBVV95cUxQWG5lTkVHVHJFRUJCYVc2VHNQbWVtUXp0QVV0dGFXT2NiUTFKcElZVXM0MkFUc0hmRTNkOGI4MFpYTXVOeGFmek9wNUk?oc=5"
+        },
+        {
+          "name": "vostokmedia.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFVjMWJ2ak4tQ2hrVzdRelZtTUJLLWhFcFdzR3hVSVNhb0JwTTlWSUFjNmNVU2xCX1E3WTFTUllpay04azlBbkxrYlFTZllPSy1DRUxiYVUxWVdBTjM0dEduTXZ3clVqX1RIc3czTU40bWFaaHBBX2V2ZjNwajVZUzUydWQ0UGZGYV96Y1JMRWRmRnlPUG9Wd2Z3Z2RhTFoyNUlOREVLcnFVTzc0a0ItRDYxemlSVG1neEtxbkFmTQ?oc=5"
+        }
+      ],
+      "publishedAt": "2026-11-18T01:43:00+00:00"
+    },
+    {
+      "title": "Минтранс рассказал о сообщении через Крымский мост",
+      "summary": "В подборке публикаций: Ведомости, Meduza, DW.com. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
         {
           "name": "Ведомости",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV1RLbk1FWWV4ZGs1b2JXSnlvQmtQeTRoR2o2bVA4MTZobFZGUW8wWFh6cXp6ME5pMUdnS1JrZHNsdi16YWJUVHhENVdCRk02NndEWUxGRUxrZ2didHY3Q2VBU3BmSzFrUlNZc2pZT0JsU0tNLTZyTlVPci1jbDh3b0UybWJ1UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSXdDUC12UzZ1UHpSdzNuVExYMmxxY1VDYXdDVmgxbWRHVEh5RDllOFUtdlVCVXhDYVVUYVA1RTl0a0hKMGZTSFVTN19xWDlCM0xiTHp2ZHoyMm9PcnRQdEw0UTFHZUZXNU1yaWk3U3VZcWhfZzBWczNkQjhlUHZyY1JCVnBwTDc0ZUx2NnNuaw?oc=5"
+        },
+        {
+          "name": "Meduza",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeHVDUGlXekplbzMxRGNaZnRBVWJydUlaTDBqVGc4SXBlNXVqd3hIOERRZEpYdTNHaUJUWjJSaVBOYldOTHllSDh4dV8xQTExR2pmeE00eks3WWktM05VSXZubVRxb0VRMkk1WkowQXp5c1RCZTg0WjFoQVo2cHoyb2JINlNnWU3SAYwBQVVfeXFMTi1qNG5uRDBSMnZCejNWdFd4aXBoMFNZYjJPUFg3bVBHS1prcU5Qc3R4bUp3ZjlIbjZWNzB5TWJtZW1FU0tXZTFPeUlUMjZzOW8zUDgtbmZadU9IM0V6Y2gzMWtMNnprQklZamswUTV6eVBfcG9yUy15Uk1xUDdQX3RzTExBVXpMQXpqRkI?oc=5"
+        },
+        {
+          "name": "DW.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1BDMm9LYl95MzkwSXU3clZZaENJVm9jT3lHZS12RFk3SDNTN1dvdkw3NFptaHBmWThqWnRYQU0zeDEyTzBVVGgtdXdiWGpnU3lUQzE2QVkyOWVKWV9zUFIya2J2dUw3UVJiU3V0NzNJMmE3M1RNbTJQczltVk5VZk9RMC1IcG1GNHhWdzhEcXVUV0ExRFUzNlkwcFI2LW5vbUHSAaIBQVVfeXFMTzhNMVNVNmJQbndmaXVlcW9TVnRWbG84UlVEQURONFN2NUt3S1VFUXBSckJfakxDSUpIN2NJLWd6RHRLc3ZORmhYS3lvdDdWYm9JUzd4R0RpMzdhYTFCclROVDQ2azd5Q2xadXpwd05rXzk1b2tKc1p0U2F4eEJDUGw1R3g1YW5nR190UUNJc2hUd2xvOE96b2g4X05GcmZRdFNn?oc=5"
+        },
+        {
+          "name": "RTVI",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQekJ4RE1YRFA0bnhvOG9RTzBickpwdkFQLXRQMWZTeExvQUxyUndnTWtWMmVFZm90RDNrbkdPX1FENE9WQzY0Wk03WnlLT0RGMEdoUzJpNFZ0UEVteHkzMUNHLXNCbzNIa1d4ejJQQWpLNm9QcDk3XzV4WkdDQ3YtNWJzVU1OTWZSMllyWEU4NA?oc=5"
+        }
+      ],
+      "publishedAt": "2026-11-18T06:38:02+00:00"
+    },
+    {
+      "title": "Обстановка в атакованном ВСУ российском регионе изменилась",
+      "summary": "В подборке публикаций: Lenta News, Neftegaz.RU, BFM.ru. Подробности и разные версии событий — по ссылкам ниже.",
+      "category": "В фокусе",
+      "sources": [
+        {
+          "name": "Lenta News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1BLRGlERjYzSlFVT3hGVGw1YnA1cF84UUFxbUZfS2lfQnZjNVVZMjRFQ1FqOENpWE9kVFROa24yd0YwcWVJc25WdlhGNGk2R2FuOXd1d29hMTVUOWp1OFUweVJGN3FjYlAzUjdjUWhpcG8tMWpTeWI4RWVrX1Y2TXNjcHZSWlZaYlNQd3R1WDBKQWNyRnhwV9IBngFBVV95cUxQR01MSlo4SURVRWVXYzJPcUFseXVXVFEwTTZVNm84TGJ0Tmlid1ZJTUVidUdLVXRHSHA2ZjJpblBZS0Fuc21LME1rRU1qaXhTQXY0SEJyQmxTWE5jWjZua2hHVExGVkJWZ3VKSEdYek8yTmFQcEpPb0h5Z0I1MWhhYmpMZzI2aVJZT0VmakNLU3Z3cjVSVVhGZFJpSGhFUQ?oc=5"
+        },
+        {
+          "name": "Neftegaz.RU",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN0FpemlON2RSUjF3ZlMwX0RfLWdLOXJ4S21qcXV4NTNZLTVqM09EWTAyei1FU0JlbGV3aDRWc0lXSFJxMEtFV19ySHdodmFHSjd5UDNDU1hNbUlKM3VPcG5XZVpIaUl6R2o5bzJhUURjcnVpampTZGZSN2FfbF9BNDlYTDlqbkVGbTlYc2dwUHcwQVBoVW9tUEJrU0pEaC1NUVZ2NjhPNGdNODR4Uy1BTl8zenJmaVU2YTVfbGFfc2FVbF80OGd2T09pWmRBMFR1bGxaSEI4WjNZdlk?oc=5"
         },
         {
           "name": "BFM.ru",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5UcEZUOHhMc0UwNHcxcjVQczEwdnRMODA5bWlVOWtSYVFCVlpybmVkaE5hQmdpLWFXVDRXXzRCaDQyTDdW0gFKQVVfeXFMT3dsMUg1VG5pQzlFWk1PREVqVEhPV201OXRHSS12aURKcjItcV93YURjWm9ZSGFxNjFsUUJPWUlEOUdpZGRuMUNoVnc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5MSUNTTTc0ekRmU2Q4Q2c0WU5BbE5EMjVJT0c3MjlBTE4ydVctM2Vid1NYVmw5VzNlNk43LXNQWF9renZ30gFKQVVfeXFMT2RqenM4bkZOQzc5QjlFal9DZ2FMbHZTRWpRUHdUTl82MndwY0pMMEZYN2pUeENIaHR3Z18yVGE1VEFyT0NTMWdDM0E?oc=5"
+        },
+        {
+          "name": "Meduza",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQallHVkRjQVNLTk1vcXZ0S1VuVUVCOEYxb2NDY1gxNG1IaGpuZk1jUUJMWWs4ZWM0ZHU2WmQ0NUwwMjQ0V29pazdWOFZydnhrc043VGY3bGZMUGpYZ2RoV3JYenN5Mk9rdy1odUZiVkZVS01kWVIwWTNGNzkza25iNkRUUDhuU28?oc=5"
         }
       ],
-      "publishedAt": "2026-11-17T06:03:00+00:00"
+      "publishedAt": "2026-11-18T11:59:00+00:00"
     },
     {
-      "title": "ВСУ снова ударили по Крымскому мосту",
-      "summary": "В подборке публикаций: Ведомости, RTVI, BBC. Подробности и разные версии событий — по ссылкам ниже.",
+      "title": "Деловой саммит форума АТЭС",
+      "summary": "В подборке публикаций: Президент России, ВФокусе Mail, Ведомости. Подробности и разные версии событий — по ссылкам ниже.",
       "category": "В фокусе",
       "sources": [
         {
+          "name": "Президент России",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44T0NyNkZaQzZER2dRMk55WWVKYjdBcWdjZUNDbmVPeTAwcjVNU245SGxqSnFmd0VQaTlGSHdrTWloU0liTW5yQkFDbklNV0V1aTJqNlpKeVE?oc=5"
+        },
+        {
+          "name": "ВФокусе Mail",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY1ZBaWFoWkU2bHZCOFlHWWliQ3c0dEt1amViZkRyV1haZ25nYmxqbHB0WW5MT3lxcEpyZW1TUW45MFRQQW9nMVdVck9zb2FGWGlBb1JOckk0X1lBa3RCdF9ieUtXYmFJMHh3ZURmeW5KYnZTOS1CTDNLb2E2WEZxWHZILS00V28wNXVINkRYMk81UTN1NkNSWEhB?oc=5"
+        },
+        {
           "name": "Ведомости",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNWJUQ0o0LW5rUjJMUkV0QUxpYmpJWFBwc0NrTTBlOFBiMmhfWlFVY1FKcFNacnVxWGlJYjhEOU10Zm95VVdYSEgzZzQ1S3FHeUgyZWdTa05GZWZZVjQwTDBfbFBPYWkteU5FVHlEanRGeU4zQ0xMcVowZ3ZuamowVw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwQld1Q3NTUTJrcG00T1ZUeEtLRkZzZ1NraGsxYVcwZ1lyNHZueGtBQkpqSWN1SUEzTXE3TWtMaW50R2ltWlE2YnBPeFMzVUVEUWVCR0NrRHNzemI2ZFQ1cU82VFdnd09fVG8zMnZfNjBQc0JBLWVSWHlIdWY?oc=5"
         },
         {
           "name": "RTVI",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORGE3TjBzZ3hGU2pPVkNmQWZ1ZDY1RFhDNUZSZ3AyX0VXR2VRSndJblc2SXFkdC1ta0ZUek9nSXdFSDlBVzM1Y3NKSXJIRlJaUnZFUl9EbEdkbDdjWFRaR1FKdnBOQkh0NHRUTzVBb05aZkg2UG1OelZrMzdJWTBCdHgtU19IdlJzMHdDR0ZvTEpDWkJHUzRxWnlB?oc=5"
-        },
-        {
-          "name": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BNHRzdUl5dXJHcFJDdUJfRVN6YzRhbTRjb2FSSHd2cHlDcmVmQWxJdFJ1OG11MmJfMmt2SnZ0WkM3cXVYWFpBQU9EZkZXNjlrWTBwNS1kdWh0Zm10cUR0LUg4bUg?oc=5"
-        },
-        {
-          "name": "Радио Свобода",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdDVmdnB5YXlsZ3dKNllRYkR3QlVCSFlQV1NDSXZxY0E1QnJKUS1sbDViVHhycS14QmNjV0Y0UW9wbzBHSlpITk5hcE9WeTJ1NGY2Z0tBYmEwb09EV0ktYjBndU5pTTgzUmxMMnBKd0YwMFVCUF83Wi0zQy00Y2V6SUNYcFZuWWpZcFo3V3JJd3VsVm9sWXdQdNIBmwFBVV95cUxNbjUxdVZoaVRKZlUwOTNrbWFDalhkQ0hzX3FuYThhNVY3TnY5UEg2S1JvOG5QTXUwa0VpSHFQaEU3RVlPaWdIRHFjdGNqS1pNdXphY0tZQ19weWZoaDhDOVNFeVBQS1B1RkhwWnlSeTEwbTl3ZkVBbjczdkJMSEFQOHRqenVzVmNoX1VrbmhfSThLRnJVWFFXUFkwWQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44eWNwMVV5Wlk2X2FndXNBaHBZajV5azlDUDZoMFhEcmVPRjZhUjF3OWNGOEZVVjl6VWZPNjQ2bmg1RDQ5c1hKc2MzRWlYWTVObUZ4Tzdkd01OMlk0VGVQY3NCQktUOTJKem1zTXZhZDYyZ2s2dk9GczhaSQ?oc=5"
         }
       ],
-      "publishedAt": "2026-11-17T03:09:32+00:00"
-    },
-    {
-      "title": "ФСБ сообщила о предотвращении серии диверсий с применением БПЛА и гидроциклов",
-      "summary": "В подборке публикаций: Интерфакс, Ведомости, Радио Свобода. Подробности и разные версии событий — по ссылкам ниже.",
-      "category": "В фокусе",
-      "sources": [
-        {
-          "name": "Интерфакс",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2NkFUaDdPTlZyTVdaN3NNeVhDNDkwN2REeHRqUkV6cjRQWVJGZzJpS1BJT2dIUmFDd0lKMW1TWDhqUTQ0UndJOXd5RExaRlHSAUtBVV95cUxOLXNEZmh0OWVLeXFlaUdZeUVXYWVzSDFYaFpkSTZxZDlYMzBxdzJRdklnZHdCX0p1Ynd4QWJDQWdNNGllSFh0dS1rQWc?oc=5"
-        },
-        {
-          "name": "Ведомости",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zeE9EY0QwLVY4aC1GMC0zY3paVWVSNzhnMkF1d3JCLUJCMnZNbU5nUWlGLWE0MU41NVJuZWc1RWpRZlFJYWhXOG01LVdZY0ZUbERmd0Z6ZUJfWmxfdjhBbkhZa0hiNG9XcUZYLVBVdWJfa1RmaXZMSlBXVTFEcHM?oc=5"
-        },
-        {
-          "name": "Радио Свобода",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc3VpZ1V2SEw0c0h1NVFrMmdqRl9TMnBzT2JBLW54SFRoZUtfMVZYSnFGWTkzaVRaY0MyclhfTnNQX0xwZnFYMXZnMjRWNERGTEtvalQxVVNaOU9wbGJ3cjJLMGlxZy11ZGpGZ1AyZ181VV9WZGFEek05bHNFWHVpU0FEYlVVaXBzOU9aQW5VQnh5QkdHWlEwbWJqQWdrQmdMbG1HdDl0aThCclp5MTVOZ01laEdMTXRqY1dSblZTNHRubnYzbTRzaTIzVzZkdjTSAdIBQVVfeXFMTlpTWnFwM29uWHBIWDZsVExFdW1wdXYzZnM5dzFmU09nRTVxRk9Vd2dqZFdYOHhZSjFOdTFsS3Y1ckk0VTMyUTZYQlgwNS1HeU5tYWtCVkFWYkJxUFlMMHZfeC1sQnNNeGNXbTFadGFjMmxPQUVNNlZ2NGVhdjUtb3lJMHRjYlk0TkVGMlB1OHlWWEYwSkZMWXlWVTRYdmtQRVFRUF9femZ2NEc5T1NPSFFQMzRBSzJBdmVwNmItQ3FfV2d2blI5dFFMVDkxNzVmWkN3?oc=5"
-        },
-        {
-          "name": "Медиазона",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0V3Q2TzBHUVdLYjM2dW43N0lHajdSQ1p1a0NDdndDYnlhVmQ2SjJvc001aF95azFjTTY1SWZ4MHNjZnpWWUpTWlRYOE9Mb0E?oc=5"
-        }
-      ],
-      "publishedAt": "2026-11-17T05:58:00+00:00"
+      "publishedAt": "2026-11-18T06:15:51+00:00"
     }
   ],
   "telegram": [
     {
-      "name": "rbc_news · Telegram",
-      "url": "https://t.me/rbc_news/160871",
-      "publishedAt": "2026-11-17T14:20:32+00:00",
-      "title": "Подписка на страхование жизни и здоровья стала доступна не только на сайте страховщика, но и в «Сбербанк Онлайн»,…"
+      "name": "kommersant · Telegram",
+      "url": "https://t.me/kommersant/119843",
+      "publishedAt": "2026-11-18T13:56:24+00:00",
+      "title": "Госдума приняла в первом чтении законопроект, разрешающий размещать фудтраки, автомагазины и мобильные АЗС на площадках отдыха вдоль автомобильных…"
     },
     {
       "name": "tass_agency · Telegram",
-      "url": "https://t.me/tass_agency/406175",
-      "publishedAt": "2026-11-17T14:19:51+00:00",
-      "title": "Российских фигуристов не пустили в Финляндию для участия в этапе Гран-при ISU из-за введенных ограничений на въезд граждан…"
-    },
-    {
-      "name": "tass_agency · Telegram",
-      "url": "https://t.me/tass_agency/406174",
-      "publishedAt": "2026-11-17T14:15:43+00:00",
-      "title": "❗️ Мирошник сообщил о гибели 64 жителей РФ на неделе от ударов ВСУ, среди них есть ребенок. Также…"
-    },
-    {
-      "name": "kommersant · Telegram",
-      "url": "https://t.me/kommersant/119751",
-      "publishedAt": "2026-11-17T14:14:48+00:00",
-      "title": "Как стало известно «Ъ», бывшего совладельца «Азбуки вкуса» и «Кофе Хауз» Андрея Вдовина заочно приговорили к шести годам…"
+      "url": "https://t.me/tass_agency/406388",
+      "publishedAt": "2026-11-18T13:56:05+00:00",
+      "title": "В Москве на 87-м году жизни умер бывший министр печати РФ, бывший зампред правительства Михаил Полторанин, сообщил ТАСС…"
     },
     {
       "name": "rbc_news · Telegram",
-      "url": "https://t.me/rbc_news/160870",
-      "publishedAt": "2026-11-17T14:03:44+00:00",
-      "title": "Венгрия приостановила железнодорожное сообщение с Украиной из-за падения беспилотника в Закарпатской области, заявил венгерский премьер Петер Мадьяр в…"
+      "url": "https://t.me/rbc_news/160938",
+      "publishedAt": "2026-11-18T13:50:58+00:00",
+      "title": "Власти США и Южной Кореи призвали пользователей Java в срочном порядке установить обновления безопасности, сообщает Reuters. В OpenJDK…"
     },
     {
       "name": "kommersant · Telegram",
-      "url": "https://t.me/kommersant/119750",
-      "publishedAt": "2026-11-17T13:52:09+00:00",
-      "title": "❗️ Финляндия ужесточила правила въезда для граждан России, включая профессиональных спортсменов. С 16 ноября российским атлетам, в том…"
+      "url": "https://t.me/kommersant/119842",
+      "publishedAt": "2026-11-18T13:50:15+00:00",
+      "title": "🏗 Льготные ставки по ипотеке в итоге уменьшили общую доступность жилья для населения , заявил советник председателя Банка…"
+    },
+    {
+      "name": "tass_agency · Telegram",
+      "url": "https://t.me/tass_agency/406387",
+      "publishedAt": "2026-11-18T13:46:01+00:00",
+      "title": "Госдума приняла в первом чтении законопроект, разрешающий размещать фудтраки и мобильные АЗС вдоль дорог. Получить разрешение на их…"
+    },
+    {
+      "name": "rbc_news · Telegram",
+      "url": "https://t.me/rbc_news/160937",
+      "publishedAt": "2026-11-18T13:25:16+00:00",
+      "title": "Главные новости к этому часу. Кратко: ▪️ Владимир Путин, Дональд Трамп и Си Цзиньпин встретились и кратко пообщались…"
     }
   ],
   "telegramStatus": {
-    "checked": 48,
+    "checked": 57,
     "unavailable": []
   }
 }
